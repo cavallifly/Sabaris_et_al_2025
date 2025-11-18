@@ -6,7 +6,7 @@ Install the following R packages: ggplot2 and DiffBind.
 The programs pyGenomeTracks, samtools, sambamba, deeptools, and bowtie2.
 
 # Input data #
-Next, you should download the .fastq files from the GEO entry GSE274157.
+Next, you should download the .fastq files from the GEO entry GSE305456.
 From this GEO entry, you can also download directly the .bigWig tracks for all the CnR datasets generated in this work.
 
 Now, you are ready to run the scripts in ./scripts. To do so, you can access the directory CnR_analysis of this repository using
