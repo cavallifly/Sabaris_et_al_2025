@@ -5,6 +5,7 @@ Ensure that you have a working version of R. The scripts in this repository have
 Install the following R packages: ggplot2 and DiffBind.
 The programs pyGenomeTracks, samtools, sambamba, deeptools, and bowtie2.
 
+<!--
 # Input data #
 Next, you should download the .fastq files from the GEO entry GSE305456.
 From this GEO entry, you can also download directly the .bigWig tracks for all the CnR datasets generated in this work.
@@ -32,6 +33,7 @@ Rscript ${scriptsDir}/09_diffPeak_analysis_on_H3K27me3_tracks_using_diffBind.R &
 Once the scripts are finished, you will obtain the panels and the data points used to obtain them for all the Figures in the paper.
 To obtain the final version of the figures we have visulalized the tracks using [IGV](https://igv.org/) or [pyGenomeTracks](https://pygenometracks.readthedocs.io/en/latest/).
 The panels have been assembled using the PowerPoint program.
+-->
 
 ## Contributions ##
 The code in this repository has been developed at the [Cavalli Lab](https://www.igh.cnrs.fr/en/research/departments/genome-dynamics/chromatin-and-cell-biology) with the contributions of Marco Di Stefano, Gonzalo Sabaris, and Giorgio L. Papadopoulos.
