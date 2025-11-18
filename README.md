@@ -1,2 +1,5 @@
-# Sabaris_et_al_2025
-Scripts for the manuscript Sabaris_at_al_2025
+This repository contains the scripts to perform and analyse the simulations in Sabaris at al., 2025
+
+## Contributors ##
+
+The code is currently developed at the Cavalli Lab with the contributions of [Marco Di Stefano](https://github.com/MarcoDiS/) and Gonzalo Sabaris.
