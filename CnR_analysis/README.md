@@ -9,7 +9,7 @@ The programs pyGenomeTracks, samtools, sambamba, deeptools, and bowtie2.
 Next, you should download the .fastq files from the GEO entry GSE274157.
 From this GEO entry, you can also download directly the .bigWig tracks for all the CnR datasets generated in this work.
 
-Now, you are ready to run the scripts in ./scripts. To do so, you can access the directory RNAseq_analysis of this repository using
+Now, you are ready to run the scripts in ./scripts. To do so, you can access the directory CnR_analysis of this repository using
 ```
 cd CnR_analysis
 ```
