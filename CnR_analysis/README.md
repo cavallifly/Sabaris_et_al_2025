@@ -2,8 +2,13 @@
 We suggest to install [conda](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html) and create an [environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html). 
 
 Ensure that you have a working version of R. The scripts in this repository have been tested for version 4.0.5 (2021-03-31).
+<!--
 Install the following R packages: ggplot2 and DiffBind.
+-->
 The programs pyGenomeTracks, samtools, sambamba, deeptools, and bowtie2.
+
+# Input data for ChromHMM analysis #
+The list of peaks used for the ChromHMM analysis are provided in the peakFiles folder.
 
 <!--
 # Input data #

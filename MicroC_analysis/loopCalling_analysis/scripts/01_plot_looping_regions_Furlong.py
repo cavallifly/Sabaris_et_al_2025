@@ -91,7 +91,7 @@ norm = LogNorm(vmax=0.1)
 norm_raw = LogNorm(vmin=1, vmax=10_000)
 
 for condition in conditions:
-    coolFile = glob.glob("../../../../01_cool_files/*contacts*%s_*merge*mcool" % (condition))[0]
+    coolFile = glob.glob("./mcoolFiles/*contacts*%s_*merge*mcool" % (condition))[0]
     coolFiles.append(coolFile)
     
 print(coolFiles)

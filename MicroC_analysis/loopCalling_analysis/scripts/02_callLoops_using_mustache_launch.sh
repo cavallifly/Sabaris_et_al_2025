@@ -1,7 +1,6 @@
 #!/bin/bash
 
-conditions="larvae_DWT"
-
+conditions="Embryo_WT WD_WT ED_PH18"
 resolutions="1000 2000" ; maxDists=400000
 #resolutions="1000 2000 4000" ; maxDists=800000
 #resolutions="4000 8000 10000 20000" ; maxDists=3200000
@@ -12,7 +11,7 @@ chroms="chr2L chr2R chr3L chr3R chr4 chrX"
 
 replicates="merge"
 
-mcoolFileDir=/work/user/mdistefano/2022_08_22_microC_eyeDiscs_Bernd/01_cool_files/
+mcoolFileDir=./mcoolFiles/
 
 n=0
 for condition in ${conditions} ;
@@ -25,7 +24,7 @@ do
 	    do
 		for maxDist in $maxDists ;
 		do
-		    chrLength=$(cat /work/user/mdistefano/mishaDB/trackdb/dm6/chrom_sizes.txt | awk -v c=${chrom1} '{if("chr"$1==c){print $2}}')	    
+		    chrLength=$(cat ./scripts/chrom_sizes.txt | awk -v c=${chrom1} '{if("chr"$1==c){print $2}}')	    
                     if [[ ${chrLength} -lt ${maxDist} ]];                                                          
                     then                                                                                           
 			maxDist=${chrLength}                                                                           
