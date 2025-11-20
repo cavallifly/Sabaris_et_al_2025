@@ -1,0 +1,3533 @@
+Embryo
+sending incremental file list
+distPEscan_mC_ED_PH18_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k1_WD_GAF_allPeaks_Histones_k_3_k1_min10_max500_range10_N2450_res250_peScan_text.mtx
+distPEscan_mC_ED_PH18_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k2_WD_GAF_allPeaks_Histones_k_3_k2_min10_max500_range10_N16750_res250_peScan_text.mtx
+distPEscan_mC_ED_PH18_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k3_WD_GAF_allPeaks_Histones_k_3_k3_min10_max500_range10_N13141_res250_peScan_text.mtx
+distPEscan_mC_Embryo_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k1_WD_GAF_allPeaks_Histones_k_3_k1_min10_max500_range10_N2450_res250_peScan_text.mtx
+distPEscan_mC_Embryo_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k2_WD_GAF_allPeaks_Histones_k_3_k2_min10_max500_range10_N16750_res250_peScan_text.mtx
+distPEscan_mC_Embryo_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k3_WD_GAF_allPeaks_Histones_k_3_k3_min10_max500_range10_N13141_res250_peScan_text.mtx
+distPEscan_mC_WD_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k1_WD_GAF_allPeaks_Histones_k_3_k1_min10_max500_range10_N2450_res250_peScan_text.mtx
+distPEscan_mC_WD_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k2_WD_GAF_allPeaks_Histones_k_3_k2_min10_max500_range10_N16750_res250_peScan_text.mtx
+distPEscan_mC_WD_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k3_WD_GAF_allPeaks_Histones_k_3_k3_min10_max500_range10_N13141_res250_peScan_text.mtx
+
+sent 493,249 bytes  received 187 bytes  986,872.00 bytes/sec
+total size is 1,123,100  speedup is 2.28
+-rw-rw-r-- 1 marco.di-stefano cavalli 122K Aug 22 20:40 distPEscan_mC_WD_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k1_WD_GAF_allPeaks_Histones_k_3_k1_min10_max500_range10_N2450_res250_peScan_text.mtx
+-rw-rw-r-- 1 marco.di-stefano cavalli 123K Aug 22 20:46 distPEscan_mC_Embryo_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k1_WD_GAF_allPeaks_Histones_k_3_k1_min10_max500_range10_N2450_res250_peScan_text.mtx
+-rw-rw-r-- 1 marco.di-stefano cavalli 122K Oct 14 13:42 distPEscan_mC_ED_PH18_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k1_WD_GAF_allPeaks_Histones_k_3_k1_min10_max500_range10_N2450_res250_peScan_text.mtx
+
+0 0 -0.313592607646219
+79 79 -0.320867034386199
+79
+-0.36 0.64
+-1.5 1.5
+distPEscan_mC_Embryo_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k1_WD_GAF_allPeaks_Histones_k_3_k1_min10_max500_range10_N2450_res250_peScan_text.mtx
+Number of loops 2450
+-10kb +10kb -10kb +10kb
+36 44
+         line 0: warning: must give margins and spacing, continue with auto margins.
+heatmap_map.ps
+PDFCROP 1.40, 2020/06/06 - Copyright (c) 2002-2020 by Heiko Oberdiek, Oberdiek Package Support Group.
+==> 1 page written on `_tmp_heatmap_map.pdf'.
+  6400 _tmp_matrix_ED
+  6400 _tmp_matrix_Embryo
+  6400 _tmp_matrix_WD
+ 19200 total
+192 _tmp.txt
+ED 64
+Embryo 64
+WD 64
+Embryo 0.12494119122289
+Embryo 0.265681614438393
+Embryo 0.216972537947506
+Embryo 0.224412068063846
+Embryo 0.219231565985912
+Embryo 0.140339419034267
+Embryo 0.113180025210551
+Embryo 0.106784524144476
+Embryo 0.178877005150677
+Embryo 0.166858504910696
+Embryo 0.143299604976571
+Embryo 0.128396733614249
+Embryo 0.106716437594493
+Embryo 0.228014022035917
+Embryo 0.265518903229021
+Embryo 0.0694470015445303
+Embryo 0.293315410323811
+Embryo 0.298255203324329
+Embryo 0.199635565317475
+Embryo 0.1887932014622
+Embryo 0.178079552451841
+Embryo 0.234442399241358
+Embryo 0.188854734048926
+Embryo 0.266915613321501
+Embryo 0.175117253509461
+Embryo 0.0830737290015811
+Embryo 0.149485445314211
+Embryo 0.168548278997464
+Embryo 0.205578673428343
+Embryo 0.189868717893841
+Embryo 0.14396973558348
+Embryo 0.162433210397532
+Embryo 0.212530252553397
+Embryo 0.228019676880458
+Embryo 0.239609786609682
+Embryo 0.258208644999698
+Embryo 0.212471914408094
+Embryo 0.175439280175743
+Embryo 0.133477609703808
+Embryo 0.247851284911405
+Embryo 0.211822421578065
+Embryo 0.275431713719976
+Embryo 0.20925226089284
+Embryo 0.124536676594921
+Embryo 0.147799981431153
+Embryo 0.181689220575788
+Embryo 0.118054734333874
+Embryo 0.123772755748872
+Embryo 0.301983679347909
+Embryo 0.280798915943987
+Embryo 0.305717881718026
+Embryo 0.225141873135267
+Embryo 0.131826501859162
+Embryo 0.211873621101132
+Embryo 0.192774408257878
+Embryo 0.117595030039992
+Embryo 0.265144878716819
+Embryo 0.234049893580236
+Embryo 0.182209865987741
+Embryo 0.191353670243447
+Embryo 0.129073985291251
+Embryo 0.283373134158609
+Embryo 0.171617121860291
+Embryo 0.145697163293421
+WD 0.249685620684355
+WD 0.203351835273237
+WD 0.295180375583632
+WD 0.138201575610548
+WD 0.193517986984877
+WD 0.232495062457518
+WD 0.195735257249074
+WD 0.0911591029891293
+WD 0.233700623799522
+WD 0.259233368121551
+WD 0.37376596191675
+WD 0.235597377031759
+WD 0.312210865990684
+WD 0.317189903610218
+WD 0.276401055637729
+WD 0.206219861266996
+WD 0.214943008902048
+WD 0.224030164021017
+WD 0.30621383254026
+WD 0.352495758966842
+WD 0.0660323337497862
+WD 0.206414135216316
+WD 0.247000019353332
+WD 0.109581739581684
+WD 0.173041512395328
+WD 0.29174974082292
+WD 0.219276939508992
+WD 0.194696937671506
+WD 0.229227959899857
+WD 0.203255930771823
+WD 0.120603348470068
+WD 0.151491378138245
+WD 0.276391715256541
+WD 0.38799586639721
+WD 0.443503866492608
+WD 0.34544596870155
+WD 0.269404438559862
+WD 0.430333381380603
+WD 0.235115576106593
+WD 0.15922031815116
+WD 0.418358339615973
+WD 0.3033484857822
+WD 0.344558268734116
+WD 0.327074577165753
+WD 0.292382043808017
+WD 0.271820721325701
+WD 0.34491440914166
+WD 0.430468280292146
+WD 0.37637351343051
+WD 0.250290237624022
+WD 0.348855575263334
+WD 0.182102030452962
+WD 0.133673007938115
+WD 0.244521067952126
+WD 0.206477237414547
+WD 0.218972313791944
+WD 0.312946830767552
+WD 0.368515154683843
+WD 0.287220166894163
+WD 0.286596414513556
+WD 0.212280730951918
+WD 0.237437518912663
+WD 0.180375945073343
+WD 0.237168728566958
+ED 0.262842257247897
+ED 0.392683967906809
+ED 0.327555474250281
+ED 0.325702281086474
+ED 0.375391538440007
+ED 0.353842494142811
+ED 0.387617587804408
+ED 0.349692171093071
+ED 0.252179836809413
+ED 0.337585062476897
+ED 0.37351663323796
+ED 0.49884577706055
+ED 0.383646282467581
+ED 0.321028389740556
+ED 0.502751511153516
+ED 0.374738327696723
+ED 0.294675385465849
+ED 0.244889174326861
+ED 0.433152198802279
+ED 0.600165928338409
+ED 0.456433022638187
+ED 0.354904285203237
+ED 0.321297573052675
+ED 0.300786695955691
+ED 0.325146896550422
+ED 0.374576791775455
+ED 0.375031949544771
+ED 0.491659478341618
+ED 0.544323496276697
+ED 0.460259101010471
+ED 0.410698792121172
+ED 0.336037231363214
+ED 0.305015409410878
+ED 0.498119699199744
+ED 0.538683730792423
+ED 0.584192417582542
+ED 0.512937041562727
+ED 0.569403822890647
+ED 0.340988658101959
+ED 0.218008084148395
+ED 0.469801687554217
+ED 0.441769286461228
+ED 0.391892860090845
+ED 0.638348626773716
+ED 0.408447912961055
+ED 0.444061097969218
+ED 0.396304615775968
+ED 0.300523361025477
+ED 0.415417959514276
+ED 0.414111833409091
+ED 0.393912827935296
+ED 0.465681400597069
+ED 0.447907222687078
+ED 0.415559676344084
+ED 0.221117714227414
+ED 0.272808395081596
+ED 0.428389419890872
+ED 0.345282943491045
+ED 0.345759491855323
+ED 0.373912199216097
+ED 0.334487092160004
+ED 0.294194350210458
+ED 0.357770465718364
+ED 0.326131426229873
+0.00 0
+[1] "distPEscan_mC_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k1_WD_GAF_allPeaks_Histones_k_3_k1_min10_max500_range10_N2450_res250_peScan_centralRegion_8pixels_heatmaps_data.txt"
+                                                                            
+1 function (..., list = character(), package = NULL, lib.loc = NULL,        
+2     verbose = getOption("verbose"), envir = .GlobalEnv, overwrite = TRUE) 
+3 {                                                                         
+4     fileExt <- function(x) {                                              
+5         db <- grepl("\\\\.[^.]+\\\\.(gz|bz2|xz)$", x)                     
+6         ans <- sub(".*\\\\.", "", x)                                      
+[1] distPEscan_mC_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k1_WD_GAF_allPeaks_Histones_k_3_k1_min10_max500_range10_N2450_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+  condition    values
+1    Embryo 0.1249412
+2    Embryo 0.2656816
+3    Embryo 0.2169725
+4    Embryo 0.2244121
+5    Embryo 0.2192316
+6    Embryo 0.1403394
+[1] "Embryo" "ED"     "WD"    
+    condition     values
+1      Embryo 0.12494119
+2      Embryo 0.26568161
+3      Embryo 0.21697254
+4      Embryo 0.22441207
+5      Embryo 0.21923157
+6      Embryo 0.14033942
+7      Embryo 0.11318003
+8      Embryo 0.10678452
+9      Embryo 0.17887701
+10     Embryo 0.16685850
+11     Embryo 0.14329960
+12     Embryo 0.12839673
+13     Embryo 0.10671644
+14     Embryo 0.22801402
+15     Embryo 0.26551890
+16     Embryo 0.06944700
+17     Embryo 0.29331541
+18     Embryo 0.29825520
+19     Embryo 0.19963557
+20     Embryo 0.18879320
+21     Embryo 0.17807955
+22     Embryo 0.23444240
+23     Embryo 0.18885473
+24     Embryo 0.26691561
+25     Embryo 0.17511725
+26     Embryo 0.08307373
+27     Embryo 0.14948545
+28     Embryo 0.16854828
+29     Embryo 0.20557867
+30     Embryo 0.18986872
+31     Embryo 0.14396974
+32     Embryo 0.16243321
+33     Embryo 0.21253025
+34     Embryo 0.22801968
+35     Embryo 0.23960979
+36     Embryo 0.25820864
+37     Embryo 0.21247191
+38     Embryo 0.17543928
+39     Embryo 0.13347761
+40     Embryo 0.24785128
+41     Embryo 0.21182242
+42     Embryo 0.27543171
+43     Embryo 0.20925226
+44     Embryo 0.12453668
+45     Embryo 0.14779998
+46     Embryo 0.18168922
+47     Embryo 0.11805473
+48     Embryo 0.12377276
+49     Embryo 0.30198368
+50     Embryo 0.28079892
+51     Embryo 0.30571788
+52     Embryo 0.22514187
+53     Embryo 0.13182650
+54     Embryo 0.21187362
+55     Embryo 0.19277441
+56     Embryo 0.11759503
+57     Embryo 0.26514488
+58     Embryo 0.23404989
+59     Embryo 0.18220987
+60     Embryo 0.19135367
+61     Embryo 0.12907399
+62     Embryo 0.28337313
+63     Embryo 0.17161712
+64     Embryo 0.14569716
+65         WD 0.24968562
+66         WD 0.20335184
+67         WD 0.29518038
+68         WD 0.13820158
+69         WD 0.19351799
+70         WD 0.23249506
+71         WD 0.19573526
+72         WD 0.09115910
+73         WD 0.23370062
+74         WD 0.25923337
+75         WD 0.37376596
+76         WD 0.23559738
+77         WD 0.31221087
+78         WD 0.31718990
+79         WD 0.27640106
+80         WD 0.20621986
+81         WD 0.21494301
+82         WD 0.22403016
+83         WD 0.30621383
+84         WD 0.35249576
+85         WD 0.06603233
+86         WD 0.20641414
+87         WD 0.24700002
+88         WD 0.10958174
+89         WD 0.17304151
+90         WD 0.29174974
+91         WD 0.21927694
+92         WD 0.19469694
+93         WD 0.22922796
+94         WD 0.20325593
+95         WD 0.12060335
+96         WD 0.15149138
+97         WD 0.27639172
+98         WD 0.38799587
+99         WD 0.44350387
+100        WD 0.34544597
+101        WD 0.26940444
+102        WD 0.43033338
+103        WD 0.23511558
+104        WD 0.15922032
+105        WD 0.41835834
+106        WD 0.30334849
+107        WD 0.34455827
+108        WD 0.32707458
+109        WD 0.29238204
+110        WD 0.27182072
+111        WD 0.34491441
+112        WD 0.43046828
+113        WD 0.37637351
+114        WD 0.25029024
+115        WD 0.34885558
+116        WD 0.18210203
+117        WD 0.13367301
+118        WD 0.24452107
+119        WD 0.20647724
+120        WD 0.21897231
+121        WD 0.31294683
+122        WD 0.36851515
+123        WD 0.28722017
+124        WD 0.28659641
+125        WD 0.21228073
+126        WD 0.23743752
+127        WD 0.18037595
+128        WD 0.23716873
+129        ED 0.26284226
+130        ED 0.39268397
+131        ED 0.32755547
+132        ED 0.32570228
+133        ED 0.37539154
+134        ED 0.35384249
+135        ED 0.38761759
+136        ED 0.34969217
+137        ED 0.25217984
+138        ED 0.33758506
+139        ED 0.37351663
+140        ED 0.49884578
+141        ED 0.38364628
+142        ED 0.32102839
+143        ED 0.50275151
+144        ED 0.37473833
+145        ED 0.29467539
+146        ED 0.24488917
+147        ED 0.43315220
+148        ED 0.60016593
+149        ED 0.45643302
+150        ED 0.35490429
+151        ED 0.32129757
+152        ED 0.30078670
+153        ED 0.32514690
+154        ED 0.37457679
+155        ED 0.37503195
+156        ED 0.49165948
+157        ED 0.54432350
+158        ED 0.46025910
+159        ED 0.41069879
+160        ED 0.33603723
+161        ED 0.30501541
+162        ED 0.49811970
+163        ED 0.53868373
+164        ED 0.58419242
+165        ED 0.51293704
+166        ED 0.56940382
+167        ED 0.34098866
+168        ED 0.21800808
+169        ED 0.46980169
+170        ED 0.44176929
+171        ED 0.39189286
+172        ED 0.63834863
+173        ED 0.40844791
+174        ED 0.44406110
+175        ED 0.39630462
+176        ED 0.30052336
+177        ED 0.41541796
+178        ED 0.41411183
+179        ED 0.39391283
+180        ED 0.46568140
+181        ED 0.44790722
+182        ED 0.41555968
+183        ED 0.22111771
+184        ED 0.27280840
+185        ED 0.42838942
+186        ED 0.34528294
+187        ED 0.34575949
+188        ED 0.37391220
+189        ED 0.33448709
+190        ED 0.29419435
+191        ED 0.35777047
+192        ED 0.32613143
+[1] ### Get summary statistics ###
+  condition variable  n  mean    sd
+1    Embryo   values 64 0.192 0.059
+2        ED   values 64 0.391 0.092
+3        WD   values 64 0.258 0.085
+  condition  n      score
+1    Embryo 64 0.05282587
+2        ED 64 0.05282587
+3        WD 64 0.05282587
+[1] ### Check assumptions ###
+[1] 1) Checking the presence of outliers
+[1] ### WARNING: The following data-points are outiers!
+# A tibble: 1 × 4
+  condition values is.outlier is.extreme
+  <fct>      <dbl> <lgl>      <lgl>     
+1 ED         0.638 TRUE       FALSE     
+[1] Note that, in the situation where you have extreme outliers, this can be due to:
+[1] 1) data entry errors, measurement errors or unusual values.
+[1] You can include the outlier in the analysis anyway if you do not believe the result will be substantially affected.
+[1] This can be evaluated by comparing the result of the ANOVA test with and without the outlier.
+[1] It’s also possible to keep the outliers in the data and perform robust ANOVA test using the WRS2 package.
+[1] 
+[1] 
+[1] 2) Checking normality assumption
+[1] # Building the linear model
+[1] # Creating a QQ plot of residuals
+[1] ### Compute Shapiro-Wilk test of normality ###
+# A tibble: 1 × 3
+  variable         statistic p.value
+  <chr>                <dbl>   <dbl>
+1 residuals(model)     0.989   0.160
+[1] In the QQ plot, as all the points fall approximately along the reference line, we can assume normality.
+[1] This conclusion is supported by the Shapiro-Wilk test. The p-value is not significant (p = 0.15971954422607),
+[1] so we can assume normality.
+[1] 
+[1] 3) Checking homogeneity of variance assumption
+[1] This can be checked using the Levene’s test:
+# A tibble: 1 × 4
+    df1   df2 statistic      p
+  <int> <int>     <dbl>  <dbl>
+1     2   189      3.90 0.0220
+[1] The Levene’s test is not significant (p > 0.0219915653208153). Therefore, we can assume the homogeneity of variances in the different groups.
+[1] ### Computation of the one-way ANOVA test ###
+[1] In the R code below, the asterisk represents the interaction effect and the main effect of each variable (and all lower-order interactions).
+# A tibble: 1 × 6
+  .y.        n statistic    df        p method        
+* <chr>  <int>     <dbl> <int>    <dbl> <chr>         
+1 values   192      104.     2 2.78e-23 Kruskal-Wallis
+[1] There was a statistically significant interaction between locis
+# A tibble: 1 × 6
+  .y.        n statistic    df        p method        
+  <chr>  <int>     <dbl> <int>    <dbl> <chr>         
+1 values   192      104.     2 2.78e-23 Kruskal-Wallis
+[1] 
+[1] ### Post-hoct tests ###
+[1] ### Procedure for significant one-way interaction ###
+[1] ### Compute pairwise comparisons ###
+[1] To determine which group means are different. We’ll now perform multiple pairwise comparisons between the different conditions.
+[1] You can run and interpret all possible pairwise comparisons using a Bonferroni adjustment.
+[1] This can be easily done using the function emmeans_test() [rstatix package], a wrapper around the emmeans package,
+[1] which needs to be installed. Emmeans stands for estimated marginal means (aka least square means or adjusted means).
+[1] Compare the values of the different cellType levels by condition levels:
+     .y. group1 group2 n1 n2 statistic            p        p.adj p.adj.signif
+1 values Embryo     ED 64 64 10.093840 5.882211e-24 1.764663e-23         ****
+2 values Embryo     WD 64 64  3.825352 1.305852e-04 1.305852e-04          ***
+3 values     ED     WD 64 64 -6.268488 3.645705e-10 5.468558e-10         ****
+[1] 
+[1] ### Visualization: barplots with p-values
+     .y. group1 group2 n1 n2 statistic            p        p.adj p.adj.signif
+1 values Embryo     ED 64 64 10.093840 5.882211e-24 1.764663e-23         ****
+2 values Embryo     WD 64 64  3.825352 1.305852e-04 1.305852e-04          ***
+3 values     ED     WD 64 64 -6.268488 3.645705e-10 5.468558e-10         ****
+  p.adj.formatted
+1        1.76e-23
+2        0.000131
+3        5.47e-10
+[1] "violinPlot_distPEscan_mC_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k1_WD_GAF_allPeaks_Histones_k_3_k1_min10_max500_range10_N2450_res250_peScan_centralRegion_8pixels_heatmaps_data_with_stats.tsv"
+     .y. group1 group2 n1 n2 statistic            p        p.adj p.adj.signif
+1 values Embryo     ED 64 64 10.093840 5.882211e-24 1.764663e-23         ****
+2 values Embryo     WD 64 64  3.825352 1.305852e-04 1.305852e-04          ***
+3 values     ED     WD 64 64 -6.268488 3.645705e-10 5.468558e-10         ****
+  p.adj.formatted y.position     groups xmin xmax
+1        1.76e-23    0.67784 Embryo, ED    1    2
+2        0.000131    0.73760 Embryo, WD    1    3
+3        5.47e-10    0.79736     ED, WD    2    3
+[1] 
+── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+✔ dplyr     1.1.4     ✔ readr     2.1.4
+✔ forcats   1.0.0     ✔ stringr   1.5.1
+✔ ggplot2   4.0.0     ✔ tibble    3.2.1
+✔ lubridate 1.9.4     ✔ tidyr     1.3.1
+✔ purrr     1.1.0     
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
+
+Attaching package: ‘rstatix’
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+Registered S3 methods overwritten by 'FSA':
+  method       from
+  confint.boot car 
+  hist.boot    car 
+## FSA v0.10.0. See citation('FSA') if used in publication.
+## Run fishR() for related website and fishR('IFAR') for related book.
+`summarise()` has grouped output by 'condition'. You can override using the
+`.groups` argument.
+Warning messages:
+1: Returning more (or less) than 1 row per `summarise()` group was deprecated in
+dplyr 1.1.0.
+ℹ Please use `reframe()` instead.
+ℹ When switching from `summarise()` to `reframe()`, remember that `reframe()`
+  always returns an ungrouped data frame and adjust accordingly. 
+2: The `size` argument of `element_line()` is deprecated as of ggplot2 3.4.0.
+ℹ Please use the `linewidth` argument instead.
+ℹ The deprecated feature was likely used in the ggpubr package.
+  Please report the issue at <https://github.com/kassambara/ggpubr/issues>. 
+3: The `size` argument of `element_rect()` is deprecated as of ggplot2 3.4.0.
+ℹ Please use the `linewidth` argument instead.
+ℹ The deprecated feature was likely used in the ggpubr package.
+  Please report the issue at <https://github.com/kassambara/ggpubr/issues>. 
+
+
+mv: cannot stat '_tmp1.pdf': No such file or directory
+-rw-rw-r-- 1 marco.di-stefano cavalli 122K Aug 22 20:49 distPEscan_mC_WD_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k2_WD_GAF_allPeaks_Histones_k_3_k2_min10_max500_range10_N16750_res250_peScan_text.mtx
+-rw-rw-r-- 1 marco.di-stefano cavalli 122K Aug 22 20:56 distPEscan_mC_Embryo_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k2_WD_GAF_allPeaks_Histones_k_3_k2_min10_max500_range10_N16750_res250_peScan_text.mtx
+-rw-rw-r-- 1 marco.di-stefano cavalli 121K Oct 14 13:50 distPEscan_mC_ED_PH18_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k2_WD_GAF_allPeaks_Histones_k_3_k2_min10_max500_range10_N16750_res250_peScan_text.mtx
+
+0 0 -0.185096598850298
+79 79 -0.112962904371242
+79
+-0.18 0.79
+-1.5 1.5
+distPEscan_mC_Embryo_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k2_WD_GAF_allPeaks_Histones_k_3_k2_min10_max500_range10_N16750_res250_peScan_text.mtx
+Number of loops 16750
+-10kb +10kb -10kb +10kb
+36 44
+         line 0: warning: must give margins and spacing, continue with auto margins.
+heatmap_map.ps
+PDFCROP 1.40, 2020/06/06 - Copyright (c) 2002-2020 by Heiko Oberdiek, Oberdiek Package Support Group.
+==> 1 page written on `_tmp_heatmap_map.pdf'.
+  6400 _tmp_matrix_ED
+  6400 _tmp_matrix_Embryo
+  6400 _tmp_matrix_WD
+ 19200 total
+192 _tmp.txt
+ED 64
+Embryo 64
+WD 64
+Embryo 0.247695230917825
+Embryo 0.223676658374962
+Embryo 0.277804769251412
+Embryo 0.21481760262511
+Embryo 0.183134797978152
+Embryo 0.228790182389748
+Embryo 0.232564162685415
+Embryo 0.140890167539402
+Embryo 0.291327160073594
+Embryo 0.257991525534168
+Embryo 0.237070608435218
+Embryo 0.25054546871588
+Embryo 0.243946950513711
+Embryo 0.204154328893558
+Embryo 0.203147418500141
+Embryo 0.115592308918807
+Embryo 0.291606655393166
+Embryo 0.300296499214177
+Embryo 0.283442065192871
+Embryo 0.273826651755928
+Embryo 0.25935760984181
+Embryo 0.225440372539625
+Embryo 0.203628375916503
+Embryo 0.20352431835545
+Embryo 0.356093945893783
+Embryo 0.284071086313037
+Embryo 0.318986762569354
+Embryo 0.312356447306549
+Embryo 0.255193560994488
+Embryo 0.251515109801157
+Embryo 0.16138618578583
+Embryo 0.256974116655108
+Embryo 0.295697186233934
+Embryo 0.307862616254458
+Embryo 0.309801337654974
+Embryo 0.305947297464962
+Embryo 0.245077701962554
+Embryo 0.286966679880267
+Embryo 0.279638725681855
+Embryo 0.253228245557398
+Embryo 0.361604521463631
+Embryo 0.299404371339124
+Embryo 0.375906413776878
+Embryo 0.296401890356437
+Embryo 0.312705858014173
+Embryo 0.285077701703244
+Embryo 0.238681073172641
+Embryo 0.197572298494328
+Embryo 0.367661141222269
+Embryo 0.259301200008455
+Embryo 0.354630356318168
+Embryo 0.248560319866519
+Embryo 0.248060593770827
+Embryo 0.300008957752729
+Embryo 0.258828251156959
+Embryo 0.187321048156325
+Embryo 0.301502710011183
+Embryo 0.317054770330044
+Embryo 0.293241245784785
+Embryo 0.273705968040697
+Embryo 0.275887541573184
+Embryo 0.247773078610225
+Embryo 0.183739524539616
+Embryo 0.22192520661321
+WD 0.309112415032776
+WD 0.395716575780808
+WD 0.451613012671223
+WD 0.404448354769333
+WD 0.366971918040957
+WD 0.310458654408819
+WD 0.331365165849263
+WD 0.207904387011959
+WD 0.430750003502356
+WD 0.391255725125788
+WD 0.379933303455475
+WD 0.456787873576691
+WD 0.323814403418237
+WD 0.275435004846654
+WD 0.267185510402867
+WD 0.197461526313491
+WD 0.479921466293827
+WD 0.445272413367324
+WD 0.410132974515284
+WD 0.427589375454459
+WD 0.495687970892153
+WD 0.423996604286225
+WD 0.339523804956759
+WD 0.321755425347128
+WD 0.446073518688729
+WD 0.492661362373271
+WD 0.409167896353397
+WD 0.501429599700594
+WD 0.483025650209384
+WD 0.447702433629136
+WD 0.32010110227802
+WD 0.316572650403908
+WD 0.47947197195478
+WD 0.461321448031908
+WD 0.45315050132635
+WD 0.538269790057212
+WD 0.511786332960136
+WD 0.425998577554071
+WD 0.380756580759638
+WD 0.290036330936833
+WD 0.519668081144889
+WD 0.483456262641854
+WD 0.444851379427946
+WD 0.491564173564169
+WD 0.373089435115165
+WD 0.427702195078246
+WD 0.332176822045414
+WD 0.218809418133079
+WD 0.497156431449554
+WD 0.456535717291641
+WD 0.502595764485035
+WD 0.529609769308626
+WD 0.39881097739283
+WD 0.438935573333097
+WD 0.309656119752282
+WD 0.294455807262171
+WD 0.511823796129381
+WD 0.370548767065596
+WD 0.445891205464164
+WD 0.461444331435216
+WD 0.411622158374174
+WD 0.392991718440077
+WD 0.345900209776999
+WD 0.311476112266142
+ED 0.47563272202583
+ED 0.527525823610583
+ED 0.622485309217744
+ED 0.587638442813511
+ED 0.538945300692334
+ED 0.521681280065963
+ED 0.515914081592858
+ED 0.438300205344491
+ED 0.570327134865289
+ED 0.587944869759933
+ED 0.589607290223751
+ED 0.649099703009715
+ED 0.592919202621185
+ED 0.633147073723129
+ED 0.497771353787204
+ED 0.512418358736995
+ED 0.579168266064842
+ED 0.65822683785423
+ED 0.641206791201136
+ED 0.765815563497837
+ED 0.599661792339275
+ED 0.55952416230476
+ED 0.621369905946775
+ED 0.487012835070157
+ED 0.615289274255776
+ED 0.642056541221416
+ED 0.711761217456267
+ED 0.775123489336757
+ED 0.718895960308664
+ED 0.686885385823346
+ED 0.543188900567085
+ED 0.566776348329124
+ED 0.587853753370108
+ED 0.657448186042692
+ED 0.716218039413971
+ED 0.73415860531033
+ED 0.785369009595527
+ED 0.69978170461923
+ED 0.589999897658865
+ED 0.547969074229052
+ED 0.571025586468556
+ED 0.615477277100733
+ED 0.644654583153768
+ED 0.710176007109683
+ED 0.657109246762175
+ED 0.625753727092351
+ED 0.558479138998249
+ED 0.479651610756288
+ED 0.620192498574137
+ED 0.58963433205168
+ED 0.698710151228947
+ED 0.709412445188344
+ED 0.667182543912602
+ED 0.601233715044115
+ED 0.575497851471682
+ED 0.477296499551432
+ED 0.574086176389378
+ED 0.614664966325511
+ED 0.605573630803279
+ED 0.568387744869089
+ED 0.541890041486121
+ED 0.603504752677747
+ED 0.44083080213137
+ED 0.446020756730101
+0.00 0
+── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+✔ dplyr     1.1.4     ✔ readr     2.1.4
+✔ forcats   1.0.0     ✔ stringr   1.5.1
+✔ ggplot2   4.0.0     ✔ tibble    3.2.1
+✔ lubridate 1.9.4     ✔ tidyr     1.3.1
+✔ purrr     1.1.0     
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
+
+Attaching package: ‘rstatix’
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+Registered S3 methods overwritten by 'FSA':
+  method       from
+  confint.boot car 
+  hist.boot    car 
+## FSA v0.10.0. See citation('FSA') if used in publication.
+## Run fishR() for related website and fishR('IFAR') for related book.
+`summarise()` has grouped output by 'condition'. You can override using the
+`.groups` argument.
+`summarise()` has grouped output by 'condition'. You can override using the
+`.groups` argument.
+Warning messages:
+1: Returning more (or less) than 1 row per `summarise()` group was deprecated in
+dplyr 1.1.0.
+ℹ Please use `reframe()` instead.
+ℹ When switching from `summarise()` to `reframe()`, remember that `reframe()`
+  always returns an ungrouped data frame and adjust accordingly. 
+2: The `size` argument of `element_line()` is deprecated as of ggplot2 3.4.0.
+ℹ Please use the `linewidth` argument instead.
+ℹ The deprecated feature was likely used in the ggpubr package.
+  Please report the issue at <https://github.com/kassambara/ggpubr/issues>. 
+3: The `size` argument of `element_rect()` is deprecated as of ggplot2 3.4.0.
+ℹ Please use the `linewidth` argument instead.
+ℹ The deprecated feature was likely used in the ggpubr package.
+  Please report the issue at <https://github.com/kassambara/ggpubr/issues>. 
+4: Returning more (or less) than 1 row per `summarise()` group was deprecated in
+dplyr 1.1.0.
+ℹ Please use `reframe()` instead.
+ℹ When switching from `summarise()` to `reframe()`, remember that `reframe()`
+  always returns an ungrouped data frame and adjust accordingly. 
+
+[1] "distPEscan_mC_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k1_WD_GAF_allPeaks_Histones_k_3_k1_min10_max500_range10_N2450_res250_peScan_centralRegion_8pixels_heatmaps_data.txt" 
+[2] "distPEscan_mC_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k2_WD_GAF_allPeaks_Histones_k_3_k2_min10_max500_range10_N16750_res250_peScan_centralRegion_8pixels_heatmaps_data.txt"
+                                                                            
+1 function (..., list = character(), package = NULL, lib.loc = NULL,        
+2     verbose = getOption("verbose"), envir = .GlobalEnv, overwrite = TRUE) 
+3 {                                                                         
+4     fileExt <- function(x) {                                              
+5         db <- grepl("\\\\.[^.]+\\\\.(gz|bz2|xz)$", x)                     
+6         ans <- sub(".*\\\\.", "", x)                                      
+[1] distPEscan_mC_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k1_WD_GAF_allPeaks_Histones_k_3_k1_min10_max500_range10_N2450_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+  condition    values
+1    Embryo 0.1249412
+2    Embryo 0.2656816
+3    Embryo 0.2169725
+4    Embryo 0.2244121
+5    Embryo 0.2192316
+6    Embryo 0.1403394
+[1] "Embryo" "ED"     "WD"    
+    condition     values
+1      Embryo 0.12494119
+2      Embryo 0.26568161
+3      Embryo 0.21697254
+4      Embryo 0.22441207
+5      Embryo 0.21923157
+6      Embryo 0.14033942
+7      Embryo 0.11318003
+8      Embryo 0.10678452
+9      Embryo 0.17887701
+10     Embryo 0.16685850
+11     Embryo 0.14329960
+12     Embryo 0.12839673
+13     Embryo 0.10671644
+14     Embryo 0.22801402
+15     Embryo 0.26551890
+16     Embryo 0.06944700
+17     Embryo 0.29331541
+18     Embryo 0.29825520
+19     Embryo 0.19963557
+20     Embryo 0.18879320
+21     Embryo 0.17807955
+22     Embryo 0.23444240
+23     Embryo 0.18885473
+24     Embryo 0.26691561
+25     Embryo 0.17511725
+26     Embryo 0.08307373
+27     Embryo 0.14948545
+28     Embryo 0.16854828
+29     Embryo 0.20557867
+30     Embryo 0.18986872
+31     Embryo 0.14396974
+32     Embryo 0.16243321
+33     Embryo 0.21253025
+34     Embryo 0.22801968
+35     Embryo 0.23960979
+36     Embryo 0.25820864
+37     Embryo 0.21247191
+38     Embryo 0.17543928
+39     Embryo 0.13347761
+40     Embryo 0.24785128
+41     Embryo 0.21182242
+42     Embryo 0.27543171
+43     Embryo 0.20925226
+44     Embryo 0.12453668
+45     Embryo 0.14779998
+46     Embryo 0.18168922
+47     Embryo 0.11805473
+48     Embryo 0.12377276
+49     Embryo 0.30198368
+50     Embryo 0.28079892
+51     Embryo 0.30571788
+52     Embryo 0.22514187
+53     Embryo 0.13182650
+54     Embryo 0.21187362
+55     Embryo 0.19277441
+56     Embryo 0.11759503
+57     Embryo 0.26514488
+58     Embryo 0.23404989
+59     Embryo 0.18220987
+60     Embryo 0.19135367
+61     Embryo 0.12907399
+62     Embryo 0.28337313
+63     Embryo 0.17161712
+64     Embryo 0.14569716
+65         WD 0.24968562
+66         WD 0.20335184
+67         WD 0.29518038
+68         WD 0.13820158
+69         WD 0.19351799
+70         WD 0.23249506
+71         WD 0.19573526
+72         WD 0.09115910
+73         WD 0.23370062
+74         WD 0.25923337
+75         WD 0.37376596
+76         WD 0.23559738
+77         WD 0.31221087
+78         WD 0.31718990
+79         WD 0.27640106
+80         WD 0.20621986
+81         WD 0.21494301
+82         WD 0.22403016
+83         WD 0.30621383
+84         WD 0.35249576
+85         WD 0.06603233
+86         WD 0.20641414
+87         WD 0.24700002
+88         WD 0.10958174
+89         WD 0.17304151
+90         WD 0.29174974
+91         WD 0.21927694
+92         WD 0.19469694
+93         WD 0.22922796
+94         WD 0.20325593
+95         WD 0.12060335
+96         WD 0.15149138
+97         WD 0.27639172
+98         WD 0.38799587
+99         WD 0.44350387
+100        WD 0.34544597
+101        WD 0.26940444
+102        WD 0.43033338
+103        WD 0.23511558
+104        WD 0.15922032
+105        WD 0.41835834
+106        WD 0.30334849
+107        WD 0.34455827
+108        WD 0.32707458
+109        WD 0.29238204
+110        WD 0.27182072
+111        WD 0.34491441
+112        WD 0.43046828
+113        WD 0.37637351
+114        WD 0.25029024
+115        WD 0.34885558
+116        WD 0.18210203
+117        WD 0.13367301
+118        WD 0.24452107
+119        WD 0.20647724
+120        WD 0.21897231
+121        WD 0.31294683
+122        WD 0.36851515
+123        WD 0.28722017
+124        WD 0.28659641
+125        WD 0.21228073
+126        WD 0.23743752
+127        WD 0.18037595
+128        WD 0.23716873
+129        ED 0.26284226
+130        ED 0.39268397
+131        ED 0.32755547
+132        ED 0.32570228
+133        ED 0.37539154
+134        ED 0.35384249
+135        ED 0.38761759
+136        ED 0.34969217
+137        ED 0.25217984
+138        ED 0.33758506
+139        ED 0.37351663
+140        ED 0.49884578
+141        ED 0.38364628
+142        ED 0.32102839
+143        ED 0.50275151
+144        ED 0.37473833
+145        ED 0.29467539
+146        ED 0.24488917
+147        ED 0.43315220
+148        ED 0.60016593
+149        ED 0.45643302
+150        ED 0.35490429
+151        ED 0.32129757
+152        ED 0.30078670
+153        ED 0.32514690
+154        ED 0.37457679
+155        ED 0.37503195
+156        ED 0.49165948
+157        ED 0.54432350
+158        ED 0.46025910
+159        ED 0.41069879
+160        ED 0.33603723
+161        ED 0.30501541
+162        ED 0.49811970
+163        ED 0.53868373
+164        ED 0.58419242
+165        ED 0.51293704
+166        ED 0.56940382
+167        ED 0.34098866
+168        ED 0.21800808
+169        ED 0.46980169
+170        ED 0.44176929
+171        ED 0.39189286
+172        ED 0.63834863
+173        ED 0.40844791
+174        ED 0.44406110
+175        ED 0.39630462
+176        ED 0.30052336
+177        ED 0.41541796
+178        ED 0.41411183
+179        ED 0.39391283
+180        ED 0.46568140
+181        ED 0.44790722
+182        ED 0.41555968
+183        ED 0.22111771
+184        ED 0.27280840
+185        ED 0.42838942
+186        ED 0.34528294
+187        ED 0.34575949
+188        ED 0.37391220
+189        ED 0.33448709
+190        ED 0.29419435
+191        ED 0.35777047
+192        ED 0.32613143
+[1] ### Get summary statistics ###
+  condition variable  n  mean    sd
+1    Embryo   values 64 0.192 0.059
+2        ED   values 64 0.391 0.092
+3        WD   values 64 0.258 0.085
+  condition  n      score
+1    Embryo 64 0.05282587
+2        ED 64 0.05282587
+3        WD 64 0.05282587
+[1] ### Check assumptions ###
+[1] 1) Checking the presence of outliers
+[1] ### WARNING: The following data-points are outiers!
+# A tibble: 1 × 4
+  condition values is.outlier is.extreme
+  <fct>      <dbl> <lgl>      <lgl>     
+1 ED         0.638 TRUE       FALSE     
+[1] Note that, in the situation where you have extreme outliers, this can be due to:
+[1] 1) data entry errors, measurement errors or unusual values.
+[1] You can include the outlier in the analysis anyway if you do not believe the result will be substantially affected.
+[1] This can be evaluated by comparing the result of the ANOVA test with and without the outlier.
+[1] It’s also possible to keep the outliers in the data and perform robust ANOVA test using the WRS2 package.
+[1] 
+[1] 
+[1] 2) Checking normality assumption
+[1] # Building the linear model
+[1] # Creating a QQ plot of residuals
+[1] ### Compute Shapiro-Wilk test of normality ###
+# A tibble: 1 × 3
+  variable         statistic p.value
+  <chr>                <dbl>   <dbl>
+1 residuals(model)     0.989   0.160
+[1] In the QQ plot, as all the points fall approximately along the reference line, we can assume normality.
+[1] This conclusion is supported by the Shapiro-Wilk test. The p-value is not significant (p = 0.15971954422607),
+[1] so we can assume normality.
+[1] 
+[1] 3) Checking homogeneity of variance assumption
+[1] This can be checked using the Levene’s test:
+# A tibble: 1 × 4
+    df1   df2 statistic      p
+  <int> <int>     <dbl>  <dbl>
+1     2   189      3.90 0.0220
+[1] The Levene’s test is not significant (p > 0.0219915653208153). Therefore, we can assume the homogeneity of variances in the different groups.
+[1] ### Computation of the one-way ANOVA test ###
+[1] In the R code below, the asterisk represents the interaction effect and the main effect of each variable (and all lower-order interactions).
+# A tibble: 1 × 6
+  .y.        n statistic    df        p method        
+* <chr>  <int>     <dbl> <int>    <dbl> <chr>         
+1 values   192      104.     2 2.78e-23 Kruskal-Wallis
+[1] There was a statistically significant interaction between locis
+# A tibble: 1 × 6
+  .y.        n statistic    df        p method        
+  <chr>  <int>     <dbl> <int>    <dbl> <chr>         
+1 values   192      104.     2 2.78e-23 Kruskal-Wallis
+[1] 
+[1] ### Post-hoct tests ###
+[1] ### Procedure for significant one-way interaction ###
+[1] ### Compute pairwise comparisons ###
+[1] To determine which group means are different. We’ll now perform multiple pairwise comparisons between the different conditions.
+[1] You can run and interpret all possible pairwise comparisons using a Bonferroni adjustment.
+[1] This can be easily done using the function emmeans_test() [rstatix package], a wrapper around the emmeans package,
+[1] which needs to be installed. Emmeans stands for estimated marginal means (aka least square means or adjusted means).
+[1] Compare the values of the different cellType levels by condition levels:
+     .y. group1 group2 n1 n2 statistic            p        p.adj p.adj.signif
+1 values Embryo     ED 64 64 10.093840 5.882211e-24 1.764663e-23         ****
+2 values Embryo     WD 64 64  3.825352 1.305852e-04 1.305852e-04          ***
+3 values     ED     WD 64 64 -6.268488 3.645705e-10 5.468558e-10         ****
+[1] 
+[1] ### Visualization: barplots with p-values
+     .y. group1 group2 n1 n2 statistic            p        p.adj p.adj.signif
+1 values Embryo     ED 64 64 10.093840 5.882211e-24 1.764663e-23         ****
+2 values Embryo     WD 64 64  3.825352 1.305852e-04 1.305852e-04          ***
+3 values     ED     WD 64 64 -6.268488 3.645705e-10 5.468558e-10         ****
+  p.adj.formatted
+1        1.76e-23
+2        0.000131
+3        5.47e-10
+[1] "violinPlot_distPEscan_mC_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k1_WD_GAF_allPeaks_Histones_k_3_k1_min10_max500_range10_N2450_res250_peScan_centralRegion_8pixels_heatmaps_data_with_stats.tsv"
+     .y. group1 group2 n1 n2 statistic            p        p.adj p.adj.signif
+1 values Embryo     ED 64 64 10.093840 5.882211e-24 1.764663e-23         ****
+2 values Embryo     WD 64 64  3.825352 1.305852e-04 1.305852e-04          ***
+3 values     ED     WD 64 64 -6.268488 3.645705e-10 5.468558e-10         ****
+  p.adj.formatted y.position     groups xmin xmax
+1        1.76e-23    0.67784 Embryo, ED    1    2
+2        0.000131    0.73760 Embryo, WD    1    3
+3        5.47e-10    0.79736     ED, WD    2    3
+[1] 
+[1] distPEscan_mC_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k2_WD_GAF_allPeaks_Histones_k_3_k2_min10_max500_range10_N16750_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+  condition    values
+1    Embryo 0.2476952
+2    Embryo 0.2236767
+3    Embryo 0.2778048
+4    Embryo 0.2148176
+5    Embryo 0.1831348
+6    Embryo 0.2287902
+[1] "Embryo" "ED"     "WD"    
+    condition    values
+1      Embryo 0.2476952
+2      Embryo 0.2236767
+3      Embryo 0.2778048
+4      Embryo 0.2148176
+5      Embryo 0.1831348
+6      Embryo 0.2287902
+7      Embryo 0.2325642
+8      Embryo 0.1408902
+9      Embryo 0.2913272
+10     Embryo 0.2579915
+11     Embryo 0.2370706
+12     Embryo 0.2505455
+13     Embryo 0.2439470
+14     Embryo 0.2041543
+15     Embryo 0.2031474
+16     Embryo 0.1155923
+17     Embryo 0.2916067
+18     Embryo 0.3002965
+19     Embryo 0.2834421
+20     Embryo 0.2738267
+21     Embryo 0.2593576
+22     Embryo 0.2254404
+23     Embryo 0.2036284
+24     Embryo 0.2035243
+25     Embryo 0.3560939
+26     Embryo 0.2840711
+27     Embryo 0.3189868
+28     Embryo 0.3123564
+29     Embryo 0.2551936
+30     Embryo 0.2515151
+31     Embryo 0.1613862
+32     Embryo 0.2569741
+33     Embryo 0.2956972
+34     Embryo 0.3078626
+35     Embryo 0.3098013
+36     Embryo 0.3059473
+37     Embryo 0.2450777
+38     Embryo 0.2869667
+39     Embryo 0.2796387
+40     Embryo 0.2532282
+41     Embryo 0.3616045
+42     Embryo 0.2994044
+43     Embryo 0.3759064
+44     Embryo 0.2964019
+45     Embryo 0.3127059
+46     Embryo 0.2850777
+47     Embryo 0.2386811
+48     Embryo 0.1975723
+49     Embryo 0.3676611
+50     Embryo 0.2593012
+51     Embryo 0.3546304
+52     Embryo 0.2485603
+53     Embryo 0.2480606
+54     Embryo 0.3000090
+55     Embryo 0.2588283
+56     Embryo 0.1873210
+57     Embryo 0.3015027
+58     Embryo 0.3170548
+59     Embryo 0.2932412
+60     Embryo 0.2737060
+61     Embryo 0.2758875
+62     Embryo 0.2477731
+63     Embryo 0.1837395
+64     Embryo 0.2219252
+65         WD 0.3091124
+66         WD 0.3957166
+67         WD 0.4516130
+68         WD 0.4044484
+69         WD 0.3669719
+70         WD 0.3104587
+71         WD 0.3313652
+72         WD 0.2079044
+73         WD 0.4307500
+74         WD 0.3912557
+75         WD 0.3799333
+76         WD 0.4567879
+77         WD 0.3238144
+78         WD 0.2754350
+79         WD 0.2671855
+80         WD 0.1974615
+81         WD 0.4799215
+82         WD 0.4452724
+83         WD 0.4101330
+84         WD 0.4275894
+85         WD 0.4956880
+86         WD 0.4239966
+87         WD 0.3395238
+88         WD 0.3217554
+89         WD 0.4460735
+90         WD 0.4926614
+91         WD 0.4091679
+92         WD 0.5014296
+93         WD 0.4830257
+94         WD 0.4477024
+95         WD 0.3201011
+96         WD 0.3165727
+97         WD 0.4794720
+98         WD 0.4613214
+99         WD 0.4531505
+100        WD 0.5382698
+101        WD 0.5117863
+102        WD 0.4259986
+103        WD 0.3807566
+104        WD 0.2900363
+105        WD 0.5196681
+106        WD 0.4834563
+107        WD 0.4448514
+108        WD 0.4915642
+109        WD 0.3730894
+110        WD 0.4277022
+111        WD 0.3321768
+112        WD 0.2188094
+113        WD 0.4971564
+114        WD 0.4565357
+115        WD 0.5025958
+116        WD 0.5296098
+117        WD 0.3988110
+118        WD 0.4389356
+119        WD 0.3096561
+120        WD 0.2944558
+121        WD 0.5118238
+122        WD 0.3705488
+123        WD 0.4458912
+124        WD 0.4614443
+125        WD 0.4116222
+126        WD 0.3929917
+127        WD 0.3459002
+128        WD 0.3114761
+129        ED 0.4756327
+130        ED 0.5275258
+131        ED 0.6224853
+132        ED 0.5876384
+133        ED 0.5389453
+134        ED 0.5216813
+135        ED 0.5159141
+136        ED 0.4383002
+137        ED 0.5703271
+138        ED 0.5879449
+139        ED 0.5896073
+140        ED 0.6490997
+141        ED 0.5929192
+142        ED 0.6331471
+143        ED 0.4977714
+144        ED 0.5124184
+145        ED 0.5791683
+146        ED 0.6582268
+147        ED 0.6412068
+148        ED 0.7658156
+149        ED 0.5996618
+150        ED 0.5595242
+151        ED 0.6213699
+152        ED 0.4870128
+153        ED 0.6152893
+154        ED 0.6420565
+155        ED 0.7117612
+156        ED 0.7751235
+157        ED 0.7188960
+158        ED 0.6868854
+159        ED 0.5431889
+160        ED 0.5667763
+161        ED 0.5878538
+162        ED 0.6574482
+163        ED 0.7162180
+164        ED 0.7341586
+165        ED 0.7853690
+166        ED 0.6997817
+167        ED 0.5899999
+168        ED 0.5479691
+169        ED 0.5710256
+170        ED 0.6154773
+171        ED 0.6446546
+172        ED 0.7101760
+173        ED 0.6571092
+174        ED 0.6257537
+175        ED 0.5584791
+176        ED 0.4796516
+177        ED 0.6201925
+178        ED 0.5896343
+179        ED 0.6987102
+180        ED 0.7094124
+181        ED 0.6671825
+182        ED 0.6012337
+183        ED 0.5754979
+184        ED 0.4772965
+185        ED 0.5740862
+186        ED 0.6146650
+187        ED 0.6055736
+188        ED 0.5683877
+189        ED 0.5418900
+190        ED 0.6035048
+191        ED 0.4408308
+192        ED 0.4460208
+[1] ### Get summary statistics ###
+  condition variable  n  mean    sd
+1    Embryo   values 64 0.262 0.053
+2        ED   values 64 0.602 0.082
+3        WD   values 64 0.403 0.083
+  condition  n      score
+1    Embryo 64 0.09247385
+2        ED 64 0.09247385
+3        WD 64 0.09247385
+[1] ### Check assumptions ###
+[1] 1) Checking the presence of outliers
+[1] ### WARNING: The following data-points are outiers!
+# A tibble: 1 × 4
+  condition values is.outlier is.extreme
+  <fct>      <dbl> <lgl>      <lgl>     
+1 Embryo     0.116 TRUE       FALSE     
+[1] Note that, in the situation where you have extreme outliers, this can be due to:
+[1] 1) data entry errors, measurement errors or unusual values.
+[1] You can include the outlier in the analysis anyway if you do not believe the result will be substantially affected.
+[1] This can be evaluated by comparing the result of the ANOVA test with and without the outlier.
+[1] It’s also possible to keep the outliers in the data and perform robust ANOVA test using the WRS2 package.
+[1] 
+[1] 
+[1] 2) Checking normality assumption
+[1] # Building the linear model
+[1] # Creating a QQ plot of residuals
+[1] ### Compute Shapiro-Wilk test of normality ###
+# A tibble: 1 × 3
+  variable         statistic p.value
+  <chr>                <dbl>   <dbl>
+1 residuals(model)     0.992   0.390
+[1] In the QQ plot, as all the points fall approximately along the reference line, we can assume normality.
+[1] This conclusion is supported by the Shapiro-Wilk test. The p-value is not significant (p = 0.39012869972378),
+[1] so we can assume normality.
+[1] 
+[1] 3) Checking homogeneity of variance assumption
+[1] This can be checked using the Levene’s test:
+# A tibble: 1 × 4
+    df1   df2 statistic       p
+  <int> <int>     <dbl>   <dbl>
+1     2   189      6.44 0.00198
+[1] The Levene’s test is not significant (p > 0.0019782421395122). Therefore, we can assume the homogeneity of variances in the different groups.
+[1] ### Computation of the one-way ANOVA test ###
+[1] In the R code below, the asterisk represents the interaction effect and the main effect of each variable (and all lower-order interactions).
+# A tibble: 1 × 6
+  .y.        n statistic    df        p method        
+* <chr>  <int>     <dbl> <int>    <dbl> <chr>         
+1 values   192      150.     2 2.31e-33 Kruskal-Wallis
+[1] There was a statistically significant interaction between locis
+# A tibble: 1 × 6
+  .y.        n statistic    df        p method        
+  <chr>  <int>     <dbl> <int>    <dbl> <chr>         
+1 values   192      150.     2 2.31e-33 Kruskal-Wallis
+[1] 
+[1] ### Post-hoct tests ###
+[1] ### Procedure for significant one-way interaction ###
+[1] ### Compute pairwise comparisons ###
+[1] To determine which group means are different. We’ll now perform multiple pairwise comparisons between the different conditions.
+[1] You can run and interpret all possible pairwise comparisons using a Bonferroni adjustment.
+[1] This can be easily done using the function emmeans_test() [rstatix package], a wrapper around the emmeans package,
+[1] which needs to be installed. Emmeans stands for estimated marginal means (aka least square means or adjusted means).
+[1] Compare the values of the different cellType levels by condition levels:
+     .y. group1 group2 n1 n2 statistic            p        p.adj p.adj.signif
+1 values Embryo     ED 64 64 12.247490 1.732760e-34 5.198281e-34         ****
+2 values Embryo     WD 64 64  5.656114 1.548390e-08 1.548390e-08         ****
+3 values     ED     WD 64 64 -6.591376 4.357674e-11 6.536511e-11         ****
+[1] 
+[1] ### Visualization: barplots with p-values
+     .y. group1 group2 n1 n2 statistic            p        p.adj p.adj.signif
+1 values Embryo     ED 64 64 12.247490 1.732760e-34 5.198281e-34         ****
+2 values Embryo     WD 64 64  5.656114 1.548390e-08 1.548390e-08         ****
+3 values     ED     WD 64 64 -6.591376 4.357674e-11 6.536511e-11         ****
+  p.adj.formatted
+1         5.2e-34
+2        1.55e-08
+3        6.54e-11
+[1] "violinPlot_distPEscan_mC_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k2_WD_GAF_allPeaks_Histones_k_3_k2_min10_max500_range10_N16750_res250_peScan_centralRegion_8pixels_heatmaps_data_with_stats.tsv"
+     .y. group1 group2 n1 n2 statistic            p        p.adj p.adj.signif
+1 values Embryo     ED 64 64 12.247490 1.732760e-34 5.198281e-34         ****
+2 values Embryo     WD 64 64  5.656114 1.548390e-08 1.548390e-08         ****
+3 values     ED     WD 64 64 -6.591376 4.357674e-11 6.536511e-11         ****
+  p.adj.formatted y.position     groups xmin xmax
+1         5.2e-34    0.83408 Embryo, ED    1    2
+2        1.55e-08    0.90770 Embryo, WD    1    3
+3        6.54e-11    0.98132     ED, WD    2    3
+[1] 
+
+mv: cannot stat '_tmp1.pdf': No such file or directory
+-rw-rw-r-- 1 marco.di-stefano cavalli 123K Aug 22 20:57 distPEscan_mC_WD_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k3_WD_GAF_allPeaks_Histones_k_3_k3_min10_max500_range10_N13141_res250_peScan_text.mtx
+-rw-rw-r-- 1 marco.di-stefano cavalli 123K Aug 22 21:05 distPEscan_mC_Embryo_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k3_WD_GAF_allPeaks_Histones_k_3_k3_min10_max500_range10_N13141_res250_peScan_text.mtx
+-rw-rw-r-- 1 marco.di-stefano cavalli 123K Oct 14 13:57 distPEscan_mC_ED_PH18_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k3_WD_GAF_allPeaks_Histones_k_3_k3_min10_max500_range10_N13141_res250_peScan_text.mtx
+
+0 0 -0.0421223197720324
+79 79 0.0539947024418805
+79
+-0.07 1.08
+-1.5 1.5
+distPEscan_mC_Embryo_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k3_WD_GAF_allPeaks_Histones_k_3_k3_min10_max500_range10_N13141_res250_peScan_text.mtx
+Number of loops 13141
+-10kb +10kb -10kb +10kb
+36 44
+         line 0: warning: must give margins and spacing, continue with auto margins.
+heatmap_map.ps
+PDFCROP 1.40, 2020/06/06 - Copyright (c) 2002-2020 by Heiko Oberdiek, Oberdiek Package Support Group.
+==> 1 page written on `_tmp_heatmap_map.pdf'.
+  6400 _tmp_matrix_ED
+  6400 _tmp_matrix_Embryo
+  6400 _tmp_matrix_WD
+ 19200 total
+192 _tmp.txt
+ED 64
+Embryo 64
+WD 64
+Embryo 0.167731912908493
+Embryo 0.15231255066849
+Embryo 0.145865523689164
+Embryo -0.00359277144790126
+Embryo 0.104967546314241
+Embryo 0.0563747354535425
+Embryo 0.0207204375674488
+Embryo -0.0598457350956859
+Embryo 0.146002047830633
+Embryo 0.18693325093002
+Embryo 0.14192012501541
+Embryo 0.0907618077262969
+Embryo 0.103996096488614
+Embryo 0.0419659564843747
+Embryo 0.0486674740634557
+Embryo -0.0323281283731705
+Embryo 0.285211795885483
+Embryo 0.262804282056065
+Embryo 0.136102387024616
+Embryo 0.228469080325715
+Embryo 0.0431810373625617
+Embryo 0.0813852130415589
+Embryo 0.112221551352357
+Embryo 0.0101113094852713
+Embryo 0.349345101641393
+Embryo 0.33788742468745
+Embryo 0.304308181712992
+Embryo 0.390698080137289
+Embryo 0.0430659323656367
+Embryo 0.129889770136507
+Embryo 0.0919108958403478
+Embryo 0.0973547465461539
+Embryo 0.886098530230476
+Embryo 0.984866044456545
+Embryo 0.465387358017173
+Embryo 1.07695460901016
+Embryo 0.185946686154867
+Embryo 0.107210470727763
+Embryo 0.032815500574471
+Embryo 0.0810556886548061
+Embryo 0.258830041321351
+Embryo 0.228578919277728
+Embryo 0.261818532674699
+Embryo 0.294644179164916
+Embryo 0.167198575082607
+Embryo 0.113332445042374
+Embryo 0.145915285164127
+Embryo 0.0527275070581586
+Embryo 0.222044609657274
+Embryo 0.292341333961643
+Embryo 0.215853582251557
+Embryo 0.167371466618711
+Embryo 0.0889996521386981
+Embryo 0.142210103202013
+Embryo 0.109267289640216
+Embryo 0.139753600277078
+Embryo 0.264239259573683
+Embryo 0.225859177572085
+Embryo 0.194309893712667
+Embryo 0.244726932004281
+Embryo 0.194603452578445
+Embryo 0.0813928421304538
+Embryo 0.0343062210729516
+Embryo 0.085765593700848
+WD 0.0646134376202646
+WD 0.0800678924342701
+WD 0.149816968375502
+WD 0.0552911621159273
+WD 0.0404615936768204
+WD 0.0333906665314733
+WD 0.0280436486625714
+WD -0.0118604287523142
+WD 0.119370378136148
+WD 0.123626219609706
+WD 0.19467130612953
+WD 0.1123727952245
+WD 0.0736365048384953
+WD 0.0483743113958501
+WD -0.0242427049379898
+WD -0.0395912473040053
+WD 0.229337553770615
+WD 0.339451788699312
+WD 0.184261730817689
+WD 0.359465300740103
+WD 0.0865940579919427
+WD 0.116527675004656
+WD 0.080416672786247
+WD 0.0920603309773406
+WD 0.339607164794618
+WD 0.384926764585463
+WD 0.297183415907387
+WD 0.410758051262685
+WD 0.0363838103056214
+WD 0.0128916442654131
+WD 0.149310117375149
+WD 0.120894079162249
+WD 0.798666594060718
+WD 0.886751738216549
+WD 0.470031162909976
+WD 1.02659426148165
+WD 0.203729965502178
+WD 0.110586602160964
+WD 0.0990556091516626
+WD 0.181217905012964
+WD 0.189304538579476
+WD 0.201927672691886
+WD 0.21728933506013
+WD 0.167913360468339
+WD 0.138080463353533
+WD 0.146076098892707
+WD 0.133726976241122
+WD 0.0690500065008768
+WD 0.283340587758343
+WD 0.178721220213166
+WD 0.160901869279284
+WD 0.186105315953193
+WD 0.169076715149303
+WD 0.162538670749419
+WD 0.0835426464512991
+WD 0.0790500617314517
+WD 0.147682961922258
+WD 0.288814913657866
+WD 0.203242652137039
+WD 0.163864392134704
+WD 0.114760558426499
+WD 0.149415517634981
+WD 0.0798310546347268
+WD -0.00720298844650845
+ED 0.250658543313863
+ED 0.218753973952369
+ED 0.222079224097188
+ED 0.177635935386871
+ED 0.204906927167195
+ED 0.114887782253185
+ED 0.132306033629391
+ED 0.148752962161643
+ED 0.136777853055988
+ED 0.247754173256812
+ED 0.209918355288337
+ED 0.194735628782686
+ED 0.273686736737771
+ED 0.148767475461554
+ED 0.161952777660974
+ED 0.0880483613230385
+ED 0.223076453226897
+ED 0.231948930152414
+ED 0.23481359032759
+ED 0.298122657026719
+ED 0.281781294374507
+ED 0.136894146013845
+ED 0.149037517004759
+ED 0.0593012218310759
+ED 0.254024297149955
+ED 0.260205485328415
+ED 0.163892415254473
+ED 0.361812309395677
+ED 0.331027209448592
+ED 0.160059617334585
+ED 0.142033854409332
+ED 0.117406500082084
+ED 0.239676222860623
+ED 0.260646717614095
+ED 0.287100259232474
+ED 0.323802290422903
+ED 0.291813484985234
+ED 0.218259191212365
+ED 0.174964846001176
+ED 0.169610793702736
+ED 0.153668840028336
+ED 0.270835866005483
+ED 0.291969973874643
+ED 0.361506224945547
+ED 0.258325610085171
+ED 0.266461615648352
+ED 0.200148519581794
+ED 0.254523842381686
+ED 0.29712169053092
+ED 0.286300694976027
+ED 0.350877881630244
+ED 0.213871128818047
+ED 0.272986696161087
+ED 0.278595966380385
+ED 0.253607802041766
+ED 0.1348171158288
+ED 0.194222131249583
+ED 0.279575461576173
+ED 0.19465628316303
+ED 0.27957603195757
+ED 0.23175333831385
+ED 0.215245341770849
+ED 0.168431296191919
+ED 0.13857457914351
+-0.01 -0.0105
+── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+✔ dplyr     1.1.4     ✔ readr     2.1.4
+✔ forcats   1.0.0     ✔ stringr   1.5.1
+✔ ggplot2   4.0.0     ✔ tibble    3.2.1
+✔ lubridate 1.9.4     ✔ tidyr     1.3.1
+✔ purrr     1.1.0     
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
+
+Attaching package: ‘rstatix’
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+Registered S3 methods overwritten by 'FSA':
+  method       from
+  confint.boot car 
+  hist.boot    car 
+## FSA v0.10.0. See citation('FSA') if used in publication.
+## Run fishR() for related website and fishR('IFAR') for related book.
+`summarise()` has grouped output by 'condition'. You can override using the
+`.groups` argument.
+`summarise()` has grouped output by 'condition'. You can override using the
+`.groups` argument.
+`summarise()` has grouped output by 'condition'. You can override using the
+`.groups` argument.
+Warning messages:
+1: Returning more (or less) than 1 row per `summarise()` group was deprecated in
+dplyr 1.1.0.
+ℹ Please use `reframe()` instead.
+ℹ When switching from `summarise()` to `reframe()`, remember that `reframe()`
+  always returns an ungrouped data frame and adjust accordingly. 
+2: The `size` argument of `element_line()` is deprecated as of ggplot2 3.4.0.
+ℹ Please use the `linewidth` argument instead.
+ℹ The deprecated feature was likely used in the ggpubr package.
+  Please report the issue at <https://github.com/kassambara/ggpubr/issues>. 
+3: The `size` argument of `element_rect()` is deprecated as of ggplot2 3.4.0.
+ℹ Please use the `linewidth` argument instead.
+ℹ The deprecated feature was likely used in the ggpubr package.
+  Please report the issue at <https://github.com/kassambara/ggpubr/issues>. 
+4: Returning more (or less) than 1 row per `summarise()` group was deprecated in
+dplyr 1.1.0.
+ℹ Please use `reframe()` instead.
+ℹ When switching from `summarise()` to `reframe()`, remember that `reframe()`
+  always returns an ungrouped data frame and adjust accordingly. 
+5: Returning more (or less) than 1 row per `summarise()` group was deprecated in
+dplyr 1.1.0.
+ℹ Please use `reframe()` instead.
+ℹ When switching from `summarise()` to `reframe()`, remember that `reframe()`
+  always returns an ungrouped data frame and adjust accordingly. 
+
+[1] "distPEscan_mC_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k1_WD_GAF_allPeaks_Histones_k_3_k1_min10_max500_range10_N2450_res250_peScan_centralRegion_8pixels_heatmaps_data.txt" 
+[2] "distPEscan_mC_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k2_WD_GAF_allPeaks_Histones_k_3_k2_min10_max500_range10_N16750_res250_peScan_centralRegion_8pixels_heatmaps_data.txt"
+[3] "distPEscan_mC_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k3_WD_GAF_allPeaks_Histones_k_3_k3_min10_max500_range10_N13141_res250_peScan_centralRegion_8pixels_heatmaps_data.txt"
+                                                                            
+1 function (..., list = character(), package = NULL, lib.loc = NULL,        
+2     verbose = getOption("verbose"), envir = .GlobalEnv, overwrite = TRUE) 
+3 {                                                                         
+4     fileExt <- function(x) {                                              
+5         db <- grepl("\\\\.[^.]+\\\\.(gz|bz2|xz)$", x)                     
+6         ans <- sub(".*\\\\.", "", x)                                      
+[1] distPEscan_mC_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k1_WD_GAF_allPeaks_Histones_k_3_k1_min10_max500_range10_N2450_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+  condition    values
+1    Embryo 0.1249412
+2    Embryo 0.2656816
+3    Embryo 0.2169725
+4    Embryo 0.2244121
+5    Embryo 0.2192316
+6    Embryo 0.1403394
+[1] "Embryo" "ED"     "WD"    
+    condition     values
+1      Embryo 0.12494119
+2      Embryo 0.26568161
+3      Embryo 0.21697254
+4      Embryo 0.22441207
+5      Embryo 0.21923157
+6      Embryo 0.14033942
+7      Embryo 0.11318003
+8      Embryo 0.10678452
+9      Embryo 0.17887701
+10     Embryo 0.16685850
+11     Embryo 0.14329960
+12     Embryo 0.12839673
+13     Embryo 0.10671644
+14     Embryo 0.22801402
+15     Embryo 0.26551890
+16     Embryo 0.06944700
+17     Embryo 0.29331541
+18     Embryo 0.29825520
+19     Embryo 0.19963557
+20     Embryo 0.18879320
+21     Embryo 0.17807955
+22     Embryo 0.23444240
+23     Embryo 0.18885473
+24     Embryo 0.26691561
+25     Embryo 0.17511725
+26     Embryo 0.08307373
+27     Embryo 0.14948545
+28     Embryo 0.16854828
+29     Embryo 0.20557867
+30     Embryo 0.18986872
+31     Embryo 0.14396974
+32     Embryo 0.16243321
+33     Embryo 0.21253025
+34     Embryo 0.22801968
+35     Embryo 0.23960979
+36     Embryo 0.25820864
+37     Embryo 0.21247191
+38     Embryo 0.17543928
+39     Embryo 0.13347761
+40     Embryo 0.24785128
+41     Embryo 0.21182242
+42     Embryo 0.27543171
+43     Embryo 0.20925226
+44     Embryo 0.12453668
+45     Embryo 0.14779998
+46     Embryo 0.18168922
+47     Embryo 0.11805473
+48     Embryo 0.12377276
+49     Embryo 0.30198368
+50     Embryo 0.28079892
+51     Embryo 0.30571788
+52     Embryo 0.22514187
+53     Embryo 0.13182650
+54     Embryo 0.21187362
+55     Embryo 0.19277441
+56     Embryo 0.11759503
+57     Embryo 0.26514488
+58     Embryo 0.23404989
+59     Embryo 0.18220987
+60     Embryo 0.19135367
+61     Embryo 0.12907399
+62     Embryo 0.28337313
+63     Embryo 0.17161712
+64     Embryo 0.14569716
+65         WD 0.24968562
+66         WD 0.20335184
+67         WD 0.29518038
+68         WD 0.13820158
+69         WD 0.19351799
+70         WD 0.23249506
+71         WD 0.19573526
+72         WD 0.09115910
+73         WD 0.23370062
+74         WD 0.25923337
+75         WD 0.37376596
+76         WD 0.23559738
+77         WD 0.31221087
+78         WD 0.31718990
+79         WD 0.27640106
+80         WD 0.20621986
+81         WD 0.21494301
+82         WD 0.22403016
+83         WD 0.30621383
+84         WD 0.35249576
+85         WD 0.06603233
+86         WD 0.20641414
+87         WD 0.24700002
+88         WD 0.10958174
+89         WD 0.17304151
+90         WD 0.29174974
+91         WD 0.21927694
+92         WD 0.19469694
+93         WD 0.22922796
+94         WD 0.20325593
+95         WD 0.12060335
+96         WD 0.15149138
+97         WD 0.27639172
+98         WD 0.38799587
+99         WD 0.44350387
+100        WD 0.34544597
+101        WD 0.26940444
+102        WD 0.43033338
+103        WD 0.23511558
+104        WD 0.15922032
+105        WD 0.41835834
+106        WD 0.30334849
+107        WD 0.34455827
+108        WD 0.32707458
+109        WD 0.29238204
+110        WD 0.27182072
+111        WD 0.34491441
+112        WD 0.43046828
+113        WD 0.37637351
+114        WD 0.25029024
+115        WD 0.34885558
+116        WD 0.18210203
+117        WD 0.13367301
+118        WD 0.24452107
+119        WD 0.20647724
+120        WD 0.21897231
+121        WD 0.31294683
+122        WD 0.36851515
+123        WD 0.28722017
+124        WD 0.28659641
+125        WD 0.21228073
+126        WD 0.23743752
+127        WD 0.18037595
+128        WD 0.23716873
+129        ED 0.26284226
+130        ED 0.39268397
+131        ED 0.32755547
+132        ED 0.32570228
+133        ED 0.37539154
+134        ED 0.35384249
+135        ED 0.38761759
+136        ED 0.34969217
+137        ED 0.25217984
+138        ED 0.33758506
+139        ED 0.37351663
+140        ED 0.49884578
+141        ED 0.38364628
+142        ED 0.32102839
+143        ED 0.50275151
+144        ED 0.37473833
+145        ED 0.29467539
+146        ED 0.24488917
+147        ED 0.43315220
+148        ED 0.60016593
+149        ED 0.45643302
+150        ED 0.35490429
+151        ED 0.32129757
+152        ED 0.30078670
+153        ED 0.32514690
+154        ED 0.37457679
+155        ED 0.37503195
+156        ED 0.49165948
+157        ED 0.54432350
+158        ED 0.46025910
+159        ED 0.41069879
+160        ED 0.33603723
+161        ED 0.30501541
+162        ED 0.49811970
+163        ED 0.53868373
+164        ED 0.58419242
+165        ED 0.51293704
+166        ED 0.56940382
+167        ED 0.34098866
+168        ED 0.21800808
+169        ED 0.46980169
+170        ED 0.44176929
+171        ED 0.39189286
+172        ED 0.63834863
+173        ED 0.40844791
+174        ED 0.44406110
+175        ED 0.39630462
+176        ED 0.30052336
+177        ED 0.41541796
+178        ED 0.41411183
+179        ED 0.39391283
+180        ED 0.46568140
+181        ED 0.44790722
+182        ED 0.41555968
+183        ED 0.22111771
+184        ED 0.27280840
+185        ED 0.42838942
+186        ED 0.34528294
+187        ED 0.34575949
+188        ED 0.37391220
+189        ED 0.33448709
+190        ED 0.29419435
+191        ED 0.35777047
+192        ED 0.32613143
+[1] ### Get summary statistics ###
+  condition variable  n  mean    sd
+1    Embryo   values 64 0.192 0.059
+2        ED   values 64 0.391 0.092
+3        WD   values 64 0.258 0.085
+  condition  n      score
+1    Embryo 64 0.05282587
+2        ED 64 0.05282587
+3        WD 64 0.05282587
+[1] ### Check assumptions ###
+[1] 1) Checking the presence of outliers
+[1] ### WARNING: The following data-points are outiers!
+# A tibble: 1 × 4
+  condition values is.outlier is.extreme
+  <fct>      <dbl> <lgl>      <lgl>     
+1 ED         0.638 TRUE       FALSE     
+[1] Note that, in the situation where you have extreme outliers, this can be due to:
+[1] 1) data entry errors, measurement errors or unusual values.
+[1] You can include the outlier in the analysis anyway if you do not believe the result will be substantially affected.
+[1] This can be evaluated by comparing the result of the ANOVA test with and without the outlier.
+[1] It’s also possible to keep the outliers in the data and perform robust ANOVA test using the WRS2 package.
+[1] 
+[1] 
+[1] 2) Checking normality assumption
+[1] # Building the linear model
+[1] # Creating a QQ plot of residuals
+[1] ### Compute Shapiro-Wilk test of normality ###
+# A tibble: 1 × 3
+  variable         statistic p.value
+  <chr>                <dbl>   <dbl>
+1 residuals(model)     0.989   0.160
+[1] In the QQ plot, as all the points fall approximately along the reference line, we can assume normality.
+[1] This conclusion is supported by the Shapiro-Wilk test. The p-value is not significant (p = 0.15971954422607),
+[1] so we can assume normality.
+[1] 
+[1] 3) Checking homogeneity of variance assumption
+[1] This can be checked using the Levene’s test:
+# A tibble: 1 × 4
+    df1   df2 statistic      p
+  <int> <int>     <dbl>  <dbl>
+1     2   189      3.90 0.0220
+[1] The Levene’s test is not significant (p > 0.0219915653208153). Therefore, we can assume the homogeneity of variances in the different groups.
+[1] ### Computation of the one-way ANOVA test ###
+[1] In the R code below, the asterisk represents the interaction effect and the main effect of each variable (and all lower-order interactions).
+# A tibble: 1 × 6
+  .y.        n statistic    df        p method        
+* <chr>  <int>     <dbl> <int>    <dbl> <chr>         
+1 values   192      104.     2 2.78e-23 Kruskal-Wallis
+[1] There was a statistically significant interaction between locis
+# A tibble: 1 × 6
+  .y.        n statistic    df        p method        
+  <chr>  <int>     <dbl> <int>    <dbl> <chr>         
+1 values   192      104.     2 2.78e-23 Kruskal-Wallis
+[1] 
+[1] ### Post-hoct tests ###
+[1] ### Procedure for significant one-way interaction ###
+[1] ### Compute pairwise comparisons ###
+[1] To determine which group means are different. We’ll now perform multiple pairwise comparisons between the different conditions.
+[1] You can run and interpret all possible pairwise comparisons using a Bonferroni adjustment.
+[1] This can be easily done using the function emmeans_test() [rstatix package], a wrapper around the emmeans package,
+[1] which needs to be installed. Emmeans stands for estimated marginal means (aka least square means or adjusted means).
+[1] Compare the values of the different cellType levels by condition levels:
+     .y. group1 group2 n1 n2 statistic            p        p.adj p.adj.signif
+1 values Embryo     ED 64 64 10.093840 5.882211e-24 1.764663e-23         ****
+2 values Embryo     WD 64 64  3.825352 1.305852e-04 1.305852e-04          ***
+3 values     ED     WD 64 64 -6.268488 3.645705e-10 5.468558e-10         ****
+[1] 
+[1] ### Visualization: barplots with p-values
+     .y. group1 group2 n1 n2 statistic            p        p.adj p.adj.signif
+1 values Embryo     ED 64 64 10.093840 5.882211e-24 1.764663e-23         ****
+2 values Embryo     WD 64 64  3.825352 1.305852e-04 1.305852e-04          ***
+3 values     ED     WD 64 64 -6.268488 3.645705e-10 5.468558e-10         ****
+  p.adj.formatted
+1        1.76e-23
+2        0.000131
+3        5.47e-10
+[1] "violinPlot_distPEscan_mC_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k1_WD_GAF_allPeaks_Histones_k_3_k1_min10_max500_range10_N2450_res250_peScan_centralRegion_8pixels_heatmaps_data_with_stats.tsv"
+     .y. group1 group2 n1 n2 statistic            p        p.adj p.adj.signif
+1 values Embryo     ED 64 64 10.093840 5.882211e-24 1.764663e-23         ****
+2 values Embryo     WD 64 64  3.825352 1.305852e-04 1.305852e-04          ***
+3 values     ED     WD 64 64 -6.268488 3.645705e-10 5.468558e-10         ****
+  p.adj.formatted y.position     groups xmin xmax
+1        1.76e-23    0.67784 Embryo, ED    1    2
+2        0.000131    0.73760 Embryo, WD    1    3
+3        5.47e-10    0.79736     ED, WD    2    3
+[1] 
+[1] distPEscan_mC_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k2_WD_GAF_allPeaks_Histones_k_3_k2_min10_max500_range10_N16750_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+  condition    values
+1    Embryo 0.2476952
+2    Embryo 0.2236767
+3    Embryo 0.2778048
+4    Embryo 0.2148176
+5    Embryo 0.1831348
+6    Embryo 0.2287902
+[1] "Embryo" "ED"     "WD"    
+    condition    values
+1      Embryo 0.2476952
+2      Embryo 0.2236767
+3      Embryo 0.2778048
+4      Embryo 0.2148176
+5      Embryo 0.1831348
+6      Embryo 0.2287902
+7      Embryo 0.2325642
+8      Embryo 0.1408902
+9      Embryo 0.2913272
+10     Embryo 0.2579915
+11     Embryo 0.2370706
+12     Embryo 0.2505455
+13     Embryo 0.2439470
+14     Embryo 0.2041543
+15     Embryo 0.2031474
+16     Embryo 0.1155923
+17     Embryo 0.2916067
+18     Embryo 0.3002965
+19     Embryo 0.2834421
+20     Embryo 0.2738267
+21     Embryo 0.2593576
+22     Embryo 0.2254404
+23     Embryo 0.2036284
+24     Embryo 0.2035243
+25     Embryo 0.3560939
+26     Embryo 0.2840711
+27     Embryo 0.3189868
+28     Embryo 0.3123564
+29     Embryo 0.2551936
+30     Embryo 0.2515151
+31     Embryo 0.1613862
+32     Embryo 0.2569741
+33     Embryo 0.2956972
+34     Embryo 0.3078626
+35     Embryo 0.3098013
+36     Embryo 0.3059473
+37     Embryo 0.2450777
+38     Embryo 0.2869667
+39     Embryo 0.2796387
+40     Embryo 0.2532282
+41     Embryo 0.3616045
+42     Embryo 0.2994044
+43     Embryo 0.3759064
+44     Embryo 0.2964019
+45     Embryo 0.3127059
+46     Embryo 0.2850777
+47     Embryo 0.2386811
+48     Embryo 0.1975723
+49     Embryo 0.3676611
+50     Embryo 0.2593012
+51     Embryo 0.3546304
+52     Embryo 0.2485603
+53     Embryo 0.2480606
+54     Embryo 0.3000090
+55     Embryo 0.2588283
+56     Embryo 0.1873210
+57     Embryo 0.3015027
+58     Embryo 0.3170548
+59     Embryo 0.2932412
+60     Embryo 0.2737060
+61     Embryo 0.2758875
+62     Embryo 0.2477731
+63     Embryo 0.1837395
+64     Embryo 0.2219252
+65         WD 0.3091124
+66         WD 0.3957166
+67         WD 0.4516130
+68         WD 0.4044484
+69         WD 0.3669719
+70         WD 0.3104587
+71         WD 0.3313652
+72         WD 0.2079044
+73         WD 0.4307500
+74         WD 0.3912557
+75         WD 0.3799333
+76         WD 0.4567879
+77         WD 0.3238144
+78         WD 0.2754350
+79         WD 0.2671855
+80         WD 0.1974615
+81         WD 0.4799215
+82         WD 0.4452724
+83         WD 0.4101330
+84         WD 0.4275894
+85         WD 0.4956880
+86         WD 0.4239966
+87         WD 0.3395238
+88         WD 0.3217554
+89         WD 0.4460735
+90         WD 0.4926614
+91         WD 0.4091679
+92         WD 0.5014296
+93         WD 0.4830257
+94         WD 0.4477024
+95         WD 0.3201011
+96         WD 0.3165727
+97         WD 0.4794720
+98         WD 0.4613214
+99         WD 0.4531505
+100        WD 0.5382698
+101        WD 0.5117863
+102        WD 0.4259986
+103        WD 0.3807566
+104        WD 0.2900363
+105        WD 0.5196681
+106        WD 0.4834563
+107        WD 0.4448514
+108        WD 0.4915642
+109        WD 0.3730894
+110        WD 0.4277022
+111        WD 0.3321768
+112        WD 0.2188094
+113        WD 0.4971564
+114        WD 0.4565357
+115        WD 0.5025958
+116        WD 0.5296098
+117        WD 0.3988110
+118        WD 0.4389356
+119        WD 0.3096561
+120        WD 0.2944558
+121        WD 0.5118238
+122        WD 0.3705488
+123        WD 0.4458912
+124        WD 0.4614443
+125        WD 0.4116222
+126        WD 0.3929917
+127        WD 0.3459002
+128        WD 0.3114761
+129        ED 0.4756327
+130        ED 0.5275258
+131        ED 0.6224853
+132        ED 0.5876384
+133        ED 0.5389453
+134        ED 0.5216813
+135        ED 0.5159141
+136        ED 0.4383002
+137        ED 0.5703271
+138        ED 0.5879449
+139        ED 0.5896073
+140        ED 0.6490997
+141        ED 0.5929192
+142        ED 0.6331471
+143        ED 0.4977714
+144        ED 0.5124184
+145        ED 0.5791683
+146        ED 0.6582268
+147        ED 0.6412068
+148        ED 0.7658156
+149        ED 0.5996618
+150        ED 0.5595242
+151        ED 0.6213699
+152        ED 0.4870128
+153        ED 0.6152893
+154        ED 0.6420565
+155        ED 0.7117612
+156        ED 0.7751235
+157        ED 0.7188960
+158        ED 0.6868854
+159        ED 0.5431889
+160        ED 0.5667763
+161        ED 0.5878538
+162        ED 0.6574482
+163        ED 0.7162180
+164        ED 0.7341586
+165        ED 0.7853690
+166        ED 0.6997817
+167        ED 0.5899999
+168        ED 0.5479691
+169        ED 0.5710256
+170        ED 0.6154773
+171        ED 0.6446546
+172        ED 0.7101760
+173        ED 0.6571092
+174        ED 0.6257537
+175        ED 0.5584791
+176        ED 0.4796516
+177        ED 0.6201925
+178        ED 0.5896343
+179        ED 0.6987102
+180        ED 0.7094124
+181        ED 0.6671825
+182        ED 0.6012337
+183        ED 0.5754979
+184        ED 0.4772965
+185        ED 0.5740862
+186        ED 0.6146650
+187        ED 0.6055736
+188        ED 0.5683877
+189        ED 0.5418900
+190        ED 0.6035048
+191        ED 0.4408308
+192        ED 0.4460208
+[1] ### Get summary statistics ###
+  condition variable  n  mean    sd
+1    Embryo   values 64 0.262 0.053
+2        ED   values 64 0.602 0.082
+3        WD   values 64 0.403 0.083
+  condition  n      score
+1    Embryo 64 0.09247385
+2        ED 64 0.09247385
+3        WD 64 0.09247385
+[1] ### Check assumptions ###
+[1] 1) Checking the presence of outliers
+[1] ### WARNING: The following data-points are outiers!
+# A tibble: 1 × 4
+  condition values is.outlier is.extreme
+  <fct>      <dbl> <lgl>      <lgl>     
+1 Embryo     0.116 TRUE       FALSE     
+[1] Note that, in the situation where you have extreme outliers, this can be due to:
+[1] 1) data entry errors, measurement errors or unusual values.
+[1] You can include the outlier in the analysis anyway if you do not believe the result will be substantially affected.
+[1] This can be evaluated by comparing the result of the ANOVA test with and without the outlier.
+[1] It’s also possible to keep the outliers in the data and perform robust ANOVA test using the WRS2 package.
+[1] 
+[1] 
+[1] 2) Checking normality assumption
+[1] # Building the linear model
+[1] # Creating a QQ plot of residuals
+[1] ### Compute Shapiro-Wilk test of normality ###
+# A tibble: 1 × 3
+  variable         statistic p.value
+  <chr>                <dbl>   <dbl>
+1 residuals(model)     0.992   0.390
+[1] In the QQ plot, as all the points fall approximately along the reference line, we can assume normality.
+[1] This conclusion is supported by the Shapiro-Wilk test. The p-value is not significant (p = 0.39012869972378),
+[1] so we can assume normality.
+[1] 
+[1] 3) Checking homogeneity of variance assumption
+[1] This can be checked using the Levene’s test:
+# A tibble: 1 × 4
+    df1   df2 statistic       p
+  <int> <int>     <dbl>   <dbl>
+1     2   189      6.44 0.00198
+[1] The Levene’s test is not significant (p > 0.0019782421395122). Therefore, we can assume the homogeneity of variances in the different groups.
+[1] ### Computation of the one-way ANOVA test ###
+[1] In the R code below, the asterisk represents the interaction effect and the main effect of each variable (and all lower-order interactions).
+# A tibble: 1 × 6
+  .y.        n statistic    df        p method        
+* <chr>  <int>     <dbl> <int>    <dbl> <chr>         
+1 values   192      150.     2 2.31e-33 Kruskal-Wallis
+[1] There was a statistically significant interaction between locis
+# A tibble: 1 × 6
+  .y.        n statistic    df        p method        
+  <chr>  <int>     <dbl> <int>    <dbl> <chr>         
+1 values   192      150.     2 2.31e-33 Kruskal-Wallis
+[1] 
+[1] ### Post-hoct tests ###
+[1] ### Procedure for significant one-way interaction ###
+[1] ### Compute pairwise comparisons ###
+[1] To determine which group means are different. We’ll now perform multiple pairwise comparisons between the different conditions.
+[1] You can run and interpret all possible pairwise comparisons using a Bonferroni adjustment.
+[1] This can be easily done using the function emmeans_test() [rstatix package], a wrapper around the emmeans package,
+[1] which needs to be installed. Emmeans stands for estimated marginal means (aka least square means or adjusted means).
+[1] Compare the values of the different cellType levels by condition levels:
+     .y. group1 group2 n1 n2 statistic            p        p.adj p.adj.signif
+1 values Embryo     ED 64 64 12.247490 1.732760e-34 5.198281e-34         ****
+2 values Embryo     WD 64 64  5.656114 1.548390e-08 1.548390e-08         ****
+3 values     ED     WD 64 64 -6.591376 4.357674e-11 6.536511e-11         ****
+[1] 
+[1] ### Visualization: barplots with p-values
+     .y. group1 group2 n1 n2 statistic            p        p.adj p.adj.signif
+1 values Embryo     ED 64 64 12.247490 1.732760e-34 5.198281e-34         ****
+2 values Embryo     WD 64 64  5.656114 1.548390e-08 1.548390e-08         ****
+3 values     ED     WD 64 64 -6.591376 4.357674e-11 6.536511e-11         ****
+  p.adj.formatted
+1         5.2e-34
+2        1.55e-08
+3        6.54e-11
+[1] "violinPlot_distPEscan_mC_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k2_WD_GAF_allPeaks_Histones_k_3_k2_min10_max500_range10_N16750_res250_peScan_centralRegion_8pixels_heatmaps_data_with_stats.tsv"
+     .y. group1 group2 n1 n2 statistic            p        p.adj p.adj.signif
+1 values Embryo     ED 64 64 12.247490 1.732760e-34 5.198281e-34         ****
+2 values Embryo     WD 64 64  5.656114 1.548390e-08 1.548390e-08         ****
+3 values     ED     WD 64 64 -6.591376 4.357674e-11 6.536511e-11         ****
+  p.adj.formatted y.position     groups xmin xmax
+1         5.2e-34    0.83408 Embryo, ED    1    2
+2        1.55e-08    0.90770 Embryo, WD    1    3
+3        6.54e-11    0.98132     ED, WD    2    3
+[1] 
+[1] distPEscan_mC_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k3_WD_GAF_allPeaks_Histones_k_3_k3_min10_max500_range10_N13141_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+  condition       values
+1    Embryo  0.167731913
+2    Embryo  0.152312551
+3    Embryo  0.145865524
+4    Embryo -0.003592771
+5    Embryo  0.104967546
+6    Embryo  0.056374735
+[1] "Embryo" "ED"     "WD"    
+    condition       values
+1      Embryo  0.167731913
+2      Embryo  0.152312551
+3      Embryo  0.145865524
+4      Embryo -0.003592771
+5      Embryo  0.104967546
+6      Embryo  0.056374735
+7      Embryo  0.020720438
+8      Embryo -0.059845735
+9      Embryo  0.146002048
+10     Embryo  0.186933251
+11     Embryo  0.141920125
+12     Embryo  0.090761808
+13     Embryo  0.103996096
+14     Embryo  0.041965956
+15     Embryo  0.048667474
+16     Embryo -0.032328128
+17     Embryo  0.285211796
+18     Embryo  0.262804282
+19     Embryo  0.136102387
+20     Embryo  0.228469080
+21     Embryo  0.043181037
+22     Embryo  0.081385213
+23     Embryo  0.112221551
+24     Embryo  0.010111309
+25     Embryo  0.349345102
+26     Embryo  0.337887425
+27     Embryo  0.304308182
+28     Embryo  0.390698080
+29     Embryo  0.043065932
+30     Embryo  0.129889770
+31     Embryo  0.091910896
+32     Embryo  0.097354747
+33     Embryo  0.886098530
+34     Embryo  0.984866044
+35     Embryo  0.465387358
+36     Embryo  1.076954609
+37     Embryo  0.185946686
+38     Embryo  0.107210471
+39     Embryo  0.032815501
+40     Embryo  0.081055689
+41     Embryo  0.258830041
+42     Embryo  0.228578919
+43     Embryo  0.261818533
+44     Embryo  0.294644179
+45     Embryo  0.167198575
+46     Embryo  0.113332445
+47     Embryo  0.145915285
+48     Embryo  0.052727507
+49     Embryo  0.222044610
+50     Embryo  0.292341334
+51     Embryo  0.215853582
+52     Embryo  0.167371467
+53     Embryo  0.088999652
+54     Embryo  0.142210103
+55     Embryo  0.109267290
+56     Embryo  0.139753600
+57     Embryo  0.264239260
+58     Embryo  0.225859178
+59     Embryo  0.194309894
+60     Embryo  0.244726932
+61     Embryo  0.194603453
+62     Embryo  0.081392842
+63     Embryo  0.034306221
+64     Embryo  0.085765594
+65         WD  0.064613438
+66         WD  0.080067892
+67         WD  0.149816968
+68         WD  0.055291162
+69         WD  0.040461594
+70         WD  0.033390667
+71         WD  0.028043649
+72         WD -0.011860429
+73         WD  0.119370378
+74         WD  0.123626220
+75         WD  0.194671306
+76         WD  0.112372795
+77         WD  0.073636505
+78         WD  0.048374311
+79         WD -0.024242705
+80         WD -0.039591247
+81         WD  0.229337554
+82         WD  0.339451789
+83         WD  0.184261731
+84         WD  0.359465301
+85         WD  0.086594058
+86         WD  0.116527675
+87         WD  0.080416673
+88         WD  0.092060331
+89         WD  0.339607165
+90         WD  0.384926765
+91         WD  0.297183416
+92         WD  0.410758051
+93         WD  0.036383810
+94         WD  0.012891644
+95         WD  0.149310117
+96         WD  0.120894079
+97         WD  0.798666594
+98         WD  0.886751738
+99         WD  0.470031163
+100        WD  1.026594261
+101        WD  0.203729966
+102        WD  0.110586602
+103        WD  0.099055609
+104        WD  0.181217905
+105        WD  0.189304539
+106        WD  0.201927673
+107        WD  0.217289335
+108        WD  0.167913360
+109        WD  0.138080463
+110        WD  0.146076099
+111        WD  0.133726976
+112        WD  0.069050007
+113        WD  0.283340588
+114        WD  0.178721220
+115        WD  0.160901869
+116        WD  0.186105316
+117        WD  0.169076715
+118        WD  0.162538671
+119        WD  0.083542646
+120        WD  0.079050062
+121        WD  0.147682962
+122        WD  0.288814914
+123        WD  0.203242652
+124        WD  0.163864392
+125        WD  0.114760558
+126        WD  0.149415518
+127        WD  0.079831055
+128        WD -0.007202988
+129        ED  0.250658543
+130        ED  0.218753974
+131        ED  0.222079224
+132        ED  0.177635935
+133        ED  0.204906927
+134        ED  0.114887782
+135        ED  0.132306034
+136        ED  0.148752962
+137        ED  0.136777853
+138        ED  0.247754173
+139        ED  0.209918355
+140        ED  0.194735629
+141        ED  0.273686737
+142        ED  0.148767475
+143        ED  0.161952778
+144        ED  0.088048361
+145        ED  0.223076453
+146        ED  0.231948930
+147        ED  0.234813590
+148        ED  0.298122657
+149        ED  0.281781294
+150        ED  0.136894146
+151        ED  0.149037517
+152        ED  0.059301222
+153        ED  0.254024297
+154        ED  0.260205485
+155        ED  0.163892415
+156        ED  0.361812309
+157        ED  0.331027209
+158        ED  0.160059617
+159        ED  0.142033854
+160        ED  0.117406500
+161        ED  0.239676223
+162        ED  0.260646718
+163        ED  0.287100259
+164        ED  0.323802290
+165        ED  0.291813485
+166        ED  0.218259191
+167        ED  0.174964846
+168        ED  0.169610794
+169        ED  0.153668840
+170        ED  0.270835866
+171        ED  0.291969974
+172        ED  0.361506225
+173        ED  0.258325610
+174        ED  0.266461616
+175        ED  0.200148520
+176        ED  0.254523842
+177        ED  0.297121691
+178        ED  0.286300695
+179        ED  0.350877882
+180        ED  0.213871129
+181        ED  0.272986696
+182        ED  0.278595966
+183        ED  0.253607802
+184        ED  0.134817116
+185        ED  0.194222131
+186        ED  0.279575462
+187        ED  0.194656283
+188        ED  0.279576032
+189        ED  0.231753338
+190        ED  0.215245342
+191        ED  0.168431296
+192        ED  0.138574579
+[1] ### Get summary statistics ###
+  condition variable  n  mean    sd
+1    Embryo   values 64 0.192 0.206
+2        ED   values 64 0.221 0.068
+3        WD   values 64 0.184 0.193
+  condition  n       score
+1    Embryo 64 -0.04787659
+2        ED 64 -0.04787659
+3        WD 64 -0.04787659
+[1] ### Check assumptions ###
+[1] 1) Checking the presence of outliers
+[1] ### WARNING: The following data-points are outiers!
+# A tibble: 9 × 4
+  condition values is.outlier is.extreme
+  <fct>      <dbl> <lgl>      <lgl>     
+1 Embryo     0.886 TRUE       TRUE      
+2 Embryo     0.985 TRUE       TRUE      
+3 Embryo     0.465 TRUE       FALSE     
+4 Embryo     1.08  TRUE       TRUE      
+5 WD         0.411 TRUE       FALSE     
+6 WD         0.799 TRUE       TRUE      
+7 WD         0.887 TRUE       TRUE      
+8 WD         0.470 TRUE       FALSE     
+9 WD         1.03  TRUE       TRUE      
+[1] Note that, in the situation where you have extreme outliers, this can be due to:
+[1] 1) data entry errors, measurement errors or unusual values.
+[1] You can include the outlier in the analysis anyway if you do not believe the result will be substantially affected.
+[1] This can be evaluated by comparing the result of the ANOVA test with and without the outlier.
+[1] It’s also possible to keep the outliers in the data and perform robust ANOVA test using the WRS2 package.
+[1] 
+[1] 
+[1] 2) Checking normality assumption
+[1] # Building the linear model
+[1] # Creating a QQ plot of residuals
+[1] ### Compute Shapiro-Wilk test of normality ###
+# A tibble: 1 × 3
+  variable         statistic  p.value
+  <chr>                <dbl>    <dbl>
+1 residuals(model)     0.718 8.96e-18
+[1] The normality assumption is not supported by the Shapiro-Wilk test. The p-value is significant (p = 8.96061772908618e-18),
+[1] so we cannot assume normality for this dataset.
+[1] 
+[1] 3) Checking homogeneity of variance assumption
+[1] This can be checked using the Levene’s test:
+# A tibble: 1 × 4
+    df1   df2 statistic      p
+  <int> <int>     <dbl>  <dbl>
+1     2   189      3.89 0.0221
+[1] The Levene’s test is not significant (p > 0.0221450262839787). Therefore, we can assume the homogeneity of variances in the different groups.
+[1] ### Computation of the one-way ANOVA test ###
+[1] In the R code below, the asterisk represents the interaction effect and the main effect of each variable (and all lower-order interactions).
+# A tibble: 1 × 6
+  .y.        n statistic    df         p method        
+* <chr>  <int>     <dbl> <int>     <dbl> <chr>         
+1 values   192      20.2     2 0.0000421 Kruskal-Wallis
+[1] There was a statistically significant interaction between locis
+# A tibble: 1 × 6
+  .y.        n statistic    df         p method        
+  <chr>  <int>     <dbl> <int>     <dbl> <chr>         
+1 values   192      20.2     2 0.0000421 Kruskal-Wallis
+[1] 
+[1] ### Post-hoct tests ###
+[1] ### Procedure for significant one-way interaction ###
+[1] ### Compute pairwise comparisons ###
+[1] To determine which group means are different. We’ll now perform multiple pairwise comparisons between the different conditions.
+[1] You can run and interpret all possible pairwise comparisons using a Bonferroni adjustment.
+[1] This can be easily done using the function emmeans_test() [rstatix package], a wrapper around the emmeans package,
+[1] which needs to be installed. Emmeans stands for estimated marginal means (aka least square means or adjusted means).
+[1] Compare the values of the different cellType levels by condition levels:
+     .y. group1 group2 n1 n2  statistic            p        p.adj p.adj.signif
+1 values Embryo     ED 64 64  3.7124210 0.0002052861 0.0003079292          ***
+2 values Embryo     WD 64 64 -0.3292507 0.7419661997 0.7419661997           ns
+3 values     ED     WD 64 64 -4.0416717 0.0000530715 0.0001592145          ***
+[1] 
+[1] ### Visualization: barplots with p-values
+     .y. group1 group2 n1 n2  statistic            p        p.adj p.adj.signif
+1 values Embryo     ED 64 64  3.7124210 0.0002052861 0.0003079292          ***
+2 values Embryo     WD 64 64 -0.3292507 0.7419661997 0.7419661997           ns
+3 values     ED     WD 64 64 -4.0416717 0.0000530715 0.0001592145          ***
+  p.adj.formatted
+1        0.000308
+2           0.742
+3        0.000159
+[1] "violinPlot_distPEscan_mC_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k3_WD_GAF_allPeaks_Histones_k_3_k3_min10_max500_range10_N13141_res250_peScan_centralRegion_8pixels_heatmaps_data_with_stats.tsv"
+     .y. group1 group2 n1 n2  statistic            p        p.adj p.adj.signif
+1 values Embryo     ED 64 64  3.7124210 0.0002052861 0.0003079292          ***
+2 values Embryo     WD 64 64 -0.3292507 0.7419661997 0.7419661997           ns
+3 values     ED     WD 64 64 -4.0416717 0.0000530715 0.0001592145          ***
+  p.adj.formatted y.position     groups xmin xmax
+1        0.000308     1.1628 Embryo, ED    1    2
+2           0.742     1.2915 Embryo, WD    1    3
+3        0.000159     1.4202     ED, WD    2    3
+[1] 
+
+mv: cannot stat '_tmp1.pdf': No such file or directory
+distPEscan_mC_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k1_WD_GAF_allPeaks_Histones_k_3_k1_min10_max500_range10_N2450_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+distPEscan_mC_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k2_WD_GAF_allPeaks_Histones_k_3_k2_min10_max500_range10_N16750_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+distPEscan_mC_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k3_WD_GAF_allPeaks_Histones_k_3_k3_min10_max500_range10_N13141_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+cl1 64
+cl2 64
+cl3 64
+WD
+sending incremental file list
+
+sent 1,129 bytes  received 12 bytes  2,282.00 bytes/sec
+total size is 1,123,100  speedup is 984.31
+distPEscan_mC_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k1_WD_GAF_allPeaks_Histones_k_3_k1_min10_max500_range10_N2450_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+distPEscan_mC_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k2_WD_GAF_allPeaks_Histones_k_3_k2_min10_max500_range10_N16750_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+distPEscan_mC_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k3_WD_GAF_allPeaks_Histones_k_3_k3_min10_max500_range10_N13141_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+cl1 64
+cl2 64
+cl3 64
+ED
+sending incremental file list
+
+sent 1,129 bytes  received 12 bytes  2,282.00 bytes/sec
+total size is 1,123,100  speedup is 984.31
+distPEscan_mC_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k1_WD_GAF_allPeaks_Histones_k_3_k1_min10_max500_range10_N2450_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+distPEscan_mC_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k2_WD_GAF_allPeaks_Histones_k_3_k2_min10_max500_range10_N16750_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+distPEscan_mC_minDist10_maxDist500_WD_GAF_allPeaks_Histones_k_3_k3_WD_GAF_allPeaks_Histones_k_3_k3_min10_max500_range10_N13141_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+cl1 64
+cl2 64
+cl3 64
+── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+✔ dplyr     1.1.4     ✔ readr     2.1.4
+✔ forcats   1.0.0     ✔ stringr   1.5.1
+✔ ggplot2   4.0.0     ✔ tibble    3.2.1
+✔ lubridate 1.9.4     ✔ tidyr     1.3.1
+✔ purrr     1.1.0     
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
+
+Attaching package: ‘rstatix’
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+Registered S3 methods overwritten by 'FSA':
+  method       from
+  confint.boot car 
+  hist.boot    car 
+## FSA v0.10.0. See citation('FSA') if used in publication.
+## Run fishR() for related website and fishR('IFAR') for related book.
+`summarise()` has grouped output by 'condition'. You can override using the
+`.groups` argument.
+`summarise()` has grouped output by 'condition'. You can override using the
+`.groups` argument.
+`summarise()` has grouped output by 'condition'. You can override using the
+`.groups` argument.
+Warning messages:
+1: Returning more (or less) than 1 row per `summarise()` group was deprecated in
+dplyr 1.1.0.
+ℹ Please use `reframe()` instead.
+ℹ When switching from `summarise()` to `reframe()`, remember that `reframe()`
+  always returns an ungrouped data frame and adjust accordingly. 
+2: The `size` argument of `element_line()` is deprecated as of ggplot2 3.4.0.
+ℹ Please use the `linewidth` argument instead.
+ℹ The deprecated feature was likely used in the ggpubr package.
+  Please report the issue at <https://github.com/kassambara/ggpubr/issues>. 
+3: The `size` argument of `element_rect()` is deprecated as of ggplot2 3.4.0.
+ℹ Please use the `linewidth` argument instead.
+ℹ The deprecated feature was likely used in the ggpubr package.
+  Please report the issue at <https://github.com/kassambara/ggpubr/issues>. 
+4: Returning more (or less) than 1 row per `summarise()` group was deprecated in
+dplyr 1.1.0.
+ℹ Please use `reframe()` instead.
+ℹ When switching from `summarise()` to `reframe()`, remember that `reframe()`
+  always returns an ungrouped data frame and adjust accordingly. 
+5: Returning more (or less) than 1 row per `summarise()` group was deprecated in
+dplyr 1.1.0.
+ℹ Please use `reframe()` instead.
+ℹ When switching from `summarise()` to `reframe()`, remember that `reframe()`
+  always returns an ungrouped data frame and adjust accordingly. 
+
+[1] "distPEscan_mC_ED_WD_GAF_allPeaks_Histones_k_3_min10_max500_range10_res250_peScan_centralRegion_8pixels_heatmaps_data.txt"    
+[2] "distPEscan_mC_Embryo_WD_GAF_allPeaks_Histones_k_3_min10_max500_range10_res250_peScan_centralRegion_8pixels_heatmaps_data.txt"
+[3] "distPEscan_mC_WD_WD_GAF_allPeaks_Histones_k_3_min10_max500_range10_res250_peScan_centralRegion_8pixels_heatmaps_data.txt"    
+[1] distPEscan_mC_ED_WD_GAF_allPeaks_Histones_k_3_min10_max500_range10_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+  condition    values
+1       cl1 0.2628423
+2       cl1 0.3926840
+3       cl1 0.3275555
+4       cl1 0.3257023
+5       cl1 0.3753915
+6       cl1 0.3538425
+[1] "cl1" "cl2" "cl3"
+    condition     values
+1         cl1 0.26284226
+2         cl1 0.39268397
+3         cl1 0.32755547
+4         cl1 0.32570228
+5         cl1 0.37539154
+6         cl1 0.35384249
+7         cl1 0.38761759
+8         cl1 0.34969217
+9         cl1 0.25217984
+10        cl1 0.33758506
+11        cl1 0.37351663
+12        cl1 0.49884578
+13        cl1 0.38364628
+14        cl1 0.32102839
+15        cl1 0.50275151
+16        cl1 0.37473833
+17        cl1 0.29467539
+18        cl1 0.24488917
+19        cl1 0.43315220
+20        cl1 0.60016593
+21        cl1 0.45643302
+22        cl1 0.35490429
+23        cl1 0.32129757
+24        cl1 0.30078670
+25        cl1 0.32514690
+26        cl1 0.37457679
+27        cl1 0.37503195
+28        cl1 0.49165948
+29        cl1 0.54432350
+30        cl1 0.46025910
+31        cl1 0.41069879
+32        cl1 0.33603723
+33        cl1 0.30501541
+34        cl1 0.49811970
+35        cl1 0.53868373
+36        cl1 0.58419242
+37        cl1 0.51293704
+38        cl1 0.56940382
+39        cl1 0.34098866
+40        cl1 0.21800808
+41        cl1 0.46980169
+42        cl1 0.44176929
+43        cl1 0.39189286
+44        cl1 0.63834863
+45        cl1 0.40844791
+46        cl1 0.44406110
+47        cl1 0.39630462
+48        cl1 0.30052336
+49        cl1 0.41541796
+50        cl1 0.41411183
+51        cl1 0.39391283
+52        cl1 0.46568140
+53        cl1 0.44790722
+54        cl1 0.41555968
+55        cl1 0.22111771
+56        cl1 0.27280840
+57        cl1 0.42838942
+58        cl1 0.34528294
+59        cl1 0.34575949
+60        cl1 0.37391220
+61        cl1 0.33448709
+62        cl1 0.29419435
+63        cl1 0.35777047
+64        cl1 0.32613143
+65        cl2 0.47563272
+66        cl2 0.52752582
+67        cl2 0.62248531
+68        cl2 0.58763844
+69        cl2 0.53894530
+70        cl2 0.52168128
+71        cl2 0.51591408
+72        cl2 0.43830021
+73        cl2 0.57032713
+74        cl2 0.58794487
+75        cl2 0.58960729
+76        cl2 0.64909970
+77        cl2 0.59291920
+78        cl2 0.63314707
+79        cl2 0.49777135
+80        cl2 0.51241836
+81        cl2 0.57916827
+82        cl2 0.65822684
+83        cl2 0.64120679
+84        cl2 0.76581556
+85        cl2 0.59966179
+86        cl2 0.55952416
+87        cl2 0.62136991
+88        cl2 0.48701284
+89        cl2 0.61528927
+90        cl2 0.64205654
+91        cl2 0.71176122
+92        cl2 0.77512349
+93        cl2 0.71889596
+94        cl2 0.68688539
+95        cl2 0.54318890
+96        cl2 0.56677635
+97        cl2 0.58785375
+98        cl2 0.65744819
+99        cl2 0.71621804
+100       cl2 0.73415861
+101       cl2 0.78536901
+102       cl2 0.69978170
+103       cl2 0.58999990
+104       cl2 0.54796907
+105       cl2 0.57102559
+106       cl2 0.61547728
+107       cl2 0.64465458
+108       cl2 0.71017601
+109       cl2 0.65710925
+110       cl2 0.62575373
+111       cl2 0.55847914
+112       cl2 0.47965161
+113       cl2 0.62019250
+114       cl2 0.58963433
+115       cl2 0.69871015
+116       cl2 0.70941245
+117       cl2 0.66718254
+118       cl2 0.60123372
+119       cl2 0.57549785
+120       cl2 0.47729650
+121       cl2 0.57408618
+122       cl2 0.61466497
+123       cl2 0.60557363
+124       cl2 0.56838774
+125       cl2 0.54189004
+126       cl2 0.60350475
+127       cl2 0.44083080
+128       cl2 0.44602076
+129       cl3 0.25065854
+130       cl3 0.21875397
+131       cl3 0.22207922
+132       cl3 0.17763594
+133       cl3 0.20490693
+134       cl3 0.11488778
+135       cl3 0.13230603
+136       cl3 0.14875296
+137       cl3 0.13677785
+138       cl3 0.24775417
+139       cl3 0.20991836
+140       cl3 0.19473563
+141       cl3 0.27368674
+142       cl3 0.14876748
+143       cl3 0.16195278
+144       cl3 0.08804836
+145       cl3 0.22307645
+146       cl3 0.23194893
+147       cl3 0.23481359
+148       cl3 0.29812266
+149       cl3 0.28178129
+150       cl3 0.13689415
+151       cl3 0.14903752
+152       cl3 0.05930122
+153       cl3 0.25402430
+154       cl3 0.26020549
+155       cl3 0.16389242
+156       cl3 0.36181231
+157       cl3 0.33102721
+158       cl3 0.16005962
+159       cl3 0.14203385
+160       cl3 0.11740650
+161       cl3 0.23967622
+162       cl3 0.26064672
+163       cl3 0.28710026
+164       cl3 0.32380229
+165       cl3 0.29181348
+166       cl3 0.21825919
+167       cl3 0.17496485
+168       cl3 0.16961079
+169       cl3 0.15366884
+170       cl3 0.27083587
+171       cl3 0.29196997
+172       cl3 0.36150622
+173       cl3 0.25832561
+174       cl3 0.26646162
+175       cl3 0.20014852
+176       cl3 0.25452384
+177       cl3 0.29712169
+178       cl3 0.28630069
+179       cl3 0.35087788
+180       cl3 0.21387113
+181       cl3 0.27298670
+182       cl3 0.27859597
+183       cl3 0.25360780
+184       cl3 0.13481712
+185       cl3 0.19422213
+186       cl3 0.27957546
+187       cl3 0.19465628
+188       cl3 0.27957603
+189       cl3 0.23175334
+190       cl3 0.21524534
+191       cl3 0.16843130
+192       cl3 0.13857458
+[1] ### Get summary statistics ###
+  condition variable  n  mean    sd
+1       cl1   values 64 0.391 0.092
+2       cl2   values 64 0.602 0.082
+3       cl3   values 64 0.221 0.068
+  condition  n      score
+1       cl1 64 0.06226628
+2       cl2 64 0.06226628
+3       cl3 64 0.06226628
+[1] ### Check assumptions ###
+[1] 1) Checking the presence of outliers
+[1] ### WARNING: The following data-points are outiers!
+# A tibble: 1 × 4
+  condition values is.outlier is.extreme
+  <fct>      <dbl> <lgl>      <lgl>     
+1 cl1        0.638 TRUE       FALSE     
+[1] Note that, in the situation where you have extreme outliers, this can be due to:
+[1] 1) data entry errors, measurement errors or unusual values.
+[1] You can include the outlier in the analysis anyway if you do not believe the result will be substantially affected.
+[1] This can be evaluated by comparing the result of the ANOVA test with and without the outlier.
+[1] It’s also possible to keep the outliers in the data and perform robust ANOVA test using the WRS2 package.
+[1] 
+[1] 
+[1] 2) Checking normality assumption
+[1] # Building the linear model
+[1] # Creating a QQ plot of residuals
+[1] ### Compute Shapiro-Wilk test of normality ###
+# A tibble: 1 × 3
+  variable         statistic p.value
+  <chr>                <dbl>   <dbl>
+1 residuals(model)     0.992   0.354
+[1] In the QQ plot, as all the points fall approximately along the reference line, we can assume normality.
+[1] This conclusion is supported by the Shapiro-Wilk test. The p-value is not significant (p = 0.354223749599861),
+[1] so we can assume normality.
+[1] 
+[1] 3) Checking homogeneity of variance assumption
+[1] This can be checked using the Levene’s test:
+# A tibble: 1 × 4
+    df1   df2 statistic     p
+  <int> <int>     <dbl> <dbl>
+1     2   189      1.38 0.253
+[1] The Levene’s test is not significant (p > 0.253329520090794). Therefore, we can assume the homogeneity of variances in the different groups.
+[1] ### Computation of the one-way ANOVA test ###
+[1] In the R code below, the asterisk represents the interaction effect and the main effect of each variable (and all lower-order interactions).
+# A tibble: 1 × 6
+  .y.        n statistic    df        p method        
+* <chr>  <int>     <dbl> <int>    <dbl> <chr>         
+1 values   192      152.     2 1.09e-33 Kruskal-Wallis
+[1] There was a statistically significant interaction between locis
+# A tibble: 1 × 6
+  .y.        n statistic    df        p method        
+  <chr>  <int>     <dbl> <int>    <dbl> <chr>         
+1 values   192      152.     2 1.09e-33 Kruskal-Wallis
+[1] 
+[1] ### Post-hoct tests ###
+[1] ### Procedure for significant one-way interaction ###
+[1] ### Compute pairwise comparisons ###
+[1] To determine which group means are different. We’ll now perform multiple pairwise comparisons between the different conditions.
+[1] You can run and interpret all possible pairwise comparisons using a Bonferroni adjustment.
+[1] This can be easily done using the function emmeans_test() [rstatix package], a wrapper around the emmeans package,
+[1] which needs to be installed. Emmeans stands for estimated marginal means (aka least square means or adjusted means).
+[1] Compare the values of the different cellType levels by condition levels:
+     .y. group1 group2 n1 n2  statistic            p        p.adj p.adj.signif
+1 values    cl1    cl2 64 64   6.231905 4.607979e-10 6.911968e-10         ****
+2 values    cl1    cl3 64 64  -6.088752 1.137941e-09 1.137941e-09         ****
+3 values    cl2    cl3 64 64 -12.320657 7.012081e-35 2.103624e-34         ****
+[1] 
+[1] ### Visualization: barplots with p-values
+     .y. group1 group2 n1 n2  statistic            p        p.adj p.adj.signif
+1 values    cl1    cl2 64 64   6.231905 4.607979e-10 6.911968e-10         ****
+2 values    cl1    cl3 64 64  -6.088752 1.137941e-09 1.137941e-09         ****
+3 values    cl2    cl3 64 64 -12.320657 7.012081e-35 2.103624e-34         ****
+  p.adj.formatted
+1        6.91e-10
+2        1.14e-09
+3         2.1e-34
+[1] "violinPlot_distPEscan_mC_ED_WD_GAF_allPeaks_Histones_k_3_min10_max500_range10_res250_peScan_centralRegion_8pixels_heatmaps_data_with_stats.tsv"
+     .y. group1 group2 n1 n2  statistic            p        p.adj p.adj.signif
+1 values    cl1    cl2 64 64   6.231905 4.607979e-10 6.911968e-10         ****
+2 values    cl1    cl3 64 64  -6.088752 1.137941e-09 1.137941e-09         ****
+3 values    cl2    cl3 64 64 -12.320657 7.012081e-35 2.103624e-34         ****
+  p.adj.formatted y.position   groups xmin xmax
+1        6.91e-10    0.83576 cl1, cl2    1    2
+2        1.14e-09    0.91190 cl1, cl3    1    3
+3         2.1e-34    0.98804 cl2, cl3    2    3
+[1] 
+[1] distPEscan_mC_Embryo_WD_GAF_allPeaks_Histones_k_3_min10_max500_range10_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+  condition    values
+1       cl1 0.1249412
+2       cl1 0.2656816
+3       cl1 0.2169725
+4       cl1 0.2244121
+5       cl1 0.2192316
+6       cl1 0.1403394
+[1] "cl1" "cl2" "cl3"
+    condition       values
+1         cl1  0.124941191
+2         cl1  0.265681614
+3         cl1  0.216972538
+4         cl1  0.224412068
+5         cl1  0.219231566
+6         cl1  0.140339419
+7         cl1  0.113180025
+8         cl1  0.106784524
+9         cl1  0.178877005
+10        cl1  0.166858505
+11        cl1  0.143299605
+12        cl1  0.128396734
+13        cl1  0.106716438
+14        cl1  0.228014022
+15        cl1  0.265518903
+16        cl1  0.069447002
+17        cl1  0.293315410
+18        cl1  0.298255203
+19        cl1  0.199635565
+20        cl1  0.188793201
+21        cl1  0.178079552
+22        cl1  0.234442399
+23        cl1  0.188854734
+24        cl1  0.266915613
+25        cl1  0.175117254
+26        cl1  0.083073729
+27        cl1  0.149485445
+28        cl1  0.168548279
+29        cl1  0.205578673
+30        cl1  0.189868718
+31        cl1  0.143969736
+32        cl1  0.162433210
+33        cl1  0.212530253
+34        cl1  0.228019677
+35        cl1  0.239609787
+36        cl1  0.258208645
+37        cl1  0.212471914
+38        cl1  0.175439280
+39        cl1  0.133477610
+40        cl1  0.247851285
+41        cl1  0.211822422
+42        cl1  0.275431714
+43        cl1  0.209252261
+44        cl1  0.124536677
+45        cl1  0.147799981
+46        cl1  0.181689221
+47        cl1  0.118054734
+48        cl1  0.123772756
+49        cl1  0.301983679
+50        cl1  0.280798916
+51        cl1  0.305717882
+52        cl1  0.225141873
+53        cl1  0.131826502
+54        cl1  0.211873621
+55        cl1  0.192774408
+56        cl1  0.117595030
+57        cl1  0.265144879
+58        cl1  0.234049894
+59        cl1  0.182209866
+60        cl1  0.191353670
+61        cl1  0.129073985
+62        cl1  0.283373134
+63        cl1  0.171617122
+64        cl1  0.145697163
+65        cl2  0.247695231
+66        cl2  0.223676658
+67        cl2  0.277804769
+68        cl2  0.214817603
+69        cl2  0.183134798
+70        cl2  0.228790182
+71        cl2  0.232564163
+72        cl2  0.140890168
+73        cl2  0.291327160
+74        cl2  0.257991526
+75        cl2  0.237070608
+76        cl2  0.250545469
+77        cl2  0.243946951
+78        cl2  0.204154329
+79        cl2  0.203147419
+80        cl2  0.115592309
+81        cl2  0.291606655
+82        cl2  0.300296499
+83        cl2  0.283442065
+84        cl2  0.273826652
+85        cl2  0.259357610
+86        cl2  0.225440373
+87        cl2  0.203628376
+88        cl2  0.203524318
+89        cl2  0.356093946
+90        cl2  0.284071086
+91        cl2  0.318986763
+92        cl2  0.312356447
+93        cl2  0.255193561
+94        cl2  0.251515110
+95        cl2  0.161386186
+96        cl2  0.256974117
+97        cl2  0.295697186
+98        cl2  0.307862616
+99        cl2  0.309801338
+100       cl2  0.305947297
+101       cl2  0.245077702
+102       cl2  0.286966680
+103       cl2  0.279638726
+104       cl2  0.253228246
+105       cl2  0.361604521
+106       cl2  0.299404371
+107       cl2  0.375906414
+108       cl2  0.296401890
+109       cl2  0.312705858
+110       cl2  0.285077702
+111       cl2  0.238681073
+112       cl2  0.197572298
+113       cl2  0.367661141
+114       cl2  0.259301200
+115       cl2  0.354630356
+116       cl2  0.248560320
+117       cl2  0.248060594
+118       cl2  0.300008958
+119       cl2  0.258828251
+120       cl2  0.187321048
+121       cl2  0.301502710
+122       cl2  0.317054770
+123       cl2  0.293241246
+124       cl2  0.273705968
+125       cl2  0.275887542
+126       cl2  0.247773079
+127       cl2  0.183739525
+128       cl2  0.221925207
+129       cl3  0.167731913
+130       cl3  0.152312551
+131       cl3  0.145865524
+132       cl3 -0.003592771
+133       cl3  0.104967546
+134       cl3  0.056374735
+135       cl3  0.020720438
+136       cl3 -0.059845735
+137       cl3  0.146002048
+138       cl3  0.186933251
+139       cl3  0.141920125
+140       cl3  0.090761808
+141       cl3  0.103996096
+142       cl3  0.041965956
+143       cl3  0.048667474
+144       cl3 -0.032328128
+145       cl3  0.285211796
+146       cl3  0.262804282
+147       cl3  0.136102387
+148       cl3  0.228469080
+149       cl3  0.043181037
+150       cl3  0.081385213
+151       cl3  0.112221551
+152       cl3  0.010111309
+153       cl3  0.349345102
+154       cl3  0.337887425
+155       cl3  0.304308182
+156       cl3  0.390698080
+157       cl3  0.043065932
+158       cl3  0.129889770
+159       cl3  0.091910896
+160       cl3  0.097354747
+161       cl3  0.886098530
+162       cl3  0.984866044
+163       cl3  0.465387358
+164       cl3  1.076954609
+165       cl3  0.185946686
+166       cl3  0.107210471
+167       cl3  0.032815501
+168       cl3  0.081055689
+169       cl3  0.258830041
+170       cl3  0.228578919
+171       cl3  0.261818533
+172       cl3  0.294644179
+173       cl3  0.167198575
+174       cl3  0.113332445
+175       cl3  0.145915285
+176       cl3  0.052727507
+177       cl3  0.222044610
+178       cl3  0.292341334
+179       cl3  0.215853582
+180       cl3  0.167371467
+181       cl3  0.088999652
+182       cl3  0.142210103
+183       cl3  0.109267290
+184       cl3  0.139753600
+185       cl3  0.264239260
+186       cl3  0.225859178
+187       cl3  0.194309894
+188       cl3  0.244726932
+189       cl3  0.194603453
+190       cl3  0.081392842
+191       cl3  0.034306221
+192       cl3  0.085765594
+[1] ### Get summary statistics ###
+  condition variable  n  mean    sd
+1       cl1   values 64 0.192 0.059
+2       cl2   values 64 0.262 0.053
+3       cl3   values 64 0.192 0.206
+  condition  n       score
+1       cl1 64 -0.06283802
+2       cl2 64 -0.06283802
+3       cl3 64 -0.06283802
+[1] ### Check assumptions ###
+[1] 1) Checking the presence of outliers
+[1] ### WARNING: The following data-points are outiers!
+# A tibble: 5 × 4
+  condition values is.outlier is.extreme
+  <fct>      <dbl> <lgl>      <lgl>     
+1 cl2        0.116 TRUE       FALSE     
+2 cl3        0.886 TRUE       TRUE      
+3 cl3        0.985 TRUE       TRUE      
+4 cl3        0.465 TRUE       FALSE     
+5 cl3        1.08  TRUE       TRUE      
+[1] Note that, in the situation where you have extreme outliers, this can be due to:
+[1] 1) data entry errors, measurement errors or unusual values.
+[1] You can include the outlier in the analysis anyway if you do not believe the result will be substantially affected.
+[1] This can be evaluated by comparing the result of the ANOVA test with and without the outlier.
+[1] It’s also possible to keep the outliers in the data and perform robust ANOVA test using the WRS2 package.
+[1] 
+[1] 
+[1] 2) Checking normality assumption
+[1] # Building the linear model
+[1] # Creating a QQ plot of residuals
+[1] ### Compute Shapiro-Wilk test of normality ###
+# A tibble: 1 × 3
+  variable         statistic  p.value
+  <chr>                <dbl>    <dbl>
+1 residuals(model)     0.682 8.14e-19
+[1] The normality assumption is not supported by the Shapiro-Wilk test. The p-value is significant (p = 8.13828868024229e-19),
+[1] so we cannot assume normality for this dataset.
+[1] 
+[1] 3) Checking homogeneity of variance assumption
+[1] This can be checked using the Levene’s test:
+# A tibble: 1 × 4
+    df1   df2 statistic         p
+  <int> <int>     <dbl>     <dbl>
+1     2   189      10.9 0.0000332
+[1] The Levene’s test is not significant (p > 3.31791743205793e-05). Therefore, we can assume the homogeneity of variances in the different groups.
+[1] ### Computation of the one-way ANOVA test ###
+[1] In the R code below, the asterisk represents the interaction effect and the main effect of each variable (and all lower-order interactions).
+# A tibble: 1 × 6
+  .y.        n statistic    df        p method        
+* <chr>  <int>     <dbl> <int>    <dbl> <chr>         
+1 values   192      46.1     2 9.53e-11 Kruskal-Wallis
+[1] There was a statistically significant interaction between locis
+# A tibble: 1 × 6
+  .y.        n statistic    df        p method        
+  <chr>  <int>     <dbl> <int>    <dbl> <chr>         
+1 values   192      46.1     2 9.53e-11 Kruskal-Wallis
+[1] 
+[1] ### Post-hoct tests ###
+[1] ### Procedure for significant one-way interaction ###
+[1] ### Compute pairwise comparisons ###
+[1] To determine which group means are different. We’ll now perform multiple pairwise comparisons between the different conditions.
+[1] You can run and interpret all possible pairwise comparisons using a Bonferroni adjustment.
+[1] This can be easily done using the function emmeans_test() [rstatix package], a wrapper around the emmeans package,
+[1] which needs to be installed. Emmeans stands for estimated marginal means (aka least square means or adjusted means).
+[1] Compare the values of the different cellType levels by condition levels:
+     .y. group1 group2 n1 n2 statistic            p        p.adj p.adj.signif
+1 values    cl1    cl2 64 64  5.058054 4.235558e-07 6.353337e-07         ****
+2 values    cl1    cl3 64 64 -1.398123 1.620763e-01 1.620763e-01           ns
+3 values    cl2    cl3 64 64 -6.456177 1.073811e-10 3.221433e-10         ****
+[1] 
+[1] ### Visualization: barplots with p-values
+     .y. group1 group2 n1 n2 statistic            p        p.adj p.adj.signif
+1 values    cl1    cl2 64 64  5.058054 4.235558e-07 6.353337e-07         ****
+2 values    cl1    cl3 64 64 -1.398123 1.620763e-01 1.620763e-01           ns
+3 values    cl2    cl3 64 64 -6.456177 1.073811e-10 3.221433e-10         ****
+  p.adj.formatted
+1        6.35e-07
+2           0.162
+3        3.22e-10
+[1] "violinPlot_distPEscan_mC_Embryo_WD_GAF_allPeaks_Histones_k_3_min10_max500_range10_res250_peScan_centralRegion_8pixels_heatmaps_data_with_stats.tsv"
+     .y. group1 group2 n1 n2 statistic            p        p.adj p.adj.signif
+1 values    cl1    cl2 64 64  5.058054 4.235558e-07 6.353337e-07         ****
+2 values    cl1    cl3 64 64 -1.398123 1.620763e-01 1.620763e-01           ns
+3 values    cl2    cl3 64 64 -6.456177 1.073811e-10 3.221433e-10         ****
+  p.adj.formatted y.position   groups xmin xmax
+1        6.35e-07    1.16952 cl1, cl2    1    2
+2           0.162    1.30830 cl1, cl3    1    3
+3        3.22e-10    1.44708 cl2, cl3    2    3
+[1] 
+[1] distPEscan_mC_WD_WD_GAF_allPeaks_Histones_k_3_min10_max500_range10_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+  condition    values
+1       cl1 0.2496856
+2       cl1 0.2033518
+3       cl1 0.2951804
+4       cl1 0.1382016
+5       cl1 0.1935180
+6       cl1 0.2324951
+[1] "cl1" "cl2" "cl3"
+    condition       values
+1         cl1  0.249685621
+2         cl1  0.203351835
+3         cl1  0.295180376
+4         cl1  0.138201576
+5         cl1  0.193517987
+6         cl1  0.232495062
+7         cl1  0.195735257
+8         cl1  0.091159103
+9         cl1  0.233700624
+10        cl1  0.259233368
+11        cl1  0.373765962
+12        cl1  0.235597377
+13        cl1  0.312210866
+14        cl1  0.317189904
+15        cl1  0.276401056
+16        cl1  0.206219861
+17        cl1  0.214943009
+18        cl1  0.224030164
+19        cl1  0.306213833
+20        cl1  0.352495759
+21        cl1  0.066032334
+22        cl1  0.206414135
+23        cl1  0.247000019
+24        cl1  0.109581740
+25        cl1  0.173041512
+26        cl1  0.291749741
+27        cl1  0.219276940
+28        cl1  0.194696938
+29        cl1  0.229227960
+30        cl1  0.203255931
+31        cl1  0.120603348
+32        cl1  0.151491378
+33        cl1  0.276391715
+34        cl1  0.387995866
+35        cl1  0.443503866
+36        cl1  0.345445969
+37        cl1  0.269404439
+38        cl1  0.430333381
+39        cl1  0.235115576
+40        cl1  0.159220318
+41        cl1  0.418358340
+42        cl1  0.303348486
+43        cl1  0.344558269
+44        cl1  0.327074577
+45        cl1  0.292382044
+46        cl1  0.271820721
+47        cl1  0.344914409
+48        cl1  0.430468280
+49        cl1  0.376373513
+50        cl1  0.250290238
+51        cl1  0.348855575
+52        cl1  0.182102030
+53        cl1  0.133673008
+54        cl1  0.244521068
+55        cl1  0.206477237
+56        cl1  0.218972314
+57        cl1  0.312946831
+58        cl1  0.368515155
+59        cl1  0.287220167
+60        cl1  0.286596415
+61        cl1  0.212280731
+62        cl1  0.237437519
+63        cl1  0.180375945
+64        cl1  0.237168729
+65        cl2  0.309112415
+66        cl2  0.395716576
+67        cl2  0.451613013
+68        cl2  0.404448355
+69        cl2  0.366971918
+70        cl2  0.310458654
+71        cl2  0.331365166
+72        cl2  0.207904387
+73        cl2  0.430750004
+74        cl2  0.391255725
+75        cl2  0.379933303
+76        cl2  0.456787874
+77        cl2  0.323814403
+78        cl2  0.275435005
+79        cl2  0.267185510
+80        cl2  0.197461526
+81        cl2  0.479921466
+82        cl2  0.445272413
+83        cl2  0.410132975
+84        cl2  0.427589375
+85        cl2  0.495687971
+86        cl2  0.423996604
+87        cl2  0.339523805
+88        cl2  0.321755425
+89        cl2  0.446073519
+90        cl2  0.492661362
+91        cl2  0.409167896
+92        cl2  0.501429600
+93        cl2  0.483025650
+94        cl2  0.447702434
+95        cl2  0.320101102
+96        cl2  0.316572650
+97        cl2  0.479471972
+98        cl2  0.461321448
+99        cl2  0.453150501
+100       cl2  0.538269790
+101       cl2  0.511786333
+102       cl2  0.425998578
+103       cl2  0.380756581
+104       cl2  0.290036331
+105       cl2  0.519668081
+106       cl2  0.483456263
+107       cl2  0.444851379
+108       cl2  0.491564174
+109       cl2  0.373089435
+110       cl2  0.427702195
+111       cl2  0.332176822
+112       cl2  0.218809418
+113       cl2  0.497156431
+114       cl2  0.456535717
+115       cl2  0.502595764
+116       cl2  0.529609769
+117       cl2  0.398810977
+118       cl2  0.438935573
+119       cl2  0.309656120
+120       cl2  0.294455807
+121       cl2  0.511823796
+122       cl2  0.370548767
+123       cl2  0.445891205
+124       cl2  0.461444331
+125       cl2  0.411622158
+126       cl2  0.392991718
+127       cl2  0.345900210
+128       cl2  0.311476112
+129       cl3  0.064613438
+130       cl3  0.080067892
+131       cl3  0.149816968
+132       cl3  0.055291162
+133       cl3  0.040461594
+134       cl3  0.033390667
+135       cl3  0.028043649
+136       cl3 -0.011860429
+137       cl3  0.119370378
+138       cl3  0.123626220
+139       cl3  0.194671306
+140       cl3  0.112372795
+141       cl3  0.073636505
+142       cl3  0.048374311
+143       cl3 -0.024242705
+144       cl3 -0.039591247
+145       cl3  0.229337554
+146       cl3  0.339451789
+147       cl3  0.184261731
+148       cl3  0.359465301
+149       cl3  0.086594058
+150       cl3  0.116527675
+151       cl3  0.080416673
+152       cl3  0.092060331
+153       cl3  0.339607165
+154       cl3  0.384926765
+155       cl3  0.297183416
+156       cl3  0.410758051
+157       cl3  0.036383810
+158       cl3  0.012891644
+159       cl3  0.149310117
+160       cl3  0.120894079
+161       cl3  0.798666594
+162       cl3  0.886751738
+163       cl3  0.470031163
+164       cl3  1.026594261
+165       cl3  0.203729966
+166       cl3  0.110586602
+167       cl3  0.099055609
+168       cl3  0.181217905
+169       cl3  0.189304539
+170       cl3  0.201927673
+171       cl3  0.217289335
+172       cl3  0.167913360
+173       cl3  0.138080463
+174       cl3  0.146076099
+175       cl3  0.133726976
+176       cl3  0.069050007
+177       cl3  0.283340588
+178       cl3  0.178721220
+179       cl3  0.160901869
+180       cl3  0.186105316
+181       cl3  0.169076715
+182       cl3  0.162538671
+183       cl3  0.083542646
+184       cl3  0.079050062
+185       cl3  0.147682962
+186       cl3  0.288814914
+187       cl3  0.203242652
+188       cl3  0.163864392
+189       cl3  0.114760558
+190       cl3  0.149415518
+191       cl3  0.079831055
+192       cl3 -0.007202988
+[1] ### Get summary statistics ###
+  condition variable  n  mean    sd
+1       cl1   values 64 0.258 0.085
+2       cl2   values 64 0.403 0.083
+3       cl3   values 64 0.184 0.193
+  condition  n       score
+1       cl1 64 -0.04157081
+2       cl2 64 -0.04157081
+3       cl3 64 -0.04157081
+[1] ### Check assumptions ###
+[1] 1) Checking the presence of outliers
+[1] ### WARNING: The following data-points are outiers!
+# A tibble: 5 × 4
+  condition values is.outlier is.extreme
+  <fct>      <dbl> <lgl>      <lgl>     
+1 cl3        0.411 TRUE       FALSE     
+2 cl3        0.799 TRUE       TRUE      
+3 cl3        0.887 TRUE       TRUE      
+4 cl3        0.470 TRUE       FALSE     
+5 cl3        1.03  TRUE       TRUE      
+[1] Note that, in the situation where you have extreme outliers, this can be due to:
+[1] 1) data entry errors, measurement errors or unusual values.
+[1] You can include the outlier in the analysis anyway if you do not believe the result will be substantially affected.
+[1] This can be evaluated by comparing the result of the ANOVA test with and without the outlier.
+[1] It’s also possible to keep the outliers in the data and perform robust ANOVA test using the WRS2 package.
+[1] 
+[1] 
+[1] 2) Checking normality assumption
+[1] # Building the linear model
+[1] # Creating a QQ plot of residuals
+[1] ### Compute Shapiro-Wilk test of normality ###
+# A tibble: 1 × 3
+  variable         statistic  p.value
+  <chr>                <dbl>    <dbl>
+1 residuals(model)     0.800 5.95e-15
+[1] The normality assumption is not supported by the Shapiro-Wilk test. The p-value is significant (p = 5.95321933032139e-15),
+[1] so we cannot assume normality for this dataset.
+[1] 
+[1] 3) Checking homogeneity of variance assumption
+[1] This can be checked using the Levene’s test:
+# A tibble: 1 × 4
+    df1   df2 statistic      p
+  <int> <int>     <dbl>  <dbl>
+1     2   189      4.06 0.0188
+[1] The Levene’s test is not significant (p > 0.0188378453337873). Therefore, we can assume the homogeneity of variances in the different groups.
+[1] ### Computation of the one-way ANOVA test ###
+[1] In the R code below, the asterisk represents the interaction effect and the main effect of each variable (and all lower-order interactions).
+# A tibble: 1 × 6
+  .y.        n statistic    df        p method        
+* <chr>  <int>     <dbl> <int>    <dbl> <chr>         
+1 values   192      93.4     2 5.26e-21 Kruskal-Wallis
+[1] There was a statistically significant interaction between locis
+# A tibble: 1 × 6
+  .y.        n statistic    df        p method        
+  <chr>  <int>     <dbl> <int>    <dbl> <chr>         
+1 values   192      93.4     2 5.26e-21 Kruskal-Wallis
+[1] 
+[1] ### Post-hoct tests ###
+[1] ### Procedure for significant one-way interaction ###
+[1] ### Compute pairwise comparisons ###
+[1] To determine which group means are different. We’ll now perform multiple pairwise comparisons between the different conditions.
+[1] You can run and interpret all possible pairwise comparisons using a Bonferroni adjustment.
+[1] This can be easily done using the function emmeans_test() [rstatix package], a wrapper around the emmeans package,
+[1] which needs to be installed. Emmeans stands for estimated marginal means (aka least square means or adjusted means).
+[1] Compare the values of the different cellType levels by condition levels:
+     .y. group1 group2 n1 n2 statistic            p        p.adj p.adj.signif
+1 values    cl1    cl2 64 64  5.850165 4.910864e-09 7.366297e-09         ****
+2 values    cl1    cl3 64 64 -3.736280 1.867629e-04 1.867629e-04          ***
+3 values    cl2    cl3 64 64 -9.586444 9.117282e-22 2.735185e-21         ****
+[1] 
+[1] ### Visualization: barplots with p-values
+     .y. group1 group2 n1 n2 statistic            p        p.adj p.adj.signif
+1 values    cl1    cl2 64 64  5.850165 4.910864e-09 7.366297e-09         ****
+2 values    cl1    cl3 64 64 -3.736280 1.867629e-04 1.867629e-04          ***
+3 values    cl2    cl3 64 64 -9.586444 9.117282e-22 2.735185e-21         ****
+  p.adj.formatted
+1        7.37e-09
+2        0.000187
+3        2.74e-21
+[1] "violinPlot_distPEscan_mC_WD_WD_GAF_allPeaks_Histones_k_3_min10_max500_range10_res250_peScan_centralRegion_8pixels_heatmaps_data_with_stats.tsv"
+     .y. group1 group2 n1 n2 statistic            p        p.adj p.adj.signif
+1 values    cl1    cl2 64 64  5.850165 4.910864e-09 7.366297e-09         ****
+2 values    cl1    cl3 64 64 -3.736280 1.867629e-04 1.867629e-04          ***
+3 values    cl2    cl3 64 64 -9.586444 9.117282e-22 2.735185e-21         ****
+  p.adj.formatted y.position   groups xmin xmax
+1        7.37e-09    1.09696 cl1, cl2    1    2
+2        0.000187    1.20190 cl1, cl3    1    3
+3        2.74e-21    1.30684 cl2, cl3    2    3
+[1] 
+

@@ -1,0 +1,3170 @@
+Embryo
+sending incremental file list
+distPEscan_mC_Embryo_minDist10_maxDist500_E_GAFs_s100_FC2_E_GAFs_s100_FC2_min10_max500_range10_N15414_res250_peScan_text.mtx
+distPEscan_mC_WD_minDist10_maxDist500_E_GAFs_s100_FC2_E_GAFs_s100_FC2_min10_max500_range10_N15414_res250_peScan_text.mtx
+
+sent 109,883 bytes  received 54 bytes  219,874.00 bytes/sec
+total size is 249,068  speedup is 2.27
+sending incremental file list
+distPEscan_mC_Embryo_minDist10_maxDist500_E_GAFs_s100_FC2_q1_E_GAFs_s100_FC2_q1_min10_max500_range10_N920_res250_peScan_text.mtx
+distPEscan_mC_Embryo_minDist10_maxDist500_E_GAFs_s100_FC2_q2_E_GAFs_s100_FC2_q2_min10_max500_range10_N998_res250_peScan_text.mtx
+distPEscan_mC_Embryo_minDist10_maxDist500_E_GAFs_s100_FC2_q3_E_GAFs_s100_FC2_q3_min10_max500_range10_N950_res250_peScan_text.mtx
+distPEscan_mC_Embryo_minDist10_maxDist500_E_GAFs_s100_FC2_q4_E_GAFs_s100_FC2_q4_min10_max500_range10_N1048_res250_peScan_text.mtx
+distPEscan_mC_WD_minDist10_maxDist500_E_GAFs_s100_FC2_q1_E_GAFs_s100_FC2_q1_min10_max500_range10_N920_res250_peScan_text.mtx
+distPEscan_mC_WD_minDist10_maxDist500_E_GAFs_s100_FC2_q2_E_GAFs_s100_FC2_q2_min10_max500_range10_N998_res250_peScan_text.mtx
+distPEscan_mC_WD_minDist10_maxDist500_E_GAFs_s100_FC2_q3_E_GAFs_s100_FC2_q3_min10_max500_range10_N950_res250_peScan_text.mtx
+distPEscan_mC_WD_minDist10_maxDist500_E_GAFs_s100_FC2_q4_E_GAFs_s100_FC2_q4_min10_max500_range10_N1048_res250_peScan_text.mtx
+
+sent 363,207 bytes  received 168 bytes  726,750.00 bytes/sec
+total size is 987,969  speedup is 2.72
+sending incremental file list
+distPEscan_mC_Embryo_minDist10_maxDist500_random_l850_n460_seed14_EMBRYO_random_l850_n460_seed14_EMBRYO_min10_max500_range10_N793_res250_peScan_text.mtx
+distPEscan_mC_WD_minDist10_maxDist500_random_l850_n460_seed14_EMBRYO_random_l850_n460_seed14_EMBRYO_min10_max500_range10_N793_res250_peScan_text.mtx
+
+sent 83,565 bytes  received 54 bytes  167,238.00 bytes/sec
+total size is 247,195  speedup is 2.96
+-rw-rw-r-- 1 marco.di-stefano cavalli 122K Aug 22 19:16 distPEscan_mC_WD_minDist10_maxDist500_E_GAFs_s100_FC2_E_GAFs_s100_FC2_min10_max500_range10_N15414_res250_peScan_text.mtx
+-rw-rw-r-- 1 marco.di-stefano cavalli 122K Aug 22 19:21 distPEscan_mC_Embryo_minDist10_maxDist500_E_GAFs_s100_FC2_E_GAFs_s100_FC2_min10_max500_range10_N15414_res250_peScan_text.mtx
+
+0 0 -0.067776124809118
+79 79 -0.0494982301973117
+79
+-0.14 0.48
+-1.5 1.5
+distPEscan_mC_Embryo_minDist10_maxDist500_E_GAFs_s100_FC2_E_GAFs_s100_FC2_min10_max500_range10_N15414_res250_peScan_text.mtx
+Number of loops 15414
+-10kb +10kb -10kb +10kb
+36 44
+         line 0: warning: must give margins and spacing, continue with auto margins.
+heatmap_map.ps
+PDFCROP 1.40, 2020/06/06 - Copyright (c) 2002-2020 by Heiko Oberdiek, Oberdiek Package Support Group.
+==> 1 page written on `_tmp_heatmap_map.pdf'.
+  6400 _tmp_matrix_Embryo
+  6400 _tmp_matrix_WD
+ 12800 total
+128 _tmp.txt
+0.00 0
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+  condition     score
+1    Embryo 0.2635922
+2    Embryo 0.3111655
+3    Embryo 0.2729682
+4    Embryo 0.1553088
+5    Embryo 0.2629116
+6    Embryo 0.1610985
+  condition     score
+1    Embryo 0.2635922
+2    Embryo 0.3111655
+3    Embryo 0.2729682
+4    Embryo 0.1553088
+5    Embryo 0.2629116
+6    Embryo 0.1610985
+# A tibble: 2 × 3
+  condition     n score
+  <fct>     <int> <dbl>
+1 Embryo       64     0
+2 WD           64     0
+# A tibble: 1 × 8
+  .y.   group1 group2     p p.adj p.format p.signif method  
+  <chr> <chr>  <chr>  <dbl> <dbl> <chr>    <chr>    <chr>   
+1 score Embryo WD     0.759  0.76 0.76     ns       Wilcoxon
+function (formula, data, method = "wilcox.test", paired = FALSE, 
+    group.by = NULL, ref.group = NULL, symnum.args = list(), 
+    p.adjust.method = "holm", ...) 
+{
+    . <- NULL
+    method.info <- .method_info(method)
+    method <- method.info$method
+    method.name <- method.info$name
+    if (.is_empty(symnum.args)) 
+        symnum.args <- list(cutpoints = c(0, 1e-04, 0.001, 0.01, 
+            0.05, 1), symbols = c("****", "***", "**", "*", "ns"))
+    if (!inherits(data, "data.frame")) 
+        stop("data must be a data.frame.")
+    variables <- response.var <- .formula_left_variables(formula)
+    group <- .formula_right_variables(formula)
+    if (group == "1") 
+        group <- NULL
+    if (!.is_empty(group)) {
+        group.vals <- .select_vec(data, group)
+        if (!is.factor(group.vals)) 
+            data[[group]] <- factor(group.vals, levels = unique(group.vals))
+    }
+    data <- data %>% df_select(vars = c(group.by, group, variables))
+    if (.is_multi_formula(formula)) {
+        data <- df_gather(data, cols = variables, names_to = ".y.", 
+            values_to = ".value.") %>% dplyr::mutate(.y. = factor(.data$.y., 
+            levels = unique(.data$.y.)))
+        response.var <- ".value."
+        group.by = c(group.by, ".y.")
+        formula <- .collapse(response.var, group, sep = " ~ ") %>% 
+            stats::as.formula()
+    }
+    if (!is.null(ref.group)) {
+        group.vals <- .select_vec(data, group)
+        if (is.factor(group.vals)) 
+            group.levs <- levels(group.vals)
+        else group.levs <- unique(group.vals)
+        if (ref.group %in% group.levs) {
+            data[[group]] <- stats::relevel(group.vals, ref.group)
+        }
+        if (ref.group == ".all.") {
+            data <- data %>% mutate(.group. = as.character(group.vals), 
+                .all. = ".all.")
+            .group.name. <- NULL
+            data <- data %>% df_gather(cols = c(".group.", ".all."), 
+                names_to = ".group.name.", values_to = ".group.") %>% 
+                dplyr::select(-.group.name.)
+            data[[".group."]] <- factor(data[[".group."]], levels = c(".all.", 
+                group.levs))
+            group <- ".group."
+            formula <- .collapse(response.var, group, sep = " ~ ") %>% 
+                stats::as.formula()
+        }
+        else if (!(ref.group %in% group.levs)) {
+            stop("Can't find specified reference group: ", ref.group, 
+                ". ", "Allowed values include one of: ", .collapse(group.levs, 
+                  sep = ", "), call. = FALSE)
+        }
+    }
+    test.func <- .test_pairwise
+    if (method %in% c("anova", "kruskal.test")) 
+        test.func <- .test_multigroups
+    if (is.null(group.by)) {
+        res <- test.func(formula = formula, data = data, method = method, 
+            paired = paired, p.adjust.method = "none", ...)
+    }
+    else {
+        grouped.d <- .group_by(data, group.by)
+        res <- grouped.d %>% mutate(p = purrr::map(data, test.func, 
+            formula = formula, method = method, paired = paired, 
+            p.adjust.method = "none", ...)) %>% df_select(vars = c(group.by, 
+            "p")) %>% unnest(cols = "p")
+    }
+    if (!c(".y." %in% colnames(res))) 
+        res <- res %>% dplyr::mutate(.y. = variables) %>% dplyr::select(!!!syms(c(group.by, 
+            ".y.")), dplyr::everything())
+    if (!is.null(ref.group)) {
+        group.levs <- .select_vec(data, group) %>% .levels()
+        group1 <- NULL
+        res <- res %>% dplyr::filter(group1 == ref.group | group2 == 
+            ref.group)
+        group2 <- res$group2
+        res <- transform(res, group1 = ifelse(group2 == ref.group, 
+            group2, group1), group2 = ifelse(group2 == ref.group, 
+            group1, group2))
+    }
+    symnum.args$x <- res$p
+    pvalue.signif <- do.call(stats::symnum, symnum.args) %>% 
+        as.character()
+    pvalue.format <- format.pval(res$p, digits = 2)
+    .y. <- p.adj <- NULL
+    .p.adjust <- function(d, ...) {
+        data.frame(p.adj = stats::p.adjust(d$p, ...))
+    }
+    by_y <- res %>% group_by(.y.)
+    pvalue.adj <- do(by_y, .p.adjust(., method = p.adjust.method))
+    res <- res %>% dplyr::ungroup() %>% mutate(p.adj = pvalue.adj$p.adj, 
+        p.format = pvalue.format, p.signif = pvalue.signif, method = method.name)
+    res %>% mutate(p.adj = signif(p.adj, digits = 2)) %>% tibble::as_tibble()
+}
+<bytecode: 0x557658d13b60>
+<environment: namespace:ggpubr>
+null device 
+          1 
+
+-rw-rw-r-- 1 marco.di-stefano cavalli 121K Aug 22 18:41 distPEscan_mC_WD_minDist10_maxDist500_E_GAFs_s100_FC2_q1_E_GAFs_s100_FC2_q1_min10_max500_range10_N920_res250_peScan_text.mtx
+-rw-rw-r-- 1 marco.di-stefano cavalli 121K Aug 22 18:43 distPEscan_mC_Embryo_minDist10_maxDist500_E_GAFs_s100_FC2_q1_E_GAFs_s100_FC2_q1_min10_max500_range10_N920_res250_peScan_text.mtx
+
+0 0 -0.151483672864979
+79 79 -0.105679983251855
+79
+-0.12 0.84
+-1.5 1.5
+distPEscan_mC_Embryo_minDist10_maxDist500_E_GAFs_s100_FC2_q1_E_GAFs_s100_FC2_q1_min10_max500_range10_N920_res250_peScan_text.mtx
+Number of loops 920
+-10kb +10kb -10kb +10kb
+36 44
+         line 0: warning: must give margins and spacing, continue with auto margins.
+heatmap_map.ps
+PDFCROP 1.40, 2020/06/06 - Copyright (c) 2002-2020 by Heiko Oberdiek, Oberdiek Package Support Group.
+==> 1 page written on `_tmp_heatmap_map.pdf'.
+  6400 _tmp_matrix_Embryo
+  6400 _tmp_matrix_WD
+ 12800 total
+128 _tmp.txt
+-0.06 -0.063
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+  condition       score
+1    Embryo  0.23927114
+2    Embryo  0.39752218
+3    Embryo  0.18466866
+4    Embryo -0.29386340
+5    Embryo  0.32661504
+6    Embryo  0.09060034
+  condition       score
+1    Embryo  0.23927114
+2    Embryo  0.39752218
+3    Embryo  0.18466866
+4    Embryo -0.29386340
+5    Embryo  0.32661504
+6    Embryo  0.09060034
+# A tibble: 2 × 3
+  condition     n  score
+  <fct>     <int>  <dbl>
+1 Embryo       64 -0.063
+2 WD           64 -0.063
+# A tibble: 1 × 8
+  .y.   group1 group2     p p.adj p.format p.signif method  
+  <chr> <chr>  <chr>  <dbl> <dbl> <chr>    <chr>    <chr>   
+1 score Embryo WD     0.971  0.97 0.97     ns       Wilcoxon
+function (formula, data, method = "wilcox.test", paired = FALSE, 
+    group.by = NULL, ref.group = NULL, symnum.args = list(), 
+    p.adjust.method = "holm", ...) 
+{
+    . <- NULL
+    method.info <- .method_info(method)
+    method <- method.info$method
+    method.name <- method.info$name
+    if (.is_empty(symnum.args)) 
+        symnum.args <- list(cutpoints = c(0, 1e-04, 0.001, 0.01, 
+            0.05, 1), symbols = c("****", "***", "**", "*", "ns"))
+    if (!inherits(data, "data.frame")) 
+        stop("data must be a data.frame.")
+    variables <- response.var <- .formula_left_variables(formula)
+    group <- .formula_right_variables(formula)
+    if (group == "1") 
+        group <- NULL
+    if (!.is_empty(group)) {
+        group.vals <- .select_vec(data, group)
+        if (!is.factor(group.vals)) 
+            data[[group]] <- factor(group.vals, levels = unique(group.vals))
+    }
+    data <- data %>% df_select(vars = c(group.by, group, variables))
+    if (.is_multi_formula(formula)) {
+        data <- df_gather(data, cols = variables, names_to = ".y.", 
+            values_to = ".value.") %>% dplyr::mutate(.y. = factor(.data$.y., 
+            levels = unique(.data$.y.)))
+        response.var <- ".value."
+        group.by = c(group.by, ".y.")
+        formula <- .collapse(response.var, group, sep = " ~ ") %>% 
+            stats::as.formula()
+    }
+    if (!is.null(ref.group)) {
+        group.vals <- .select_vec(data, group)
+        if (is.factor(group.vals)) 
+            group.levs <- levels(group.vals)
+        else group.levs <- unique(group.vals)
+        if (ref.group %in% group.levs) {
+            data[[group]] <- stats::relevel(group.vals, ref.group)
+        }
+        if (ref.group == ".all.") {
+            data <- data %>% mutate(.group. = as.character(group.vals), 
+                .all. = ".all.")
+            .group.name. <- NULL
+            data <- data %>% df_gather(cols = c(".group.", ".all."), 
+                names_to = ".group.name.", values_to = ".group.") %>% 
+                dplyr::select(-.group.name.)
+            data[[".group."]] <- factor(data[[".group."]], levels = c(".all.", 
+                group.levs))
+            group <- ".group."
+            formula <- .collapse(response.var, group, sep = " ~ ") %>% 
+                stats::as.formula()
+        }
+        else if (!(ref.group %in% group.levs)) {
+            stop("Can't find specified reference group: ", ref.group, 
+                ". ", "Allowed values include one of: ", .collapse(group.levs, 
+                  sep = ", "), call. = FALSE)
+        }
+    }
+    test.func <- .test_pairwise
+    if (method %in% c("anova", "kruskal.test")) 
+        test.func <- .test_multigroups
+    if (is.null(group.by)) {
+        res <- test.func(formula = formula, data = data, method = method, 
+            paired = paired, p.adjust.method = "none", ...)
+    }
+    else {
+        grouped.d <- .group_by(data, group.by)
+        res <- grouped.d %>% mutate(p = purrr::map(data, test.func, 
+            formula = formula, method = method, paired = paired, 
+            p.adjust.method = "none", ...)) %>% df_select(vars = c(group.by, 
+            "p")) %>% unnest(cols = "p")
+    }
+    if (!c(".y." %in% colnames(res))) 
+        res <- res %>% dplyr::mutate(.y. = variables) %>% dplyr::select(!!!syms(c(group.by, 
+            ".y.")), dplyr::everything())
+    if (!is.null(ref.group)) {
+        group.levs <- .select_vec(data, group) %>% .levels()
+        group1 <- NULL
+        res <- res %>% dplyr::filter(group1 == ref.group | group2 == 
+            ref.group)
+        group2 <- res$group2
+        res <- transform(res, group1 = ifelse(group2 == ref.group, 
+            group2, group1), group2 = ifelse(group2 == ref.group, 
+            group1, group2))
+    }
+    symnum.args$x <- res$p
+    pvalue.signif <- do.call(stats::symnum, symnum.args) %>% 
+        as.character()
+    pvalue.format <- format.pval(res$p, digits = 2)
+    .y. <- p.adj <- NULL
+    .p.adjust <- function(d, ...) {
+        data.frame(p.adj = stats::p.adjust(d$p, ...))
+    }
+    by_y <- res %>% group_by(.y.)
+    pvalue.adj <- do(by_y, .p.adjust(., method = p.adjust.method))
+    res <- res %>% dplyr::ungroup() %>% mutate(p.adj = pvalue.adj$p.adj, 
+        p.format = pvalue.format, p.signif = pvalue.signif, method = method.name)
+    res %>% mutate(p.adj = signif(p.adj, digits = 2)) %>% tibble::as_tibble()
+}
+<bytecode: 0x55770e28c370>
+<environment: namespace:ggpubr>
+null device 
+          1 
+
+-rw-rw-r-- 1 marco.di-stefano cavalli 121K Aug 22 18:48 distPEscan_mC_WD_minDist10_maxDist500_E_GAFs_s100_FC2_q2_E_GAFs_s100_FC2_q2_min10_max500_range10_N998_res250_peScan_text.mtx
+-rw-rw-r-- 1 marco.di-stefano cavalli 121K Aug 22 18:51 distPEscan_mC_Embryo_minDist10_maxDist500_E_GAFs_s100_FC2_q2_E_GAFs_s100_FC2_q2_min10_max500_range10_N998_res250_peScan_text.mtx
+
+0 0 -0.0530859002667232
+79 79 -0.141832302940162
+79
+-0.10 0.70
+-1.5 1.5
+distPEscan_mC_Embryo_minDist10_maxDist500_E_GAFs_s100_FC2_q2_E_GAFs_s100_FC2_q2_min10_max500_range10_N998_res250_peScan_text.mtx
+Number of loops 998
+-10kb +10kb -10kb +10kb
+36 44
+         line 0: warning: must give margins and spacing, continue with auto margins.
+heatmap_map.ps
+PDFCROP 1.40, 2020/06/06 - Copyright (c) 2002-2020 by Heiko Oberdiek, Oberdiek Package Support Group.
+==> 1 page written on `_tmp_heatmap_map.pdf'.
+  6400 _tmp_matrix_Embryo
+  6400 _tmp_matrix_WD
+ 12800 total
+128 _tmp.txt
+-0.03 -0.0315
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+  condition       score
+1    Embryo 0.005656845
+2    Embryo 0.130268286
+3    Embryo 0.354761314
+4    Embryo 0.224391152
+5    Embryo 0.177764992
+6    Embryo 0.126596370
+  condition       score
+1    Embryo 0.005656845
+2    Embryo 0.130268286
+3    Embryo 0.354761314
+4    Embryo 0.224391152
+5    Embryo 0.177764992
+6    Embryo 0.126596370
+# A tibble: 2 × 3
+  condition     n   score
+  <fct>     <int>   <dbl>
+1 Embryo       64 -0.0315
+2 WD           64 -0.0315
+# A tibble: 1 × 8
+  .y.   group1 group2     p p.adj p.format p.signif method  
+  <chr> <chr>  <chr>  <dbl> <dbl> <chr>    <chr>    <chr>   
+1 score Embryo WD     0.780  0.78 0.78     ns       Wilcoxon
+function (formula, data, method = "wilcox.test", paired = FALSE, 
+    group.by = NULL, ref.group = NULL, symnum.args = list(), 
+    p.adjust.method = "holm", ...) 
+{
+    . <- NULL
+    method.info <- .method_info(method)
+    method <- method.info$method
+    method.name <- method.info$name
+    if (.is_empty(symnum.args)) 
+        symnum.args <- list(cutpoints = c(0, 1e-04, 0.001, 0.01, 
+            0.05, 1), symbols = c("****", "***", "**", "*", "ns"))
+    if (!inherits(data, "data.frame")) 
+        stop("data must be a data.frame.")
+    variables <- response.var <- .formula_left_variables(formula)
+    group <- .formula_right_variables(formula)
+    if (group == "1") 
+        group <- NULL
+    if (!.is_empty(group)) {
+        group.vals <- .select_vec(data, group)
+        if (!is.factor(group.vals)) 
+            data[[group]] <- factor(group.vals, levels = unique(group.vals))
+    }
+    data <- data %>% df_select(vars = c(group.by, group, variables))
+    if (.is_multi_formula(formula)) {
+        data <- df_gather(data, cols = variables, names_to = ".y.", 
+            values_to = ".value.") %>% dplyr::mutate(.y. = factor(.data$.y., 
+            levels = unique(.data$.y.)))
+        response.var <- ".value."
+        group.by = c(group.by, ".y.")
+        formula <- .collapse(response.var, group, sep = " ~ ") %>% 
+            stats::as.formula()
+    }
+    if (!is.null(ref.group)) {
+        group.vals <- .select_vec(data, group)
+        if (is.factor(group.vals)) 
+            group.levs <- levels(group.vals)
+        else group.levs <- unique(group.vals)
+        if (ref.group %in% group.levs) {
+            data[[group]] <- stats::relevel(group.vals, ref.group)
+        }
+        if (ref.group == ".all.") {
+            data <- data %>% mutate(.group. = as.character(group.vals), 
+                .all. = ".all.")
+            .group.name. <- NULL
+            data <- data %>% df_gather(cols = c(".group.", ".all."), 
+                names_to = ".group.name.", values_to = ".group.") %>% 
+                dplyr::select(-.group.name.)
+            data[[".group."]] <- factor(data[[".group."]], levels = c(".all.", 
+                group.levs))
+            group <- ".group."
+            formula <- .collapse(response.var, group, sep = " ~ ") %>% 
+                stats::as.formula()
+        }
+        else if (!(ref.group %in% group.levs)) {
+            stop("Can't find specified reference group: ", ref.group, 
+                ". ", "Allowed values include one of: ", .collapse(group.levs, 
+                  sep = ", "), call. = FALSE)
+        }
+    }
+    test.func <- .test_pairwise
+    if (method %in% c("anova", "kruskal.test")) 
+        test.func <- .test_multigroups
+    if (is.null(group.by)) {
+        res <- test.func(formula = formula, data = data, method = method, 
+            paired = paired, p.adjust.method = "none", ...)
+    }
+    else {
+        grouped.d <- .group_by(data, group.by)
+        res <- grouped.d %>% mutate(p = purrr::map(data, test.func, 
+            formula = formula, method = method, paired = paired, 
+            p.adjust.method = "none", ...)) %>% df_select(vars = c(group.by, 
+            "p")) %>% unnest(cols = "p")
+    }
+    if (!c(".y." %in% colnames(res))) 
+        res <- res %>% dplyr::mutate(.y. = variables) %>% dplyr::select(!!!syms(c(group.by, 
+            ".y.")), dplyr::everything())
+    if (!is.null(ref.group)) {
+        group.levs <- .select_vec(data, group) %>% .levels()
+        group1 <- NULL
+        res <- res %>% dplyr::filter(group1 == ref.group | group2 == 
+            ref.group)
+        group2 <- res$group2
+        res <- transform(res, group1 = ifelse(group2 == ref.group, 
+            group2, group1), group2 = ifelse(group2 == ref.group, 
+            group1, group2))
+    }
+    symnum.args$x <- res$p
+    pvalue.signif <- do.call(stats::symnum, symnum.args) %>% 
+        as.character()
+    pvalue.format <- format.pval(res$p, digits = 2)
+    .y. <- p.adj <- NULL
+    .p.adjust <- function(d, ...) {
+        data.frame(p.adj = stats::p.adjust(d$p, ...))
+    }
+    by_y <- res %>% group_by(.y.)
+    pvalue.adj <- do(by_y, .p.adjust(., method = p.adjust.method))
+    res <- res %>% dplyr::ungroup() %>% mutate(p.adj = pvalue.adj$p.adj, 
+        p.format = pvalue.format, p.signif = pvalue.signif, method = method.name)
+    res %>% mutate(p.adj = signif(p.adj, digits = 2)) %>% tibble::as_tibble()
+}
+<bytecode: 0x55f2d8c63910>
+<environment: namespace:ggpubr>
+null device 
+          1 
+
+-rw-rw-r-- 1 marco.di-stefano cavalli 121K Aug 22 18:56 distPEscan_mC_WD_minDist10_maxDist500_E_GAFs_s100_FC2_q3_E_GAFs_s100_FC2_q3_min10_max500_range10_N950_res250_peScan_text.mtx
+-rw-rw-r-- 1 marco.di-stefano cavalli 121K Aug 22 19:00 distPEscan_mC_Embryo_minDist10_maxDist500_E_GAFs_s100_FC2_q3_E_GAFs_s100_FC2_q3_min10_max500_range10_N950_res250_peScan_text.mtx
+
+0 0 -0.0421984660015109
+79 79 -0.172289489151238
+79
+-0.48 0.78
+-1.5 1.5
+distPEscan_mC_Embryo_minDist10_maxDist500_E_GAFs_s100_FC2_q3_E_GAFs_s100_FC2_q3_min10_max500_range10_N950_res250_peScan_text.mtx
+Number of loops 950
+-10kb +10kb -10kb +10kb
+36 44
+         line 0: warning: must give margins and spacing, continue with auto margins.
+heatmap_map.ps
+PDFCROP 1.40, 2020/06/06 - Copyright (c) 2002-2020 by Heiko Oberdiek, Oberdiek Package Support Group.
+==> 1 page written on `_tmp_heatmap_map.pdf'.
+  6400 _tmp_matrix_Embryo
+  6400 _tmp_matrix_WD
+ 12800 total
+128 _tmp.txt
+-0.05 -0.0525
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+  condition       score
+1    Embryo  0.24694183
+2    Embryo  0.08278604
+3    Embryo  0.48202717
+4    Embryo  0.11857327
+5    Embryo  0.42129132
+6    Embryo -0.07221414
+  condition       score
+1    Embryo  0.24694183
+2    Embryo  0.08278604
+3    Embryo  0.48202717
+4    Embryo  0.11857327
+5    Embryo  0.42129132
+6    Embryo -0.07221414
+# A tibble: 2 × 3
+  condition     n   score
+  <fct>     <int>   <dbl>
+1 Embryo       64 -0.0525
+2 WD           64 -0.0525
+# A tibble: 1 × 8
+  .y.   group1 group2      p p.adj p.format p.signif method  
+  <chr> <chr>  <chr>   <dbl> <dbl> <chr>    <chr>    <chr>   
+1 score Embryo WD     0.0402  0.04 0.04     *        Wilcoxon
+function (formula, data, method = "wilcox.test", paired = FALSE, 
+    group.by = NULL, ref.group = NULL, symnum.args = list(), 
+    p.adjust.method = "holm", ...) 
+{
+    . <- NULL
+    method.info <- .method_info(method)
+    method <- method.info$method
+    method.name <- method.info$name
+    if (.is_empty(symnum.args)) 
+        symnum.args <- list(cutpoints = c(0, 1e-04, 0.001, 0.01, 
+            0.05, 1), symbols = c("****", "***", "**", "*", "ns"))
+    if (!inherits(data, "data.frame")) 
+        stop("data must be a data.frame.")
+    variables <- response.var <- .formula_left_variables(formula)
+    group <- .formula_right_variables(formula)
+    if (group == "1") 
+        group <- NULL
+    if (!.is_empty(group)) {
+        group.vals <- .select_vec(data, group)
+        if (!is.factor(group.vals)) 
+            data[[group]] <- factor(group.vals, levels = unique(group.vals))
+    }
+    data <- data %>% df_select(vars = c(group.by, group, variables))
+    if (.is_multi_formula(formula)) {
+        data <- df_gather(data, cols = variables, names_to = ".y.", 
+            values_to = ".value.") %>% dplyr::mutate(.y. = factor(.data$.y., 
+            levels = unique(.data$.y.)))
+        response.var <- ".value."
+        group.by = c(group.by, ".y.")
+        formula <- .collapse(response.var, group, sep = " ~ ") %>% 
+            stats::as.formula()
+    }
+    if (!is.null(ref.group)) {
+        group.vals <- .select_vec(data, group)
+        if (is.factor(group.vals)) 
+            group.levs <- levels(group.vals)
+        else group.levs <- unique(group.vals)
+        if (ref.group %in% group.levs) {
+            data[[group]] <- stats::relevel(group.vals, ref.group)
+        }
+        if (ref.group == ".all.") {
+            data <- data %>% mutate(.group. = as.character(group.vals), 
+                .all. = ".all.")
+            .group.name. <- NULL
+            data <- data %>% df_gather(cols = c(".group.", ".all."), 
+                names_to = ".group.name.", values_to = ".group.") %>% 
+                dplyr::select(-.group.name.)
+            data[[".group."]] <- factor(data[[".group."]], levels = c(".all.", 
+                group.levs))
+            group <- ".group."
+            formula <- .collapse(response.var, group, sep = " ~ ") %>% 
+                stats::as.formula()
+        }
+        else if (!(ref.group %in% group.levs)) {
+            stop("Can't find specified reference group: ", ref.group, 
+                ". ", "Allowed values include one of: ", .collapse(group.levs, 
+                  sep = ", "), call. = FALSE)
+        }
+    }
+    test.func <- .test_pairwise
+    if (method %in% c("anova", "kruskal.test")) 
+        test.func <- .test_multigroups
+    if (is.null(group.by)) {
+        res <- test.func(formula = formula, data = data, method = method, 
+            paired = paired, p.adjust.method = "none", ...)
+    }
+    else {
+        grouped.d <- .group_by(data, group.by)
+        res <- grouped.d %>% mutate(p = purrr::map(data, test.func, 
+            formula = formula, method = method, paired = paired, 
+            p.adjust.method = "none", ...)) %>% df_select(vars = c(group.by, 
+            "p")) %>% unnest(cols = "p")
+    }
+    if (!c(".y." %in% colnames(res))) 
+        res <- res %>% dplyr::mutate(.y. = variables) %>% dplyr::select(!!!syms(c(group.by, 
+            ".y.")), dplyr::everything())
+    if (!is.null(ref.group)) {
+        group.levs <- .select_vec(data, group) %>% .levels()
+        group1 <- NULL
+        res <- res %>% dplyr::filter(group1 == ref.group | group2 == 
+            ref.group)
+        group2 <- res$group2
+        res <- transform(res, group1 = ifelse(group2 == ref.group, 
+            group2, group1), group2 = ifelse(group2 == ref.group, 
+            group1, group2))
+    }
+    symnum.args$x <- res$p
+    pvalue.signif <- do.call(stats::symnum, symnum.args) %>% 
+        as.character()
+    pvalue.format <- format.pval(res$p, digits = 2)
+    .y. <- p.adj <- NULL
+    .p.adjust <- function(d, ...) {
+        data.frame(p.adj = stats::p.adjust(d$p, ...))
+    }
+    by_y <- res %>% group_by(.y.)
+    pvalue.adj <- do(by_y, .p.adjust(., method = p.adjust.method))
+    res <- res %>% dplyr::ungroup() %>% mutate(p.adj = pvalue.adj$p.adj, 
+        p.format = pvalue.format, p.signif = pvalue.signif, method = method.name)
+    res %>% mutate(p.adj = signif(p.adj, digits = 2)) %>% tibble::as_tibble()
+}
+<bytecode: 0x562238ea6910>
+<environment: namespace:ggpubr>
+null device 
+          1 
+
+-rw-rw-r-- 1 marco.di-stefano cavalli 121K Aug 22 19:05 distPEscan_mC_WD_minDist10_maxDist500_E_GAFs_s100_FC2_q4_E_GAFs_s100_FC2_q4_min10_max500_range10_N1048_res250_peScan_text.mtx
+-rw-rw-r-- 1 marco.di-stefano cavalli 121K Aug 22 19:09 distPEscan_mC_Embryo_minDist10_maxDist500_E_GAFs_s100_FC2_q4_E_GAFs_s100_FC2_q4_min10_max500_range10_N1048_res250_peScan_text.mtx
+
+0 0 -0.272272056687394
+79 79 -0.230202990275185
+79
+-0.25 0.91
+-1.5 1.5
+distPEscan_mC_Embryo_minDist10_maxDist500_E_GAFs_s100_FC2_q4_E_GAFs_s100_FC2_q4_min10_max500_range10_N1048_res250_peScan_text.mtx
+Number of loops 1048
+-10kb +10kb -10kb +10kb
+36 44
+         line 0: warning: must give margins and spacing, continue with auto margins.
+heatmap_map.ps
+PDFCROP 1.40, 2020/06/06 - Copyright (c) 2002-2020 by Heiko Oberdiek, Oberdiek Package Support Group.
+==> 1 page written on `_tmp_heatmap_map.pdf'.
+  6400 _tmp_matrix_Embryo
+  6400 _tmp_matrix_WD
+ 12800 total
+128 _tmp.txt
+0.00 0
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+  condition     score
+1    Embryo 0.6352051
+2    Embryo 0.5954421
+3    Embryo 0.5158761
+4    Embryo 0.4444897
+5    Embryo 0.5422613
+6    Embryo 0.3941337
+  condition     score
+1    Embryo 0.6352051
+2    Embryo 0.5954421
+3    Embryo 0.5158761
+4    Embryo 0.4444897
+5    Embryo 0.5422613
+6    Embryo 0.3941337
+# A tibble: 2 × 3
+  condition     n score
+  <fct>     <int> <dbl>
+1 Embryo       64     0
+2 WD           64     0
+# A tibble: 1 × 8
+  .y.   group1 group2      p p.adj p.format p.signif method  
+  <chr> <chr>  <chr>   <dbl> <dbl> <chr>    <chr>    <chr>   
+1 score Embryo WD     0.0249 0.025 0.025    *        Wilcoxon
+function (formula, data, method = "wilcox.test", paired = FALSE, 
+    group.by = NULL, ref.group = NULL, symnum.args = list(), 
+    p.adjust.method = "holm", ...) 
+{
+    . <- NULL
+    method.info <- .method_info(method)
+    method <- method.info$method
+    method.name <- method.info$name
+    if (.is_empty(symnum.args)) 
+        symnum.args <- list(cutpoints = c(0, 1e-04, 0.001, 0.01, 
+            0.05, 1), symbols = c("****", "***", "**", "*", "ns"))
+    if (!inherits(data, "data.frame")) 
+        stop("data must be a data.frame.")
+    variables <- response.var <- .formula_left_variables(formula)
+    group <- .formula_right_variables(formula)
+    if (group == "1") 
+        group <- NULL
+    if (!.is_empty(group)) {
+        group.vals <- .select_vec(data, group)
+        if (!is.factor(group.vals)) 
+            data[[group]] <- factor(group.vals, levels = unique(group.vals))
+    }
+    data <- data %>% df_select(vars = c(group.by, group, variables))
+    if (.is_multi_formula(formula)) {
+        data <- df_gather(data, cols = variables, names_to = ".y.", 
+            values_to = ".value.") %>% dplyr::mutate(.y. = factor(.data$.y., 
+            levels = unique(.data$.y.)))
+        response.var <- ".value."
+        group.by = c(group.by, ".y.")
+        formula <- .collapse(response.var, group, sep = " ~ ") %>% 
+            stats::as.formula()
+    }
+    if (!is.null(ref.group)) {
+        group.vals <- .select_vec(data, group)
+        if (is.factor(group.vals)) 
+            group.levs <- levels(group.vals)
+        else group.levs <- unique(group.vals)
+        if (ref.group %in% group.levs) {
+            data[[group]] <- stats::relevel(group.vals, ref.group)
+        }
+        if (ref.group == ".all.") {
+            data <- data %>% mutate(.group. = as.character(group.vals), 
+                .all. = ".all.")
+            .group.name. <- NULL
+            data <- data %>% df_gather(cols = c(".group.", ".all."), 
+                names_to = ".group.name.", values_to = ".group.") %>% 
+                dplyr::select(-.group.name.)
+            data[[".group."]] <- factor(data[[".group."]], levels = c(".all.", 
+                group.levs))
+            group <- ".group."
+            formula <- .collapse(response.var, group, sep = " ~ ") %>% 
+                stats::as.formula()
+        }
+        else if (!(ref.group %in% group.levs)) {
+            stop("Can't find specified reference group: ", ref.group, 
+                ". ", "Allowed values include one of: ", .collapse(group.levs, 
+                  sep = ", "), call. = FALSE)
+        }
+    }
+    test.func <- .test_pairwise
+    if (method %in% c("anova", "kruskal.test")) 
+        test.func <- .test_multigroups
+    if (is.null(group.by)) {
+        res <- test.func(formula = formula, data = data, method = method, 
+            paired = paired, p.adjust.method = "none", ...)
+    }
+    else {
+        grouped.d <- .group_by(data, group.by)
+        res <- grouped.d %>% mutate(p = purrr::map(data, test.func, 
+            formula = formula, method = method, paired = paired, 
+            p.adjust.method = "none", ...)) %>% df_select(vars = c(group.by, 
+            "p")) %>% unnest(cols = "p")
+    }
+    if (!c(".y." %in% colnames(res))) 
+        res <- res %>% dplyr::mutate(.y. = variables) %>% dplyr::select(!!!syms(c(group.by, 
+            ".y.")), dplyr::everything())
+    if (!is.null(ref.group)) {
+        group.levs <- .select_vec(data, group) %>% .levels()
+        group1 <- NULL
+        res <- res %>% dplyr::filter(group1 == ref.group | group2 == 
+            ref.group)
+        group2 <- res$group2
+        res <- transform(res, group1 = ifelse(group2 == ref.group, 
+            group2, group1), group2 = ifelse(group2 == ref.group, 
+            group1, group2))
+    }
+    symnum.args$x <- res$p
+    pvalue.signif <- do.call(stats::symnum, symnum.args) %>% 
+        as.character()
+    pvalue.format <- format.pval(res$p, digits = 2)
+    .y. <- p.adj <- NULL
+    .p.adjust <- function(d, ...) {
+        data.frame(p.adj = stats::p.adjust(d$p, ...))
+    }
+    by_y <- res %>% group_by(.y.)
+    pvalue.adj <- do(by_y, .p.adjust(., method = p.adjust.method))
+    res <- res %>% dplyr::ungroup() %>% mutate(p.adj = pvalue.adj$p.adj, 
+        p.format = pvalue.format, p.signif = pvalue.signif, method = method.name)
+    res %>% mutate(p.adj = signif(p.adj, digits = 2)) %>% tibble::as_tibble()
+}
+<bytecode: 0x55d50e360b60>
+<environment: namespace:ggpubr>
+null device 
+          1 
+
+-rw-rw-r-- 1 marco.di-stefano cavalli 121K Aug 22 19:34 distPEscan_mC_WD_minDist10_maxDist500_random_l850_n460_seed14_EMBRYO_random_l850_n460_seed14_EMBRYO_min10_max500_range10_N793_res250_peScan_text.mtx
+-rw-rw-r-- 1 marco.di-stefano cavalli 121K Aug 22 19:38 distPEscan_mC_Embryo_minDist10_maxDist500_random_l850_n460_seed14_EMBRYO_random_l850_n460_seed14_EMBRYO_min10_max500_range10_N793_res250_peScan_text.mtx
+
+0 0 0.154675374217247
+79 79 -0.239692788126275
+79
+-0.05 0.74
+-1.5 1.5
+distPEscan_mC_Embryo_minDist10_maxDist500_random_l850_n460_seed14_EMBRYO_random_l850_n460_seed14_EMBRYO_min10_max500_range10_N793_res250_peScan_text.mtx
+Number of loops 793
+-10kb +10kb -10kb +10kb
+36 44
+         line 0: warning: must give margins and spacing, continue with auto margins.
+heatmap_map.ps
+PDFCROP 1.40, 2020/06/06 - Copyright (c) 2002-2020 by Heiko Oberdiek, Oberdiek Package Support Group.
+==> 1 page written on `_tmp_heatmap_map.pdf'.
+  6400 _tmp_matrix_Embryo
+  6400 _tmp_matrix_WD
+ 12800 total
+128 _tmp.txt
+-0.20 -0.21
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+  condition       score
+1    Embryo  0.22229587
+2    Embryo -0.01471854
+3    Embryo -0.03223915
+4    Embryo  0.25501905
+5    Embryo  0.14915929
+6    Embryo  0.14253326
+  condition       score
+1    Embryo  0.22229587
+2    Embryo -0.01471854
+3    Embryo -0.03223915
+4    Embryo  0.25501905
+5    Embryo  0.14915929
+6    Embryo  0.14253326
+# A tibble: 2 × 3
+  condition     n score
+  <fct>     <int> <dbl>
+1 Embryo       64 -0.21
+2 WD           64 -0.21
+# A tibble: 1 × 8
+  .y.   group1 group2     p p.adj p.format p.signif method  
+  <chr> <chr>  <chr>  <dbl> <dbl> <chr>    <chr>    <chr>   
+1 score Embryo WD     0.291  0.29 0.29     ns       Wilcoxon
+function (formula, data, method = "wilcox.test", paired = FALSE, 
+    group.by = NULL, ref.group = NULL, symnum.args = list(), 
+    p.adjust.method = "holm", ...) 
+{
+    . <- NULL
+    method.info <- .method_info(method)
+    method <- method.info$method
+    method.name <- method.info$name
+    if (.is_empty(symnum.args)) 
+        symnum.args <- list(cutpoints = c(0, 1e-04, 0.001, 0.01, 
+            0.05, 1), symbols = c("****", "***", "**", "*", "ns"))
+    if (!inherits(data, "data.frame")) 
+        stop("data must be a data.frame.")
+    variables <- response.var <- .formula_left_variables(formula)
+    group <- .formula_right_variables(formula)
+    if (group == "1") 
+        group <- NULL
+    if (!.is_empty(group)) {
+        group.vals <- .select_vec(data, group)
+        if (!is.factor(group.vals)) 
+            data[[group]] <- factor(group.vals, levels = unique(group.vals))
+    }
+    data <- data %>% df_select(vars = c(group.by, group, variables))
+    if (.is_multi_formula(formula)) {
+        data <- df_gather(data, cols = variables, names_to = ".y.", 
+            values_to = ".value.") %>% dplyr::mutate(.y. = factor(.data$.y., 
+            levels = unique(.data$.y.)))
+        response.var <- ".value."
+        group.by = c(group.by, ".y.")
+        formula <- .collapse(response.var, group, sep = " ~ ") %>% 
+            stats::as.formula()
+    }
+    if (!is.null(ref.group)) {
+        group.vals <- .select_vec(data, group)
+        if (is.factor(group.vals)) 
+            group.levs <- levels(group.vals)
+        else group.levs <- unique(group.vals)
+        if (ref.group %in% group.levs) {
+            data[[group]] <- stats::relevel(group.vals, ref.group)
+        }
+        if (ref.group == ".all.") {
+            data <- data %>% mutate(.group. = as.character(group.vals), 
+                .all. = ".all.")
+            .group.name. <- NULL
+            data <- data %>% df_gather(cols = c(".group.", ".all."), 
+                names_to = ".group.name.", values_to = ".group.") %>% 
+                dplyr::select(-.group.name.)
+            data[[".group."]] <- factor(data[[".group."]], levels = c(".all.", 
+                group.levs))
+            group <- ".group."
+            formula <- .collapse(response.var, group, sep = " ~ ") %>% 
+                stats::as.formula()
+        }
+        else if (!(ref.group %in% group.levs)) {
+            stop("Can't find specified reference group: ", ref.group, 
+                ". ", "Allowed values include one of: ", .collapse(group.levs, 
+                  sep = ", "), call. = FALSE)
+        }
+    }
+    test.func <- .test_pairwise
+    if (method %in% c("anova", "kruskal.test")) 
+        test.func <- .test_multigroups
+    if (is.null(group.by)) {
+        res <- test.func(formula = formula, data = data, method = method, 
+            paired = paired, p.adjust.method = "none", ...)
+    }
+    else {
+        grouped.d <- .group_by(data, group.by)
+        res <- grouped.d %>% mutate(p = purrr::map(data, test.func, 
+            formula = formula, method = method, paired = paired, 
+            p.adjust.method = "none", ...)) %>% df_select(vars = c(group.by, 
+            "p")) %>% unnest(cols = "p")
+    }
+    if (!c(".y." %in% colnames(res))) 
+        res <- res %>% dplyr::mutate(.y. = variables) %>% dplyr::select(!!!syms(c(group.by, 
+            ".y.")), dplyr::everything())
+    if (!is.null(ref.group)) {
+        group.levs <- .select_vec(data, group) %>% .levels()
+        group1 <- NULL
+        res <- res %>% dplyr::filter(group1 == ref.group | group2 == 
+            ref.group)
+        group2 <- res$group2
+        res <- transform(res, group1 = ifelse(group2 == ref.group, 
+            group2, group1), group2 = ifelse(group2 == ref.group, 
+            group1, group2))
+    }
+    symnum.args$x <- res$p
+    pvalue.signif <- do.call(stats::symnum, symnum.args) %>% 
+        as.character()
+    pvalue.format <- format.pval(res$p, digits = 2)
+    .y. <- p.adj <- NULL
+    .p.adjust <- function(d, ...) {
+        data.frame(p.adj = stats::p.adjust(d$p, ...))
+    }
+    by_y <- res %>% group_by(.y.)
+    pvalue.adj <- do(by_y, .p.adjust(., method = p.adjust.method))
+    res <- res %>% dplyr::ungroup() %>% mutate(p.adj = pvalue.adj$p.adj, 
+        p.format = pvalue.format, p.signif = pvalue.signif, method = method.name)
+    res %>% mutate(p.adj = signif(p.adj, digits = 2)) %>% tibble::as_tibble()
+}
+<bytecode: 0x55df148091e8>
+<environment: namespace:ggpubr>
+null device 
+          1 
+
+distPEscan_mC_minDist10_maxDist500_E_GAFs_s100_FC2_E_GAFs_s100_FC2_min10_max500_range10_N15414_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+distPEscan_mC_minDist10_maxDist500_E_GAFs_s100_FC2_q1_E_GAFs_s100_FC2_q1_min10_max500_range10_N920_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+distPEscan_mC_minDist10_maxDist500_E_GAFs_s100_FC2_q2_E_GAFs_s100_FC2_q2_min10_max500_range10_N998_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+distPEscan_mC_minDist10_maxDist500_E_GAFs_s100_FC2_q3_E_GAFs_s100_FC2_q3_min10_max500_range10_N950_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+distPEscan_mC_minDist10_maxDist500_E_GAFs_s100_FC2_q4_E_GAFs_s100_FC2_q4_min10_max500_range10_N1048_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+distPEscan_mC_minDist10_maxDist500_random_l850_n460_seed14_EMBRYO_random_l850_n460_seed14_EMBRYO_min10_max500_range10_N793_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+All 64
+Q1 64
+Q2 64
+Q3 64
+Q4 64
+Random 64
+WD
+sending incremental file list
+distPEscan_mC_Embryo_minDist10_maxDist500_WD_GAFs_s100_FC2_WD_GAFs_s100_FC2_min10_max500_range10_N78808_res250_peScan_text.mtx
+distPEscan_mC_WD_minDist10_maxDist500_WD_GAFs_s100_FC2_WD_GAFs_s100_FC2_min10_max500_range10_N78808_res250_peScan_text.mtx
+
+sent 109,938 bytes  received 54 bytes  219,984.00 bytes/sec
+total size is 250,568  speedup is 2.28
+sending incremental file list
+distPEscan_mC_Embryo_minDist10_maxDist500_WD_GAFs_s100_FC2_q1_WD_GAFs_s100_FC2_q1_min10_max500_range10_N4745_res250_peScan_text.mtx
+distPEscan_mC_Embryo_minDist10_maxDist500_WD_GAFs_s100_FC2_q2_WD_GAFs_s100_FC2_q2_min10_max500_range10_N4814_res250_peScan_text.mtx
+distPEscan_mC_Embryo_minDist10_maxDist500_WD_GAFs_s100_FC2_q3_WD_GAFs_s100_FC2_q3_min10_max500_range10_N5116_res250_peScan_text.mtx
+distPEscan_mC_Embryo_minDist10_maxDist500_WD_GAFs_s100_FC2_q4_WD_GAFs_s100_FC2_q4_min10_max500_range10_N5076_res250_peScan_text.mtx
+distPEscan_mC_WD_minDist10_maxDist500_WD_GAFs_s100_FC2_q1_WD_GAFs_s100_FC2_q1_min10_max500_range10_N4745_res250_peScan_text.mtx
+distPEscan_mC_WD_minDist10_maxDist500_WD_GAFs_s100_FC2_q2_WD_GAFs_s100_FC2_q2_min10_max500_range10_N4814_res250_peScan_text.mtx
+distPEscan_mC_WD_minDist10_maxDist500_WD_GAFs_s100_FC2_q3_WD_GAFs_s100_FC2_q3_min10_max500_range10_N5116_res250_peScan_text.mtx
+distPEscan_mC_WD_minDist10_maxDist500_WD_GAFs_s100_FC2_q4_WD_GAFs_s100_FC2_q4_min10_max500_range10_N5076_res250_peScan_text.mtx
+
+sent 439,154 bytes  received 168 bytes  292,881.33 bytes/sec
+total size is 1,000,936  speedup is 2.28
+sending incremental file list
+distPEscan_mC_Embryo_minDist10_maxDist500_random_l1050_n1060_seed24_WD_random_l1050_n1060_seed24_WD_min10_max500_range10_N4106_res250_peScan_text.mtx
+distPEscan_mC_WD_minDist10_maxDist500_random_l1050_n1060_seed24_WD_random_l1050_n1060_seed24_WD_min10_max500_range10_N4106_res250_peScan_text.mtx
+
+sent 106,542 bytes  received 54 bytes  213,192.00 bytes/sec
+total size is 252,396  speedup is 2.37
+-rw-rw-r-- 1 marco.di-stefano cavalli 123K Aug 22 19:26 distPEscan_mC_WD_minDist10_maxDist500_random_l1050_n1060_seed24_WD_random_l1050_n1060_seed24_WD_min10_max500_range10_N4106_res250_peScan_text.mtx
+-rw-rw-r-- 1 marco.di-stefano cavalli 124K Aug 22 19:31 distPEscan_mC_Embryo_minDist10_maxDist500_random_l1050_n1060_seed24_WD_random_l1050_n1060_seed24_WD_min10_max500_range10_N4106_res250_peScan_text.mtx
+
+0 0 0.0728279120039764
+79 79 0.168684578999676
+79
+-0.11 1.92
+-1.5 1.5
+distPEscan_mC_Embryo_minDist10_maxDist500_random_l1050_n1060_seed24_WD_random_l1050_n1060_seed24_WD_min10_max500_range10_N4106_res250_peScan_text.mtx
+Number of loops 4106
+-10kb +10kb -10kb +10kb
+36 44
+         line 0: warning: must give margins and spacing, continue with auto margins.
+heatmap_map.ps
+PDFCROP 1.40, 2020/06/06 - Copyright (c) 2002-2020 by Heiko Oberdiek, Oberdiek Package Support Group.
+==> 1 page written on `_tmp_heatmap_map.pdf'.
+  6400 _tmp_matrix_Embryo
+  6400 _tmp_matrix_WD
+ 12800 total
+128 _tmp.txt
+-0.14 -0.147
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+  condition       score
+1    Embryo  0.05904539
+2    Embryo -0.12271956
+3    Embryo -0.01490678
+4    Embryo  0.19330899
+5    Embryo  0.01838435
+6    Embryo -0.13645739
+  condition       score
+1    Embryo  0.05904539
+2    Embryo -0.12271956
+3    Embryo -0.01490678
+4    Embryo  0.19330899
+5    Embryo  0.01838435
+6    Embryo -0.13645739
+# A tibble: 2 × 3
+  condition     n  score
+  <fct>     <int>  <dbl>
+1 Embryo       64 -0.147
+2 WD           64 -0.147
+# A tibble: 1 × 8
+  .y.   group1 group2      p p.adj p.format p.signif method  
+  <chr> <chr>  <chr>   <dbl> <dbl> <chr>    <chr>    <chr>   
+1 score Embryo WD     0.0884 0.088 0.088    ns       Wilcoxon
+function (formula, data, method = "wilcox.test", paired = FALSE, 
+    group.by = NULL, ref.group = NULL, symnum.args = list(), 
+    p.adjust.method = "holm", ...) 
+{
+    . <- NULL
+    method.info <- .method_info(method)
+    method <- method.info$method
+    method.name <- method.info$name
+    if (.is_empty(symnum.args)) 
+        symnum.args <- list(cutpoints = c(0, 1e-04, 0.001, 0.01, 
+            0.05, 1), symbols = c("****", "***", "**", "*", "ns"))
+    if (!inherits(data, "data.frame")) 
+        stop("data must be a data.frame.")
+    variables <- response.var <- .formula_left_variables(formula)
+    group <- .formula_right_variables(formula)
+    if (group == "1") 
+        group <- NULL
+    if (!.is_empty(group)) {
+        group.vals <- .select_vec(data, group)
+        if (!is.factor(group.vals)) 
+            data[[group]] <- factor(group.vals, levels = unique(group.vals))
+    }
+    data <- data %>% df_select(vars = c(group.by, group, variables))
+    if (.is_multi_formula(formula)) {
+        data <- df_gather(data, cols = variables, names_to = ".y.", 
+            values_to = ".value.") %>% dplyr::mutate(.y. = factor(.data$.y., 
+            levels = unique(.data$.y.)))
+        response.var <- ".value."
+        group.by = c(group.by, ".y.")
+        formula <- .collapse(response.var, group, sep = " ~ ") %>% 
+            stats::as.formula()
+    }
+    if (!is.null(ref.group)) {
+        group.vals <- .select_vec(data, group)
+        if (is.factor(group.vals)) 
+            group.levs <- levels(group.vals)
+        else group.levs <- unique(group.vals)
+        if (ref.group %in% group.levs) {
+            data[[group]] <- stats::relevel(group.vals, ref.group)
+        }
+        if (ref.group == ".all.") {
+            data <- data %>% mutate(.group. = as.character(group.vals), 
+                .all. = ".all.")
+            .group.name. <- NULL
+            data <- data %>% df_gather(cols = c(".group.", ".all."), 
+                names_to = ".group.name.", values_to = ".group.") %>% 
+                dplyr::select(-.group.name.)
+            data[[".group."]] <- factor(data[[".group."]], levels = c(".all.", 
+                group.levs))
+            group <- ".group."
+            formula <- .collapse(response.var, group, sep = " ~ ") %>% 
+                stats::as.formula()
+        }
+        else if (!(ref.group %in% group.levs)) {
+            stop("Can't find specified reference group: ", ref.group, 
+                ". ", "Allowed values include one of: ", .collapse(group.levs, 
+                  sep = ", "), call. = FALSE)
+        }
+    }
+    test.func <- .test_pairwise
+    if (method %in% c("anova", "kruskal.test")) 
+        test.func <- .test_multigroups
+    if (is.null(group.by)) {
+        res <- test.func(formula = formula, data = data, method = method, 
+            paired = paired, p.adjust.method = "none", ...)
+    }
+    else {
+        grouped.d <- .group_by(data, group.by)
+        res <- grouped.d %>% mutate(p = purrr::map(data, test.func, 
+            formula = formula, method = method, paired = paired, 
+            p.adjust.method = "none", ...)) %>% df_select(vars = c(group.by, 
+            "p")) %>% unnest(cols = "p")
+    }
+    if (!c(".y." %in% colnames(res))) 
+        res <- res %>% dplyr::mutate(.y. = variables) %>% dplyr::select(!!!syms(c(group.by, 
+            ".y.")), dplyr::everything())
+    if (!is.null(ref.group)) {
+        group.levs <- .select_vec(data, group) %>% .levels()
+        group1 <- NULL
+        res <- res %>% dplyr::filter(group1 == ref.group | group2 == 
+            ref.group)
+        group2 <- res$group2
+        res <- transform(res, group1 = ifelse(group2 == ref.group, 
+            group2, group1), group2 = ifelse(group2 == ref.group, 
+            group1, group2))
+    }
+    symnum.args$x <- res$p
+    pvalue.signif <- do.call(stats::symnum, symnum.args) %>% 
+        as.character()
+    pvalue.format <- format.pval(res$p, digits = 2)
+    .y. <- p.adj <- NULL
+    .p.adjust <- function(d, ...) {
+        data.frame(p.adj = stats::p.adjust(d$p, ...))
+    }
+    by_y <- res %>% group_by(.y.)
+    pvalue.adj <- do(by_y, .p.adjust(., method = p.adjust.method))
+    res <- res %>% dplyr::ungroup() %>% mutate(p.adj = pvalue.adj$p.adj, 
+        p.format = pvalue.format, p.signif = pvalue.signif, method = method.name)
+    res %>% mutate(p.adj = signif(p.adj, digits = 2)) %>% tibble::as_tibble()
+}
+<bytecode: 0x55d4beef7638>
+<environment: namespace:ggpubr>
+null device 
+          1 
+
+-rw-rw-r-- 1 marco.di-stefano cavalli 123K Aug 22 21:17 distPEscan_mC_WD_minDist10_maxDist500_WD_GAFs_s100_FC2_q1_WD_GAFs_s100_FC2_q1_min10_max500_range10_N4745_res250_peScan_text.mtx
+-rw-rw-r-- 1 marco.di-stefano cavalli 123K Aug 22 21:26 distPEscan_mC_Embryo_minDist10_maxDist500_WD_GAFs_s100_FC2_q1_WD_GAFs_s100_FC2_q1_min10_max500_range10_N4745_res250_peScan_text.mtx
+
+0 0 -0.108835566923486
+79 79 -0.018557248469279
+79
+-0.07 0.35
+-1.5 1.5
+distPEscan_mC_Embryo_minDist10_maxDist500_WD_GAFs_s100_FC2_q1_WD_GAFs_s100_FC2_q1_min10_max500_range10_N4745_res250_peScan_text.mtx
+Number of loops 4745
+-10kb +10kb -10kb +10kb
+36 44
+         line 0: warning: must give margins and spacing, continue with auto margins.
+heatmap_map.ps
+PDFCROP 1.40, 2020/06/06 - Copyright (c) 2002-2020 by Heiko Oberdiek, Oberdiek Package Support Group.
+==> 1 page written on `_tmp_heatmap_map.pdf'.
+  6400 _tmp_matrix_Embryo
+  6400 _tmp_matrix_WD
+ 12800 total
+128 _tmp.txt
+-0.06 -0.063
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+  condition      score
+1    Embryo 0.08266425
+2    Embryo 0.08831351
+3    Embryo 0.21754721
+4    Embryo 0.13407981
+5    Embryo 0.05682053
+6    Embryo 0.18107046
+  condition      score
+1    Embryo 0.08266425
+2    Embryo 0.08831351
+3    Embryo 0.21754721
+4    Embryo 0.13407981
+5    Embryo 0.05682053
+6    Embryo 0.18107046
+# A tibble: 2 × 3
+  condition     n  score
+  <fct>     <int>  <dbl>
+1 Embryo       64 -0.063
+2 WD           64 -0.063
+# A tibble: 1 × 8
+  .y.   group1 group2      p p.adj p.format p.signif method  
+  <chr> <chr>  <chr>   <dbl> <dbl> <chr>    <chr>    <chr>   
+1 score Embryo WD     0.0158 0.016 0.016    *        Wilcoxon
+function (formula, data, method = "wilcox.test", paired = FALSE, 
+    group.by = NULL, ref.group = NULL, symnum.args = list(), 
+    p.adjust.method = "holm", ...) 
+{
+    . <- NULL
+    method.info <- .method_info(method)
+    method <- method.info$method
+    method.name <- method.info$name
+    if (.is_empty(symnum.args)) 
+        symnum.args <- list(cutpoints = c(0, 1e-04, 0.001, 0.01, 
+            0.05, 1), symbols = c("****", "***", "**", "*", "ns"))
+    if (!inherits(data, "data.frame")) 
+        stop("data must be a data.frame.")
+    variables <- response.var <- .formula_left_variables(formula)
+    group <- .formula_right_variables(formula)
+    if (group == "1") 
+        group <- NULL
+    if (!.is_empty(group)) {
+        group.vals <- .select_vec(data, group)
+        if (!is.factor(group.vals)) 
+            data[[group]] <- factor(group.vals, levels = unique(group.vals))
+    }
+    data <- data %>% df_select(vars = c(group.by, group, variables))
+    if (.is_multi_formula(formula)) {
+        data <- df_gather(data, cols = variables, names_to = ".y.", 
+            values_to = ".value.") %>% dplyr::mutate(.y. = factor(.data$.y., 
+            levels = unique(.data$.y.)))
+        response.var <- ".value."
+        group.by = c(group.by, ".y.")
+        formula <- .collapse(response.var, group, sep = " ~ ") %>% 
+            stats::as.formula()
+    }
+    if (!is.null(ref.group)) {
+        group.vals <- .select_vec(data, group)
+        if (is.factor(group.vals)) 
+            group.levs <- levels(group.vals)
+        else group.levs <- unique(group.vals)
+        if (ref.group %in% group.levs) {
+            data[[group]] <- stats::relevel(group.vals, ref.group)
+        }
+        if (ref.group == ".all.") {
+            data <- data %>% mutate(.group. = as.character(group.vals), 
+                .all. = ".all.")
+            .group.name. <- NULL
+            data <- data %>% df_gather(cols = c(".group.", ".all."), 
+                names_to = ".group.name.", values_to = ".group.") %>% 
+                dplyr::select(-.group.name.)
+            data[[".group."]] <- factor(data[[".group."]], levels = c(".all.", 
+                group.levs))
+            group <- ".group."
+            formula <- .collapse(response.var, group, sep = " ~ ") %>% 
+                stats::as.formula()
+        }
+        else if (!(ref.group %in% group.levs)) {
+            stop("Can't find specified reference group: ", ref.group, 
+                ". ", "Allowed values include one of: ", .collapse(group.levs, 
+                  sep = ", "), call. = FALSE)
+        }
+    }
+    test.func <- .test_pairwise
+    if (method %in% c("anova", "kruskal.test")) 
+        test.func <- .test_multigroups
+    if (is.null(group.by)) {
+        res <- test.func(formula = formula, data = data, method = method, 
+            paired = paired, p.adjust.method = "none", ...)
+    }
+    else {
+        grouped.d <- .group_by(data, group.by)
+        res <- grouped.d %>% mutate(p = purrr::map(data, test.func, 
+            formula = formula, method = method, paired = paired, 
+            p.adjust.method = "none", ...)) %>% df_select(vars = c(group.by, 
+            "p")) %>% unnest(cols = "p")
+    }
+    if (!c(".y." %in% colnames(res))) 
+        res <- res %>% dplyr::mutate(.y. = variables) %>% dplyr::select(!!!syms(c(group.by, 
+            ".y.")), dplyr::everything())
+    if (!is.null(ref.group)) {
+        group.levs <- .select_vec(data, group) %>% .levels()
+        group1 <- NULL
+        res <- res %>% dplyr::filter(group1 == ref.group | group2 == 
+            ref.group)
+        group2 <- res$group2
+        res <- transform(res, group1 = ifelse(group2 == ref.group, 
+            group2, group1), group2 = ifelse(group2 == ref.group, 
+            group1, group2))
+    }
+    symnum.args$x <- res$p
+    pvalue.signif <- do.call(stats::symnum, symnum.args) %>% 
+        as.character()
+    pvalue.format <- format.pval(res$p, digits = 2)
+    .y. <- p.adj <- NULL
+    .p.adjust <- function(d, ...) {
+        data.frame(p.adj = stats::p.adjust(d$p, ...))
+    }
+    by_y <- res %>% group_by(.y.)
+    pvalue.adj <- do(by_y, .p.adjust(., method = p.adjust.method))
+    res <- res %>% dplyr::ungroup() %>% mutate(p.adj = pvalue.adj$p.adj, 
+        p.format = pvalue.format, p.signif = pvalue.signif, method = method.name)
+    res %>% mutate(p.adj = signif(p.adj, digits = 2)) %>% tibble::as_tibble()
+}
+<bytecode: 0x5650e9ea4370>
+<environment: namespace:ggpubr>
+null device 
+          1 
+
+-rw-rw-r-- 1 marco.di-stefano cavalli 123K Aug 22 21:25 distPEscan_mC_WD_minDist10_maxDist500_WD_GAFs_s100_FC2_q2_WD_GAFs_s100_FC2_q2_min10_max500_range10_N4814_res250_peScan_text.mtx
+-rw-rw-r-- 1 marco.di-stefano cavalli 123K Aug 22 21:34 distPEscan_mC_Embryo_minDist10_maxDist500_WD_GAFs_s100_FC2_q2_WD_GAFs_s100_FC2_q2_min10_max500_range10_N4814_res250_peScan_text.mtx
+
+0 0 0.104380376282162
+79 79 -0.0262686743838541
+79
+-0.13 0.37
+-1.5 1.5
+distPEscan_mC_Embryo_minDist10_maxDist500_WD_GAFs_s100_FC2_q2_WD_GAFs_s100_FC2_q2_min10_max500_range10_N4814_res250_peScan_text.mtx
+Number of loops 4814
+-10kb +10kb -10kb +10kb
+36 44
+         line 0: warning: must give margins and spacing, continue with auto margins.
+heatmap_map.ps
+PDFCROP 1.40, 2020/06/06 - Copyright (c) 2002-2020 by Heiko Oberdiek, Oberdiek Package Support Group.
+==> 1 page written on `_tmp_heatmap_map.pdf'.
+  6400 _tmp_matrix_Embryo
+  6400 _tmp_matrix_WD
+ 12800 total
+128 _tmp.txt
+-0.01 -0.0105
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+  condition       score
+1    Embryo  0.09626639
+2    Embryo  0.05493057
+3    Embryo  0.18512753
+4    Embryo  0.04742362
+5    Embryo -0.03767956
+6    Embryo  0.06472475
+  condition       score
+1    Embryo  0.09626639
+2    Embryo  0.05493057
+3    Embryo  0.18512753
+4    Embryo  0.04742362
+5    Embryo -0.03767956
+6    Embryo  0.06472475
+# A tibble: 2 × 3
+  condition     n   score
+  <fct>     <int>   <dbl>
+1 Embryo       64 -0.0105
+2 WD           64 -0.0105
+# A tibble: 1 × 8
+  .y.   group1 group2       p  p.adj p.format p.signif method  
+  <chr> <chr>  <chr>    <dbl>  <dbl> <chr>    <chr>    <chr>   
+1 score Embryo WD     0.00274 0.0027 0.0027   **       Wilcoxon
+function (formula, data, method = "wilcox.test", paired = FALSE, 
+    group.by = NULL, ref.group = NULL, symnum.args = list(), 
+    p.adjust.method = "holm", ...) 
+{
+    . <- NULL
+    method.info <- .method_info(method)
+    method <- method.info$method
+    method.name <- method.info$name
+    if (.is_empty(symnum.args)) 
+        symnum.args <- list(cutpoints = c(0, 1e-04, 0.001, 0.01, 
+            0.05, 1), symbols = c("****", "***", "**", "*", "ns"))
+    if (!inherits(data, "data.frame")) 
+        stop("data must be a data.frame.")
+    variables <- response.var <- .formula_left_variables(formula)
+    group <- .formula_right_variables(formula)
+    if (group == "1") 
+        group <- NULL
+    if (!.is_empty(group)) {
+        group.vals <- .select_vec(data, group)
+        if (!is.factor(group.vals)) 
+            data[[group]] <- factor(group.vals, levels = unique(group.vals))
+    }
+    data <- data %>% df_select(vars = c(group.by, group, variables))
+    if (.is_multi_formula(formula)) {
+        data <- df_gather(data, cols = variables, names_to = ".y.", 
+            values_to = ".value.") %>% dplyr::mutate(.y. = factor(.data$.y., 
+            levels = unique(.data$.y.)))
+        response.var <- ".value."
+        group.by = c(group.by, ".y.")
+        formula <- .collapse(response.var, group, sep = " ~ ") %>% 
+            stats::as.formula()
+    }
+    if (!is.null(ref.group)) {
+        group.vals <- .select_vec(data, group)
+        if (is.factor(group.vals)) 
+            group.levs <- levels(group.vals)
+        else group.levs <- unique(group.vals)
+        if (ref.group %in% group.levs) {
+            data[[group]] <- stats::relevel(group.vals, ref.group)
+        }
+        if (ref.group == ".all.") {
+            data <- data %>% mutate(.group. = as.character(group.vals), 
+                .all. = ".all.")
+            .group.name. <- NULL
+            data <- data %>% df_gather(cols = c(".group.", ".all."), 
+                names_to = ".group.name.", values_to = ".group.") %>% 
+                dplyr::select(-.group.name.)
+            data[[".group."]] <- factor(data[[".group."]], levels = c(".all.", 
+                group.levs))
+            group <- ".group."
+            formula <- .collapse(response.var, group, sep = " ~ ") %>% 
+                stats::as.formula()
+        }
+        else if (!(ref.group %in% group.levs)) {
+            stop("Can't find specified reference group: ", ref.group, 
+                ". ", "Allowed values include one of: ", .collapse(group.levs, 
+                  sep = ", "), call. = FALSE)
+        }
+    }
+    test.func <- .test_pairwise
+    if (method %in% c("anova", "kruskal.test")) 
+        test.func <- .test_multigroups
+    if (is.null(group.by)) {
+        res <- test.func(formula = formula, data = data, method = method, 
+            paired = paired, p.adjust.method = "none", ...)
+    }
+    else {
+        grouped.d <- .group_by(data, group.by)
+        res <- grouped.d %>% mutate(p = purrr::map(data, test.func, 
+            formula = formula, method = method, paired = paired, 
+            p.adjust.method = "none", ...)) %>% df_select(vars = c(group.by, 
+            "p")) %>% unnest(cols = "p")
+    }
+    if (!c(".y." %in% colnames(res))) 
+        res <- res %>% dplyr::mutate(.y. = variables) %>% dplyr::select(!!!syms(c(group.by, 
+            ".y.")), dplyr::everything())
+    if (!is.null(ref.group)) {
+        group.levs <- .select_vec(data, group) %>% .levels()
+        group1 <- NULL
+        res <- res %>% dplyr::filter(group1 == ref.group | group2 == 
+            ref.group)
+        group2 <- res$group2
+        res <- transform(res, group1 = ifelse(group2 == ref.group, 
+            group2, group1), group2 = ifelse(group2 == ref.group, 
+            group1, group2))
+    }
+    symnum.args$x <- res$p
+    pvalue.signif <- do.call(stats::symnum, symnum.args) %>% 
+        as.character()
+    pvalue.format <- format.pval(res$p, digits = 2)
+    .y. <- p.adj <- NULL
+    .p.adjust <- function(d, ...) {
+        data.frame(p.adj = stats::p.adjust(d$p, ...))
+    }
+    by_y <- res %>% group_by(.y.)
+    pvalue.adj <- do(by_y, .p.adjust(., method = p.adjust.method))
+    res <- res %>% dplyr::ungroup() %>% mutate(p.adj = pvalue.adj$p.adj, 
+        p.format = pvalue.format, p.signif = pvalue.signif, method = method.name)
+    res %>% mutate(p.adj = signif(p.adj, digits = 2)) %>% tibble::as_tibble()
+}
+<bytecode: 0x55d381c3f910>
+<environment: namespace:ggpubr>
+null device 
+          1 
+
+-rw-rw-r-- 1 marco.di-stefano cavalli 122K Aug 22 21:32 distPEscan_mC_WD_minDist10_maxDist500_WD_GAFs_s100_FC2_q3_WD_GAFs_s100_FC2_q3_min10_max500_range10_N5116_res250_peScan_text.mtx
+-rw-rw-r-- 1 marco.di-stefano cavalli 123K Aug 22 21:42 distPEscan_mC_Embryo_minDist10_maxDist500_WD_GAFs_s100_FC2_q3_WD_GAFs_s100_FC2_q3_min10_max500_range10_N5116_res250_peScan_text.mtx
+
+0 0 -0.00310959868064746
+79 79 -0.0111532803416178
+79
+-0.01 0.46
+-1.5 1.5
+distPEscan_mC_Embryo_minDist10_maxDist500_WD_GAFs_s100_FC2_q3_WD_GAFs_s100_FC2_q3_min10_max500_range10_N5116_res250_peScan_text.mtx
+Number of loops 5116
+-10kb +10kb -10kb +10kb
+36 44
+         line 0: warning: must give margins and spacing, continue with auto margins.
+heatmap_map.ps
+PDFCROP 1.40, 2020/06/06 - Copyright (c) 2002-2020 by Heiko Oberdiek, Oberdiek Package Support Group.
+==> 1 page written on `_tmp_heatmap_map.pdf'.
+  6400 _tmp_matrix_Embryo
+  6400 _tmp_matrix_WD
+ 12800 total
+128 _tmp.txt
+-0.03 -0.0315
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+  condition     score
+1    Embryo 0.2158116
+2    Embryo 0.1744816
+3    Embryo 0.2145850
+4    Embryo 0.2780660
+5    Embryo 0.2295525
+6    Embryo 0.1466254
+  condition     score
+1    Embryo 0.2158116
+2    Embryo 0.1744816
+3    Embryo 0.2145850
+4    Embryo 0.2780660
+5    Embryo 0.2295525
+6    Embryo 0.1466254
+# A tibble: 2 × 3
+  condition     n   score
+  <fct>     <int>   <dbl>
+1 Embryo       64 -0.0315
+2 WD           64 -0.0315
+# A tibble: 1 × 8
+  .y.   group1 group2      p p.adj p.format p.signif method  
+  <chr> <chr>  <chr>   <dbl> <dbl> <chr>    <chr>    <chr>   
+1 score Embryo WD     0.0407 0.041 0.041    *        Wilcoxon
+function (formula, data, method = "wilcox.test", paired = FALSE, 
+    group.by = NULL, ref.group = NULL, symnum.args = list(), 
+    p.adjust.method = "holm", ...) 
+{
+    . <- NULL
+    method.info <- .method_info(method)
+    method <- method.info$method
+    method.name <- method.info$name
+    if (.is_empty(symnum.args)) 
+        symnum.args <- list(cutpoints = c(0, 1e-04, 0.001, 0.01, 
+            0.05, 1), symbols = c("****", "***", "**", "*", "ns"))
+    if (!inherits(data, "data.frame")) 
+        stop("data must be a data.frame.")
+    variables <- response.var <- .formula_left_variables(formula)
+    group <- .formula_right_variables(formula)
+    if (group == "1") 
+        group <- NULL
+    if (!.is_empty(group)) {
+        group.vals <- .select_vec(data, group)
+        if (!is.factor(group.vals)) 
+            data[[group]] <- factor(group.vals, levels = unique(group.vals))
+    }
+    data <- data %>% df_select(vars = c(group.by, group, variables))
+    if (.is_multi_formula(formula)) {
+        data <- df_gather(data, cols = variables, names_to = ".y.", 
+            values_to = ".value.") %>% dplyr::mutate(.y. = factor(.data$.y., 
+            levels = unique(.data$.y.)))
+        response.var <- ".value."
+        group.by = c(group.by, ".y.")
+        formula <- .collapse(response.var, group, sep = " ~ ") %>% 
+            stats::as.formula()
+    }
+    if (!is.null(ref.group)) {
+        group.vals <- .select_vec(data, group)
+        if (is.factor(group.vals)) 
+            group.levs <- levels(group.vals)
+        else group.levs <- unique(group.vals)
+        if (ref.group %in% group.levs) {
+            data[[group]] <- stats::relevel(group.vals, ref.group)
+        }
+        if (ref.group == ".all.") {
+            data <- data %>% mutate(.group. = as.character(group.vals), 
+                .all. = ".all.")
+            .group.name. <- NULL
+            data <- data %>% df_gather(cols = c(".group.", ".all."), 
+                names_to = ".group.name.", values_to = ".group.") %>% 
+                dplyr::select(-.group.name.)
+            data[[".group."]] <- factor(data[[".group."]], levels = c(".all.", 
+                group.levs))
+            group <- ".group."
+            formula <- .collapse(response.var, group, sep = " ~ ") %>% 
+                stats::as.formula()
+        }
+        else if (!(ref.group %in% group.levs)) {
+            stop("Can't find specified reference group: ", ref.group, 
+                ". ", "Allowed values include one of: ", .collapse(group.levs, 
+                  sep = ", "), call. = FALSE)
+        }
+    }
+    test.func <- .test_pairwise
+    if (method %in% c("anova", "kruskal.test")) 
+        test.func <- .test_multigroups
+    if (is.null(group.by)) {
+        res <- test.func(formula = formula, data = data, method = method, 
+            paired = paired, p.adjust.method = "none", ...)
+    }
+    else {
+        grouped.d <- .group_by(data, group.by)
+        res <- grouped.d %>% mutate(p = purrr::map(data, test.func, 
+            formula = formula, method = method, paired = paired, 
+            p.adjust.method = "none", ...)) %>% df_select(vars = c(group.by, 
+            "p")) %>% unnest(cols = "p")
+    }
+    if (!c(".y." %in% colnames(res))) 
+        res <- res %>% dplyr::mutate(.y. = variables) %>% dplyr::select(!!!syms(c(group.by, 
+            ".y.")), dplyr::everything())
+    if (!is.null(ref.group)) {
+        group.levs <- .select_vec(data, group) %>% .levels()
+        group1 <- NULL
+        res <- res %>% dplyr::filter(group1 == ref.group | group2 == 
+            ref.group)
+        group2 <- res$group2
+        res <- transform(res, group1 = ifelse(group2 == ref.group, 
+            group2, group1), group2 = ifelse(group2 == ref.group, 
+            group1, group2))
+    }
+    symnum.args$x <- res$p
+    pvalue.signif <- do.call(stats::symnum, symnum.args) %>% 
+        as.character()
+    pvalue.format <- format.pval(res$p, digits = 2)
+    .y. <- p.adj <- NULL
+    .p.adjust <- function(d, ...) {
+        data.frame(p.adj = stats::p.adjust(d$p, ...))
+    }
+    by_y <- res %>% group_by(.y.)
+    pvalue.adj <- do(by_y, .p.adjust(., method = p.adjust.method))
+    res <- res %>% dplyr::ungroup() %>% mutate(p.adj = pvalue.adj$p.adj, 
+        p.format = pvalue.format, p.signif = pvalue.signif, method = method.name)
+    res %>% mutate(p.adj = signif(p.adj, digits = 2)) %>% tibble::as_tibble()
+}
+<bytecode: 0x563dcdfaf910>
+<environment: namespace:ggpubr>
+null device 
+          1 
+
+-rw-rw-r-- 1 marco.di-stefano cavalli 121K Aug 22 21:40 distPEscan_mC_WD_minDist10_maxDist500_WD_GAFs_s100_FC2_q4_WD_GAFs_s100_FC2_q4_min10_max500_range10_N5076_res250_peScan_text.mtx
+-rw-rw-r-- 1 marco.di-stefano cavalli 122K Aug 22 21:50 distPEscan_mC_Embryo_minDist10_maxDist500_WD_GAFs_s100_FC2_q4_WD_GAFs_s100_FC2_q4_min10_max500_range10_N5076_res250_peScan_text.mtx
+
+0 0 -0.186803048395986
+79 79 -0.00760025191234861
+79
+-0.20 0.75
+-1.5 1.5
+distPEscan_mC_Embryo_minDist10_maxDist500_WD_GAFs_s100_FC2_q4_WD_GAFs_s100_FC2_q4_min10_max500_range10_N5076_res250_peScan_text.mtx
+Number of loops 5076
+-10kb +10kb -10kb +10kb
+36 44
+         line 0: warning: must give margins and spacing, continue with auto margins.
+heatmap_map.ps
+PDFCROP 1.40, 2020/06/06 - Copyright (c) 2002-2020 by Heiko Oberdiek, Oberdiek Package Support Group.
+==> 1 page written on `_tmp_heatmap_map.pdf'.
+  6400 _tmp_matrix_Embryo
+  6400 _tmp_matrix_WD
+ 12800 total
+128 _tmp.txt
+0.00 0
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+  condition     score
+1    Embryo 0.3264956
+2    Embryo 0.2753506
+3    Embryo 0.3729935
+4    Embryo 0.2711863
+5    Embryo 0.2249823
+6    Embryo 0.2923577
+  condition     score
+1    Embryo 0.3264956
+2    Embryo 0.2753506
+3    Embryo 0.3729935
+4    Embryo 0.2711863
+5    Embryo 0.2249823
+6    Embryo 0.2923577
+# A tibble: 2 × 3
+  condition     n score
+  <fct>     <int> <dbl>
+1 Embryo       64     0
+2 WD           64     0
+# A tibble: 1 × 8
+  .y.   group1 group2           p      p.adj p.format p.signif method  
+  <chr> <chr>  <chr>        <dbl>      <dbl> <chr>    <chr>    <chr>   
+1 score Embryo WD     0.000000174 0.00000017 1.7e-07  ****     Wilcoxon
+function (formula, data, method = "wilcox.test", paired = FALSE, 
+    group.by = NULL, ref.group = NULL, symnum.args = list(), 
+    p.adjust.method = "holm", ...) 
+{
+    . <- NULL
+    method.info <- .method_info(method)
+    method <- method.info$method
+    method.name <- method.info$name
+    if (.is_empty(symnum.args)) 
+        symnum.args <- list(cutpoints = c(0, 1e-04, 0.001, 0.01, 
+            0.05, 1), symbols = c("****", "***", "**", "*", "ns"))
+    if (!inherits(data, "data.frame")) 
+        stop("data must be a data.frame.")
+    variables <- response.var <- .formula_left_variables(formula)
+    group <- .formula_right_variables(formula)
+    if (group == "1") 
+        group <- NULL
+    if (!.is_empty(group)) {
+        group.vals <- .select_vec(data, group)
+        if (!is.factor(group.vals)) 
+            data[[group]] <- factor(group.vals, levels = unique(group.vals))
+    }
+    data <- data %>% df_select(vars = c(group.by, group, variables))
+    if (.is_multi_formula(formula)) {
+        data <- df_gather(data, cols = variables, names_to = ".y.", 
+            values_to = ".value.") %>% dplyr::mutate(.y. = factor(.data$.y., 
+            levels = unique(.data$.y.)))
+        response.var <- ".value."
+        group.by = c(group.by, ".y.")
+        formula <- .collapse(response.var, group, sep = " ~ ") %>% 
+            stats::as.formula()
+    }
+    if (!is.null(ref.group)) {
+        group.vals <- .select_vec(data, group)
+        if (is.factor(group.vals)) 
+            group.levs <- levels(group.vals)
+        else group.levs <- unique(group.vals)
+        if (ref.group %in% group.levs) {
+            data[[group]] <- stats::relevel(group.vals, ref.group)
+        }
+        if (ref.group == ".all.") {
+            data <- data %>% mutate(.group. = as.character(group.vals), 
+                .all. = ".all.")
+            .group.name. <- NULL
+            data <- data %>% df_gather(cols = c(".group.", ".all."), 
+                names_to = ".group.name.", values_to = ".group.") %>% 
+                dplyr::select(-.group.name.)
+            data[[".group."]] <- factor(data[[".group."]], levels = c(".all.", 
+                group.levs))
+            group <- ".group."
+            formula <- .collapse(response.var, group, sep = " ~ ") %>% 
+                stats::as.formula()
+        }
+        else if (!(ref.group %in% group.levs)) {
+            stop("Can't find specified reference group: ", ref.group, 
+                ". ", "Allowed values include one of: ", .collapse(group.levs, 
+                  sep = ", "), call. = FALSE)
+        }
+    }
+    test.func <- .test_pairwise
+    if (method %in% c("anova", "kruskal.test")) 
+        test.func <- .test_multigroups
+    if (is.null(group.by)) {
+        res <- test.func(formula = formula, data = data, method = method, 
+            paired = paired, p.adjust.method = "none", ...)
+    }
+    else {
+        grouped.d <- .group_by(data, group.by)
+        res <- grouped.d %>% mutate(p = purrr::map(data, test.func, 
+            formula = formula, method = method, paired = paired, 
+            p.adjust.method = "none", ...)) %>% df_select(vars = c(group.by, 
+            "p")) %>% unnest(cols = "p")
+    }
+    if (!c(".y." %in% colnames(res))) 
+        res <- res %>% dplyr::mutate(.y. = variables) %>% dplyr::select(!!!syms(c(group.by, 
+            ".y.")), dplyr::everything())
+    if (!is.null(ref.group)) {
+        group.levs <- .select_vec(data, group) %>% .levels()
+        group1 <- NULL
+        res <- res %>% dplyr::filter(group1 == ref.group | group2 == 
+            ref.group)
+        group2 <- res$group2
+        res <- transform(res, group1 = ifelse(group2 == ref.group, 
+            group2, group1), group2 = ifelse(group2 == ref.group, 
+            group1, group2))
+    }
+    symnum.args$x <- res$p
+    pvalue.signif <- do.call(stats::symnum, symnum.args) %>% 
+        as.character()
+    pvalue.format <- format.pval(res$p, digits = 2)
+    .y. <- p.adj <- NULL
+    .p.adjust <- function(d, ...) {
+        data.frame(p.adj = stats::p.adjust(d$p, ...))
+    }
+    by_y <- res %>% group_by(.y.)
+    pvalue.adj <- do(by_y, .p.adjust(., method = p.adjust.method))
+    res <- res %>% dplyr::ungroup() %>% mutate(p.adj = pvalue.adj$p.adj, 
+        p.format = pvalue.format, p.signif = pvalue.signif, method = method.name)
+    res %>% mutate(p.adj = signif(p.adj, digits = 2)) %>% tibble::as_tibble()
+}
+<bytecode: 0x55a823757b60>
+<environment: namespace:ggpubr>
+null device 
+          1 
+
+-rw-rw-r-- 1 marco.di-stefano cavalli 123K Aug 22 21:52 distPEscan_mC_WD_minDist10_maxDist500_WD_GAFs_s100_FC2_WD_GAFs_s100_FC2_min10_max500_range10_N78808_res250_peScan_text.mtx
+-rw-rw-r-- 1 marco.di-stefano cavalli 123K Aug 22 22:02 distPEscan_mC_Embryo_minDist10_maxDist500_WD_GAFs_s100_FC2_WD_GAFs_s100_FC2_min10_max500_range10_N78808_res250_peScan_text.mtx
+
+0 0 -0.0653967597695505
+79 79 0.017824478067643
+79
+-0.05 0.53
+-1.5 1.5
+distPEscan_mC_Embryo_minDist10_maxDist500_WD_GAFs_s100_FC2_WD_GAFs_s100_FC2_min10_max500_range10_N78808_res250_peScan_text.mtx
+Number of loops 78808
+-10kb +10kb -10kb +10kb
+36 44
+         line 0: warning: must give margins and spacing, continue with auto margins.
+heatmap_map.ps
+PDFCROP 1.40, 2020/06/06 - Copyright (c) 2002-2020 by Heiko Oberdiek, Oberdiek Package Support Group.
+==> 1 page written on `_tmp_heatmap_map.pdf'.
+  6400 _tmp_matrix_Embryo
+  6400 _tmp_matrix_WD
+ 12800 total
+128 _tmp.txt
+0.00 0
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+  condition     score
+1    Embryo 0.1680144
+2    Embryo 0.1483170
+3    Embryo 0.1777084
+4    Embryo 0.1359987
+5    Embryo 0.1097869
+6    Embryo 0.1245452
+  condition     score
+1    Embryo 0.1680144
+2    Embryo 0.1483170
+3    Embryo 0.1777084
+4    Embryo 0.1359987
+5    Embryo 0.1097869
+6    Embryo 0.1245452
+# A tibble: 2 × 3
+  condition     n score
+  <fct>     <int> <dbl>
+1 Embryo       64     0
+2 WD           64     0
+# A tibble: 1 × 8
+  .y.   group1 group2         p    p.adj p.format p.signif method  
+  <chr> <chr>  <chr>      <dbl>    <dbl> <chr>    <chr>    <chr>   
+1 score Embryo WD     0.0000314 0.000031 3.1e-05  ****     Wilcoxon
+function (formula, data, method = "wilcox.test", paired = FALSE, 
+    group.by = NULL, ref.group = NULL, symnum.args = list(), 
+    p.adjust.method = "holm", ...) 
+{
+    . <- NULL
+    method.info <- .method_info(method)
+    method <- method.info$method
+    method.name <- method.info$name
+    if (.is_empty(symnum.args)) 
+        symnum.args <- list(cutpoints = c(0, 1e-04, 0.001, 0.01, 
+            0.05, 1), symbols = c("****", "***", "**", "*", "ns"))
+    if (!inherits(data, "data.frame")) 
+        stop("data must be a data.frame.")
+    variables <- response.var <- .formula_left_variables(formula)
+    group <- .formula_right_variables(formula)
+    if (group == "1") 
+        group <- NULL
+    if (!.is_empty(group)) {
+        group.vals <- .select_vec(data, group)
+        if (!is.factor(group.vals)) 
+            data[[group]] <- factor(group.vals, levels = unique(group.vals))
+    }
+    data <- data %>% df_select(vars = c(group.by, group, variables))
+    if (.is_multi_formula(formula)) {
+        data <- df_gather(data, cols = variables, names_to = ".y.", 
+            values_to = ".value.") %>% dplyr::mutate(.y. = factor(.data$.y., 
+            levels = unique(.data$.y.)))
+        response.var <- ".value."
+        group.by = c(group.by, ".y.")
+        formula <- .collapse(response.var, group, sep = " ~ ") %>% 
+            stats::as.formula()
+    }
+    if (!is.null(ref.group)) {
+        group.vals <- .select_vec(data, group)
+        if (is.factor(group.vals)) 
+            group.levs <- levels(group.vals)
+        else group.levs <- unique(group.vals)
+        if (ref.group %in% group.levs) {
+            data[[group]] <- stats::relevel(group.vals, ref.group)
+        }
+        if (ref.group == ".all.") {
+            data <- data %>% mutate(.group. = as.character(group.vals), 
+                .all. = ".all.")
+            .group.name. <- NULL
+            data <- data %>% df_gather(cols = c(".group.", ".all."), 
+                names_to = ".group.name.", values_to = ".group.") %>% 
+                dplyr::select(-.group.name.)
+            data[[".group."]] <- factor(data[[".group."]], levels = c(".all.", 
+                group.levs))
+            group <- ".group."
+            formula <- .collapse(response.var, group, sep = " ~ ") %>% 
+                stats::as.formula()
+        }
+        else if (!(ref.group %in% group.levs)) {
+            stop("Can't find specified reference group: ", ref.group, 
+                ". ", "Allowed values include one of: ", .collapse(group.levs, 
+                  sep = ", "), call. = FALSE)
+        }
+    }
+    test.func <- .test_pairwise
+    if (method %in% c("anova", "kruskal.test")) 
+        test.func <- .test_multigroups
+    if (is.null(group.by)) {
+        res <- test.func(formula = formula, data = data, method = method, 
+            paired = paired, p.adjust.method = "none", ...)
+    }
+    else {
+        grouped.d <- .group_by(data, group.by)
+        res <- grouped.d %>% mutate(p = purrr::map(data, test.func, 
+            formula = formula, method = method, paired = paired, 
+            p.adjust.method = "none", ...)) %>% df_select(vars = c(group.by, 
+            "p")) %>% unnest(cols = "p")
+    }
+    if (!c(".y." %in% colnames(res))) 
+        res <- res %>% dplyr::mutate(.y. = variables) %>% dplyr::select(!!!syms(c(group.by, 
+            ".y.")), dplyr::everything())
+    if (!is.null(ref.group)) {
+        group.levs <- .select_vec(data, group) %>% .levels()
+        group1 <- NULL
+        res <- res %>% dplyr::filter(group1 == ref.group | group2 == 
+            ref.group)
+        group2 <- res$group2
+        res <- transform(res, group1 = ifelse(group2 == ref.group, 
+            group2, group1), group2 = ifelse(group2 == ref.group, 
+            group1, group2))
+    }
+    symnum.args$x <- res$p
+    pvalue.signif <- do.call(stats::symnum, symnum.args) %>% 
+        as.character()
+    pvalue.format <- format.pval(res$p, digits = 2)
+    .y. <- p.adj <- NULL
+    .p.adjust <- function(d, ...) {
+        data.frame(p.adj = stats::p.adjust(d$p, ...))
+    }
+    by_y <- res %>% group_by(.y.)
+    pvalue.adj <- do(by_y, .p.adjust(., method = p.adjust.method))
+    res <- res %>% dplyr::ungroup() %>% mutate(p.adj = pvalue.adj$p.adj, 
+        p.format = pvalue.format, p.signif = pvalue.signif, method = method.name)
+    res %>% mutate(p.adj = signif(p.adj, digits = 2)) %>% tibble::as_tibble()
+}
+<bytecode: 0x55f64e28ab60>
+<environment: namespace:ggpubr>
+null device 
+          1 
+
+distPEscan_mC_minDist10_maxDist500_WD_GAFs_s100_FC2_WD_GAFs_s100_FC2_min10_max500_range10_N78808_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+distPEscan_mC_minDist10_maxDist500_WD_GAFs_s100_FC2_q1_WD_GAFs_s100_FC2_q1_min10_max500_range10_N4745_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+distPEscan_mC_minDist10_maxDist500_WD_GAFs_s100_FC2_q2_WD_GAFs_s100_FC2_q2_min10_max500_range10_N4814_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+distPEscan_mC_minDist10_maxDist500_WD_GAFs_s100_FC2_q3_WD_GAFs_s100_FC2_q3_min10_max500_range10_N5116_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+distPEscan_mC_minDist10_maxDist500_WD_GAFs_s100_FC2_q4_WD_GAFs_s100_FC2_q4_min10_max500_range10_N5076_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+distPEscan_mC_minDist10_maxDist500_random_l1050_n1060_seed24_WD_random_l1050_n1060_seed24_WD_min10_max500_range10_N4106_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+All 64
+Q1 64
+Q2 64
+Q3 64
+Q4 64
+Random 64
+── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
+✔ dplyr     1.1.4     ✔ readr     2.1.4
+✔ forcats   1.0.0     ✔ stringr   1.5.1
+✔ ggplot2   3.5.2     ✔ tibble    3.2.1
+✔ lubridate 1.9.4     ✔ tidyr     1.3.1
+✔ purrr     1.0.4     
+── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+✖ dplyr::filter() masks stats::filter()
+✖ dplyr::lag()    masks stats::lag()
+ℹ Use the conflicted package (<http://conflicted.r-lib.org/>) to force all conflicts to become errors
+
+Attaching package: ‘rstatix’
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+Registered S3 methods overwritten by 'FSA':
+  method       from
+  confint.boot car 
+  hist.boot    car 
+## FSA v0.10.0. See citation('FSA') if used in publication.
+## Run fishR() for related website and fishR('IFAR') for related book.
+`summarise()` has grouped output by 'condition'. You can override using the
+`.groups` argument.
+`summarise()` has grouped output by 'condition'. You can override using the
+`.groups` argument.
+Warning messages:
+1: Returning more (or less) than 1 row per `summarise()` group was deprecated in
+dplyr 1.1.0.
+ℹ Please use `reframe()` instead.
+ℹ When switching from `summarise()` to `reframe()`, remember that `reframe()`
+  always returns an ungrouped data frame and adjust accordingly. 
+2: Returning more (or less) than 1 row per `summarise()` group was deprecated in
+dplyr 1.1.0.
+ℹ Please use `reframe()` instead.
+ℹ When switching from `summarise()` to `reframe()`, remember that `reframe()`
+  always returns an ungrouped data frame and adjust accordingly. 
+
+[1] "distPEscan_mC_Embryo_min10_max500_range10_res250_peScan_centralRegion_8pixels_heatmaps_data.txt"
+[2] "distPEscan_mC_WD_min10_max500_range10_res250_peScan_centralRegion_8pixels_heatmaps_data.txt"    
+                                                                            
+1 function (..., list = character(), package = NULL, lib.loc = NULL,        
+2     verbose = getOption("verbose"), envir = .GlobalEnv, overwrite = TRUE) 
+3 {                                                                         
+4     fileExt <- function(x) {                                              
+5         db <- grepl("\\\\.[^.]+\\\\.(gz|bz2|xz)$", x)                     
+6         ans <- sub(".*\\\\.", "", x)                                      
+[1] distPEscan_mC_Embryo_min10_max500_range10_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+  condition    values
+1       All 0.2635922
+2       All 0.3111655
+3       All 0.2729682
+4       All 0.1553088
+5       All 0.2629116
+6       All 0.1610985
+[1] "All"    "Q4"     "Q3"     "Q2"     "Q1"     "Random"
+    condition       values
+1         All  0.263592169
+2         All  0.311165528
+3         All  0.272968244
+4         All  0.155308778
+5         All  0.262911617
+6         All  0.161098537
+7         All  0.147486010
+8         All  0.159256514
+9         All  0.264129860
+10        All  0.254040691
+11        All  0.299461257
+12        All  0.224689469
+13        All  0.303083765
+14        All  0.260528655
+15        All  0.299190893
+16        All  0.239488441
+17        All  0.352498805
+18        All  0.384434044
+19        All  0.280437008
+20        All  0.296068518
+21        All  0.311236351
+22        All  0.252041342
+23        All  0.246305736
+24        All  0.228092921
+25        All  0.296780509
+26        All  0.301563925
+27        All  0.274274477
+28        All  0.291687116
+29        All  0.329475507
+30        All  0.274550352
+31        All  0.166973261
+32        All  0.149327482
+33        All  0.384552914
+34        All  0.415799669
+35        All  0.398736609
+36        All  0.327162099
+37        All  0.364649186
+38        All  0.330241752
+39        All  0.289152215
+40        All  0.185061924
+41        All  0.411446108
+42        All  0.424431364
+43        All  0.423157906
+44        All  0.274705682
+45        All  0.342051151
+46        All  0.326427803
+47        All  0.305156268
+48        All  0.307687248
+49        All  0.394262485
+50        All  0.415007377
+51        All  0.344048714
+52        All  0.279109611
+53        All  0.319646215
+54        All  0.228400711
+55        All  0.215347369
+56        All  0.216747707
+57        All  0.394499200
+58        All  0.365539995
+59        All  0.397143401
+60        All  0.364839311
+61        All  0.277280404
+62        All  0.268448533
+63        All  0.298590109
+64        All  0.215785604
+65         Q1  0.239271143
+66         Q1  0.397522178
+67         Q1  0.184668662
+68         Q1 -0.293863402
+69         Q1  0.326615044
+70         Q1  0.090600338
+71         Q1  0.148919088
+72         Q1  0.120409442
+73         Q1  0.159766470
+74         Q1  0.203815056
+75         Q1  0.096946716
+76         Q1  0.166746754
+77         Q1 -0.064326240
+78         Q1  0.205862884
+79         Q1  0.035544081
+80         Q1  0.137362947
+81         Q1  0.270231704
+82         Q1  0.231156905
+83         Q1  0.154332584
+84         Q1  0.327169181
+85         Q1  0.085978565
+86         Q1  0.018404253
+87         Q1 -0.143836044
+88         Q1  0.189679399
+89         Q1  0.086406517
+90         Q1  0.292961455
+91         Q1  0.334904829
+92         Q1  0.205862884
+93         Q1  0.074073012
+94         Q1  0.037896736
+95         Q1  0.009365481
+96         Q1 -0.048951015
+97         Q1  0.058136256
+98         Q1 -0.015046046
+99         Q1  0.187247206
+100        Q1  0.185685003
+101        Q1  0.252218520
+102        Q1 -0.132661721
+103        Q1 -0.130564780
+104        Q1  0.095028514
+105        Q1  0.301928454
+106        Q1  0.235725685
+107        Q1  0.259500848
+108        Q1  0.009942674
+109        Q1  0.074750970
+110        Q1  0.031605963
+111        Q1  0.285313740
+112        Q1  0.178794641
+113        Q1  0.341456818
+114        Q1  0.588943617
+115        Q1  0.197855306
+116        Q1  0.300113210
+117        Q1  0.173441407
+118        Q1  0.080332002
+119        Q1  0.085891528
+120        Q1 -0.093697397
+121        Q1 -0.004704101
+122        Q1  0.223395051
+123        Q1  0.355966445
+124        Q1  0.074479276
+125        Q1  0.356456408
+126        Q1 -0.002445673
+127        Q1  0.150234016
+128        Q1  0.222652542
+129        Q2  0.005656845
+130        Q2  0.130268286
+131        Q2  0.354761314
+132        Q2  0.224391152
+133        Q2  0.177764992
+134        Q2  0.126596370
+135        Q2 -0.015032253
+136        Q2  0.093604544
+137        Q2 -0.006405362
+138        Q2  0.199803948
+139        Q2  0.395425066
+140        Q2  0.016983263
+141        Q2  0.312962906
+142        Q2  0.061123880
+143        Q2  0.081647907
+144        Q2  0.134001890
+145        Q2  0.285136002
+146        Q2  0.415532639
+147        Q2  0.395289419
+148        Q2  0.342397935
+149        Q2  0.233722029
+150        Q2  0.137012986
+151        Q2  0.418951349
+152        Q2  0.375656620
+153        Q2  0.314249303
+154        Q2  0.106204581
+155        Q2  0.393506333
+156        Q2 -0.050593632
+157        Q2  0.328963384
+158        Q2  0.253130596
+159        Q2 -0.038867292
+160        Q2  0.002602803
+161        Q2  0.402694334
+162        Q2  0.177589214
+163        Q2  0.334336556
+164        Q2  0.184919711
+165        Q2  0.487536411
+166        Q2  0.522306479
+167        Q2  0.251707837
+168        Q2  0.142374016
+169        Q2  0.515583653
+170        Q2  0.382795853
+171        Q2  0.206391241
+172        Q2  0.141270978
+173        Q2  0.260107207
+174        Q2  0.338594525
+175        Q2  0.296233711
+176        Q2  0.166002498
+177        Q2  0.381122608
+178        Q2  0.182333463
+179        Q2  0.272407697
+180        Q2  0.096788801
+181        Q2  0.279669474
+182        Q2  0.237830287
+183        Q2 -0.032716639
+184        Q2  0.222659305
+185        Q2  0.244420723
+186        Q2  0.178184877
+187        Q2  0.449699242
+188        Q2  0.473413555
+189        Q2  0.126781063
+190        Q2  0.157447449
+191        Q2  0.276430561
+192        Q2  0.139201411
+193        Q3  0.246941831
+194        Q3  0.082786044
+195        Q3  0.482027169
+196        Q3  0.118573271
+197        Q3  0.421291320
+198        Q3 -0.072214143
+199        Q3 -0.128177699
+200        Q3  0.278119126
+201        Q3  0.408147573
+202        Q3  0.320942413
+203        Q3  0.403784519
+204        Q3  0.234033242
+205        Q3  0.423474987
+206        Q3  0.033222790
+207        Q3  0.255811364
+208        Q3  0.196315758
+209        Q3 -0.047019567
+210        Q3  0.435014179
+211        Q3  0.541348471
+212        Q3  0.110340708
+213        Q3  0.307502933
+214        Q3  0.253684415
+215        Q3  0.169511518
+216        Q3  0.019202079
+217        Q3  0.469994172
+218        Q3  0.400604149
+219        Q3  0.213434201
+220        Q3  0.253613859
+221        Q3  0.378380162
+222        Q3  0.320371613
+223        Q3 -0.388285490
+224        Q3  0.179359304
+225        Q3  0.448689116
+226        Q3  0.558820381
+227        Q3 -0.056223564
+228        Q3  0.520648463
+229        Q3  0.232048916
+230        Q3  0.481407085
+231        Q3  0.346408066
+232        Q3  0.008313763
+233        Q3  0.368092870
+234        Q3  0.446004963
+235        Q3  0.300073170
+236        Q3  0.238693443
+237        Q3  0.350545954
+238        Q3  0.177716143
+239        Q3  0.152061268
+240        Q3  0.113666763
+241        Q3  0.463234053
+242        Q3  0.400865957
+243        Q3  0.297150387
+244        Q3  0.196315758
+245        Q3  0.470203608
+246        Q3  0.255070422
+247        Q3  0.245775703
+248        Q3  0.159321551
+249        Q3  0.219446512
+250        Q3  0.140007384
+251        Q3  0.498841461
+252        Q3  0.225488475
+253        Q3  0.238693443
+254        Q3  0.271273050
+255        Q3  0.292753207
+256        Q3  0.304762486
+257        Q4  0.635205081
+258        Q4  0.595442129
+259        Q4  0.515876096
+260        Q4  0.444489671
+261        Q4  0.542261285
+262        Q4  0.394133749
+263        Q4  0.655600859
+264        Q4  0.322142559
+265        Q4  0.208485777
+266        Q4  0.585999834
+267        Q4  0.639265447
+268        Q4  0.626440760
+269        Q4  0.562128685
+270        Q4  0.787146240
+271        Q4  0.607964157
+272        Q4  0.642869772
+273        Q4  0.678649122
+274        Q4  0.816758839
+275        Q4  0.610097740
+276        Q4  0.560908853
+277        Q4  0.554290974
+278        Q4  0.631243871
+279        Q4  0.631308375
+280        Q4  0.322259070
+281        Q4  0.536597833
+282        Q4  0.610802531
+283        Q4  0.414201202
+284        Q4  0.714755646
+285        Q4  0.731352157
+286        Q4  0.514237724
+287        Q4  0.665846046
+288        Q4  0.550337890
+289        Q4  0.620933624
+290        Q4  0.780289384
+291        Q4  0.318101040
+292        Q4  0.619986591
+293        Q4  0.572082868
+294        Q4  0.746936052
+295        Q4  0.837380543
+296        Q4  0.678516503
+297        Q4  0.696205250
+298        Q4  0.905523659
+299        Q4  0.544707121
+300        Q4  0.231118640
+301        Q4  0.456555744
+302        Q4  0.578137716
+303        Q4  0.786580229
+304        Q4  0.825667014
+305        Q4  0.556121805
+306        Q4  0.799949844
+307        Q4  0.766743686
+308        Q4  0.694340834
+309        Q4  0.646379242
+310        Q4  0.312583216
+311        Q4  0.462368485
+312        Q4  0.466828133
+313        Q4  0.698066186
+314        Q4  0.464875340
+315        Q4  0.686381002
+316        Q4  0.653355102
+317        Q4  0.449129461
+318        Q4  0.697682133
+319        Q4  0.591750823
+320        Q4  0.386468370
+321    Random  0.222295868
+322    Random -0.014718541
+323    Random -0.032239152
+324    Random  0.255019054
+325    Random  0.149159286
+326    Random  0.142533263
+327    Random -0.063371577
+328    Random -0.029554800
+329    Random  0.114754731
+330    Random -0.029242899
+331    Random  0.022460179
+332    Random -0.361081563
+333    Random -0.140077270
+334    Random  0.202930543
+335    Random -0.071815615
+336    Random -0.280391696
+337    Random  0.480464518
+338    Random -0.113835847
+339    Random -0.136555923
+340    Random  0.225674498
+341    Random -0.238290888
+342    Random -0.025934723
+343    Random  0.127241611
+344    Random -0.135693841
+345    Random  0.100930829
+346    Random  0.194106692
+347    Random  0.145402396
+348    Random -0.106079292
+349    Random -0.189652106
+350    Random -0.051353601
+351    Random -0.070204453
+352    Random  0.088613826
+353    Random  0.073145489
+354    Random  0.225024314
+355    Random  0.026285944
+356    Random -0.083896974
+357    Random  0.021690228
+358    Random  0.208511575
+359    Random -0.295522965
+360    Random -0.253872098
+361    Random -0.034108654
+362    Random  0.239456419
+363    Random  0.031818626
+364    Random  0.021092220
+365    Random  0.327070256
+366    Random -0.145232113
+367    Random  0.062332213
+368    Random  0.028281894
+369    Random -0.026913153
+370    Random  0.366083761
+371    Random -0.016782778
+372    Random  0.077883543
+373    Random  0.109495069
+374    Random  0.321575039
+375    Random -0.294899366
+376    Random -0.233640118
+377    Random -0.077177376
+378    Random -0.154101353
+379    Random  0.180210466
+380    Random  0.104831101
+381    Random -0.054809563
+382    Random  0.146704663
+383    Random  0.010285465
+384    Random -0.372015248
+[1] ### Get summary statistics ###
+  condition variable  n  mean    sd
+1       All   values 64 0.294 0.073
+2        Q4   values 64 0.591 0.151
+3        Q3   values 64 0.261 0.180
+4        Q2   values 64 0.230 0.147
+5        Q1   values 64 0.144 0.152
+6    Random   values 64 0.014 0.181
+  condition  n      score
+1       All 64 -0.4076998
+2        Q4 64 -0.4076998
+3        Q3 64 -0.4076998
+4        Q2 64 -0.4076998
+5        Q1 64 -0.4076998
+6    Random 64 -0.4076998
+[1] ### Check assumptions ###
+[1] 1) Checking the presence of outliers
+[1] ### WARNING: The following data-points are outiers!
+# A tibble: 5 × 4
+  condition values is.outlier is.extreme
+  <fct>      <dbl> <lgl>      <lgl>     
+1 Q4         0.208 TRUE       FALSE     
+2 Q4         0.231 TRUE       FALSE     
+3 Q3        -0.388 TRUE       FALSE     
+4 Q1        -0.294 TRUE       FALSE     
+5 Q1         0.589 TRUE       FALSE     
+[1] Note that, in the situation where you have extreme outliers, this can be due to:
+[1] 1) data entry errors, measurement errors or unusual values.
+[1] You can include the outlier in the analysis anyway if you do not believe the result will be substantially affected.
+[1] This can be evaluated by comparing the result of the ANOVA test with and without the outlier.
+[1] It’s also possible to keep the outliers in the data and perform robust ANOVA test using the WRS2 package.
+[1] 
+[1] 
+[1] 2) Checking normality assumption
+[1] # Building the linear model
+[1] # Creating a QQ plot of residuals
+[1] ### Compute Shapiro-Wilk test of normality ###
+# A tibble: 1 × 3
+  variable         statistic p.value
+  <chr>                <dbl>   <dbl>
+1 residuals(model)     0.989 0.00498
+[1] The normality assumption is not supported by the Shapiro-Wilk test. The p-value is significant (p = 0.00498205230568735),
+[1] so we cannot assume normality for this dataset.
+[1] 
+[1] 3) Checking homogeneity of variance assumption
+[1] This can be checked using the Levene’s test:
+# A tibble: 1 × 4
+    df1   df2 statistic          p
+  <int> <int>     <dbl>      <dbl>
+1     5   378      6.62 0.00000636
+[1] The Levene’s test is not significant (p > 6.36323716687728e-06). Therefore, we can assume the homogeneity of variances in the different groups.
+[1] ### Computation of the one-way ANOVA test ###
+[1] In the R code below, the asterisk represents the interaction effect and the main effect of each variable (and all lower-order interactions).
+# A tibble: 1 × 6
+  .y.        n statistic    df        p method        
+* <chr>  <int>     <dbl> <int>    <dbl> <chr>         
+1 values   384      206.     5 1.34e-42 Kruskal-Wallis
+[1] There was a statistically significant interaction between locis
+# A tibble: 1 × 6
+  .y.        n statistic    df        p method        
+  <chr>  <int>     <dbl> <int>    <dbl> <chr>         
+1 values   384      206.     5 1.34e-42 Kruskal-Wallis
+[1] 
+[1] ### Post-hoct tests ###
+[1] ### Procedure for significant one-way interaction ###
+[1] ### Compute pairwise comparisons ###
+[1] To determine which group means are different. We’ll now perform multiple pairwise comparisons between the different conditions.
+[1] You can run and interpret all possible pairwise comparisons using a Bonferroni adjustment.
+[1] This can be easily done using the function emmeans_test() [rstatix package], a wrapper around the emmeans package,
+[1] which needs to be installed. Emmeans stands for estimated marginal means (aka least square means or adjusted means).
+[1] Compare the values of the different cellType levels by condition levels:
+      .y. group1 group2 n1 n2  statistic            p        p.adj p.adj.signif
+1  values    All     Q4 64 64   5.868111 4.407893e-09 9.445486e-09         ****
+2  values    All     Q3 64 64  -1.096538 2.728434e-01 2.728434e-01           ns
+3  values    All     Q2 64 64  -2.281468 2.252078e-02 2.598551e-02            *
+4  values    All     Q1 64 64  -4.714237 2.426178e-06 4.043630e-06         ****
+5  values    All Random 64 64  -7.460758 8.602595e-14 3.225973e-13         ****
+6  values     Q4     Q3 64 64  -6.964649 3.292247e-12 9.876741e-12         ****
+7  values     Q4     Q2 64 64  -8.149578 3.651952e-16 1.825976e-15         ****
+8  values     Q4     Q1 64 64 -10.582348 3.598268e-26 2.698701e-25         ****
+9  values     Q4 Random 64 64 -13.328869 1.572641e-40 2.358962e-39         ****
+10 values     Q3     Q2 64 64  -1.184930 2.360452e-01 2.529055e-01           ns
+11 values     Q3     Q1 64 64  -3.617699 2.972334e-04 4.458501e-04          ***
+12 values     Q3 Random 64 64  -6.364220 1.962842e-10 4.907106e-10         ****
+13 values     Q2     Q1 64 64  -2.432769 1.498384e-02 1.872980e-02            *
+14 values     Q2 Random 64 64  -5.179290 2.227315e-07 4.176216e-07         ****
+15 values     Q1 Random 64 64  -2.746521 6.023103e-03 8.213322e-03           **
+[1] 
+[1] ### Visualization: barplots with p-values
+      .y. group1 group2 n1 n2  statistic            p        p.adj p.adj.signif
+1  values    All     Q4 64 64   5.868111 4.407893e-09 9.445486e-09         ****
+2  values    All     Q3 64 64  -1.096538 2.728434e-01 2.728434e-01           ns
+3  values    All     Q2 64 64  -2.281468 2.252078e-02 2.598551e-02            *
+4  values    All     Q1 64 64  -4.714237 2.426178e-06 4.043630e-06         ****
+5  values    All Random 64 64  -7.460758 8.602595e-14 3.225973e-13         ****
+6  values     Q4     Q3 64 64  -6.964649 3.292247e-12 9.876741e-12         ****
+7  values     Q4     Q2 64 64  -8.149578 3.651952e-16 1.825976e-15         ****
+8  values     Q4     Q1 64 64 -10.582348 3.598268e-26 2.698701e-25         ****
+9  values     Q4 Random 64 64 -13.328869 1.572641e-40 2.358962e-39         ****
+10 values     Q3     Q2 64 64  -1.184930 2.360452e-01 2.529055e-01           ns
+11 values     Q3     Q1 64 64  -3.617699 2.972334e-04 4.458501e-04          ***
+12 values     Q3 Random 64 64  -6.364220 1.962842e-10 4.907106e-10         ****
+13 values     Q2     Q1 64 64  -2.432769 1.498384e-02 1.872980e-02            *
+14 values     Q2 Random 64 64  -5.179290 2.227315e-07 4.176216e-07         ****
+15 values     Q1 Random 64 64  -2.746521 6.023103e-03 8.213322e-03           **
+   p.adj.formatted
+1         9.45e-09
+2            0.273
+3            0.026
+4         4.04e-06
+5         3.23e-13
+6         9.88e-12
+7         1.83e-15
+8          2.7e-25
+9         2.36e-39
+10           0.253
+11        0.000446
+12        4.91e-10
+13          0.0187
+14        4.18e-07
+15         0.00821
+[1] "violinPlot_distPEscan_mC_Embryo_min10_max500_range10_res250_peScan_centralRegion_8pixels_heatmaps_data_with_stats.tsv"
+      .y. group1 group2 n1 n2  statistic            p        p.adj p.adj.signif
+1  values    All     Q4 64 64   5.868111 4.407893e-09 9.445486e-09         ****
+2  values    All     Q3 64 64  -1.096538 2.728434e-01 2.728434e-01           ns
+3  values    All     Q2 64 64  -2.281468 2.252078e-02 2.598551e-02            *
+4  values    All     Q1 64 64  -4.714237 2.426178e-06 4.043630e-06         ****
+5  values    All Random 64 64  -7.460758 8.602595e-14 3.225973e-13         ****
+6  values     Q4     Q3 64 64  -6.964649 3.292247e-12 9.876741e-12         ****
+7  values     Q4     Q2 64 64  -8.149578 3.651952e-16 1.825976e-15         ****
+8  values     Q4     Q1 64 64 -10.582348 3.598268e-26 2.698701e-25         ****
+9  values     Q4 Random 64 64 -13.328869 1.572641e-40 2.358962e-39         ****
+10 values     Q3     Q2 64 64  -1.184930 2.360452e-01 2.529055e-01           ns
+11 values     Q3     Q1 64 64  -3.617699 2.972334e-04 4.458501e-04          ***
+12 values     Q3 Random 64 64  -6.364220 1.962842e-10 4.907106e-10         ****
+13 values     Q2     Q1 64 64  -2.432769 1.498384e-02 1.872980e-02            *
+14 values     Q2 Random 64 64  -5.179290 2.227315e-07 4.176216e-07         ****
+15 values     Q1 Random 64 64  -2.746521 6.023103e-03 8.213322e-03           **
+   p.adj.formatted y.position      groups xmin xmax
+1         9.45e-09   0.963840     All, Q4    1    2
+2            0.273   1.025811     All, Q3    1    3
+3            0.026   1.087783     All, Q2    1    4
+4         4.04e-06   1.149754     All, Q1    1    5
+5         3.23e-13   1.211726 All, Random    1    6
+6         9.88e-12   1.273697      Q4, Q3    2    3
+7         1.83e-15   1.335669      Q4, Q2    2    4
+8          2.7e-25   1.397640      Q4, Q1    2    5
+9         2.36e-39   1.459611  Q4, Random    2    6
+10           0.253   1.521583      Q3, Q2    3    4
+11        0.000446   1.583554      Q3, Q1    3    5
+12        4.91e-10   1.645526  Q3, Random    3    6
+13          0.0187   1.707497      Q2, Q1    4    5
+14        4.18e-07   1.769469  Q2, Random    4    6
+15         0.00821   1.831440  Q1, Random    5    6
+[1] 
+[1] distPEscan_mC_WD_min10_max500_range10_res250_peScan_centralRegion_8pixels_heatmaps_data.txt
+  condition    values
+1       All 0.1856320
+2       All 0.2015678
+3       All 0.2215918
+4       All 0.1957116
+5       All 0.1497699
+6       All 0.1368757
+[1] "All"    "Q4"     "Q3"     "Q2"     "Q1"     "Random"
+    condition        values
+1         All  0.1856320429
+2         All  0.2015678204
+3         All  0.2215917756
+4         All  0.1957115606
+5         All  0.1497699170
+6         All  0.1368756948
+7         All  0.1319452866
+8         All  0.0561205540
+9         All  0.2413743363
+10        All  0.2419974904
+11        All  0.2370890768
+12        All  0.2274235130
+13        All  0.1677100363
+14        All  0.1740772067
+15        All  0.1309660439
+16        All  0.0882863212
+17        All  0.2889407748
+18        All  0.2885303664
+19        All  0.2271130808
+20        All  0.2818494193
+21        All  0.2173887856
+22        All  0.2086193336
+23        All  0.1418525708
+24        All  0.1290557472
+25        All  0.2941211128
+26        All  0.3007399593
+27        All  0.2723298255
+28        All  0.3218793896
+29        All  0.2174165859
+30        All  0.2201842796
+31        All  0.1559822265
+32        All  0.1751108975
+33        All  0.4336198055
+34        All  0.4751750550
+35        All  0.3595905478
+36        All  0.5309556585
+37        All  0.2682253901
+38        All  0.2562277707
+39        All  0.2070674072
+40        All  0.1908195021
+41        All  0.3341062941
+42        All  0.3019060526
+43        All  0.2833557498
+44        All  0.2961209061
+45        All  0.2444035135
+46        All  0.2231501974
+47        All  0.2301915820
+48        All  0.1728823866
+49        All  0.3126490273
+50        All  0.2906002604
+51        All  0.2974741472
+52        All  0.2669392169
+53        All  0.2140123101
+54        All  0.2193014781
+55        All  0.2220266945
+56        All  0.1622819522
+57        All  0.2913245864
+58        All  0.3069255470
+59        All  0.2639951666
+60        All  0.2676676778
+61        All  0.2365410869
+62        All  0.2318234275
+63        All  0.1993707579
+64        All  0.1859116587
+65         Q1  0.0956120257
+66         Q1  0.0412471895
+67         Q1  0.0787950953
+68         Q1  0.1499058285
+69         Q1  0.1346392850
+70         Q1  0.1617539245
+71         Q1  0.1710167668
+72         Q1 -0.0293187337
+73         Q1  0.1847413783
+74         Q1  0.1360732995
+75         Q1  0.1086722694
+76         Q1  0.1296048110
+77         Q1  0.0242957762
+78         Q1  0.1828258983
+79         Q1  0.1033442394
+80         Q1  0.1046216127
+81         Q1  0.1485710909
+82         Q1  0.2761669481
+83         Q1  0.2550605746
+84         Q1  0.1428004812
+85         Q1  0.0842634420
+86         Q1  0.1316437629
+87         Q1  0.2081805801
+88         Q1  0.1752200229
+89         Q1  0.0077811832
+90         Q1  0.2558508112
+91         Q1  0.1242021874
+92         Q1  0.1561073613
+93         Q1  0.0543225807
+94         Q1 -0.0013911283
+95         Q1 -0.0597144502
+96         Q1  0.1916317135
+97         Q1  0.1204750254
+98         Q1  0.2116893658
+99         Q1  0.3102495203
+100        Q1  0.1119207310
+101        Q1  0.1893215528
+102        Q1  0.2073360013
+103        Q1  0.0481178602
+104        Q1  0.0003848605
+105        Q1  0.0642890971
+106        Q1  0.2161281781
+107        Q1  0.1480097157
+108        Q1  0.2146068492
+109        Q1  0.1254829931
+110        Q1  0.0245596350
+111        Q1  0.1439577284
+112        Q1  0.1194658530
+113        Q1  0.1814304510
+114        Q1  0.2648262047
+115        Q1  0.1974126234
+116        Q1  0.0658860887
+117        Q1  0.1001166029
+118        Q1  0.1008124199
+119        Q1  0.1438619149
+120        Q1  0.1594429098
+121        Q1  0.0715371551
+122        Q1  0.2767843941
+123        Q1  0.2130748878
+124        Q1  0.1418522261
+125        Q1  0.1329526952
+126        Q1  0.1195057409
+127        Q1  0.1337461706
+128        Q1  0.0483675514
+129        Q2  0.0821180394
+130        Q2  0.1618414820
+131        Q2  0.2697632270
+132        Q2  0.1091864394
+133        Q2 -0.0656189497
+134        Q2  0.0674065580
+135        Q2  0.0278430729
+136        Q2 -0.0346732944
+137        Q2 -0.0087124339
+138        Q2  0.1630306875
+139        Q2  0.1794426488
+140        Q2  0.1527884392
+141        Q2  0.0747071507
+142        Q2  0.2288804278
+143        Q2  0.1658055719
+144        Q2  0.0228237556
+145        Q2  0.1425728309
+146        Q2  0.2193810378
+147        Q2  0.2612460414
+148        Q2  0.3412275252
+149        Q2  0.2297121225
+150        Q2  0.1329093347
+151        Q2  0.0559830094
+152        Q2  0.1543797973
+153        Q2  0.1379385222
+154        Q2  0.2479419145
+155        Q2  0.2460894290
+156        Q2  0.1560155224
+157        Q2  0.0673494995
+158        Q2  0.0972443338
+159        Q2  0.1488793850
+160        Q2  0.1540443608
+161        Q2  0.2147746074
+162        Q2  0.3172539349
+163        Q2  0.1849110561
+164        Q2  0.2705888109
+165        Q2  0.3344751821
+166        Q2  0.1757644527
+167        Q2  0.1721665218
+168        Q2  0.1219226631
+169        Q2  0.2806814593
+170        Q2  0.2913298520
+171        Q2  0.1911325739
+172        Q2  0.2721832245
+173        Q2  0.2049949991
+174        Q2  0.1744895803
+175        Q2  0.1508934671
+176        Q2  0.0617306542
+177        Q2  0.2128268366
+178        Q2  0.3024187907
+179        Q2  0.1869038820
+180        Q2  0.2042698299
+181        Q2  0.0377156916
+182        Q2  0.2284995762
+183        Q2  0.2283911790
+184        Q2  0.1702967332
+185        Q2  0.1929350017
+186        Q2  0.1423598815
+187        Q2  0.2218968414
+188        Q2  0.1267328024
+189        Q2  0.1190890729
+190        Q2  0.2926526645
+191        Q2  0.2162450529
+192        Q2  0.1430919406
+193        Q3  0.3270470263
+194        Q3  0.3409155106
+195        Q3  0.2360732484
+196        Q3  0.0645947375
+197        Q3  0.1200607391
+198        Q3  0.2081911716
+199        Q3  0.0463394103
+200        Q3 -0.0054202127
+201        Q3  0.1831409169
+202        Q3  0.2628304073
+203        Q3  0.3201828424
+204        Q3  0.2521788481
+205        Q3  0.1665039118
+206        Q3  0.1027756924
+207        Q3  0.0773473912
+208        Q3 -0.0262177426
+209        Q3  0.3922925250
+210        Q3  0.3100305887
+211        Q3  0.2796136406
+212        Q3  0.1715002703
+213        Q3  0.1400683066
+214        Q3  0.2907827041
+215        Q3  0.0553636024
+216        Q3  0.2087952317
+217        Q3  0.3348817998
+218        Q3  0.1284616869
+219        Q3  0.1603692163
+220        Q3  0.2752530058
+221        Q3  0.2975636171
+222        Q3  0.2298781091
+223        Q3  0.2213815932
+224        Q3  0.0790694601
+225        Q3  0.4319358103
+226        Q3  0.3642232034
+227        Q3  0.3837201304
+228        Q3  0.1340981828
+229        Q3  0.2933098692
+230        Q3  0.2197355875
+231        Q3  0.1507109105
+232        Q3  0.3191939553
+233        Q3  0.4389282212
+234        Q3  0.2471116524
+235        Q3  0.2421223116
+236        Q3  0.3393403043
+237        Q3  0.2097539335
+238        Q3  0.1314792457
+239        Q3  0.2851939273
+240        Q3  0.0521520729
+241        Q3  0.3901642353
+242        Q3  0.2074266603
+243        Q3  0.1755874558
+244        Q3  0.2957551190
+245        Q3  0.3101968916
+246        Q3  0.2494179006
+247        Q3  0.1844307229
+248        Q3  0.1567333806
+249        Q3  0.4111572806
+250        Q3  0.4044734087
+251        Q3  0.3217490547
+252        Q3  0.3328467636
+253        Q3  0.1758551895
+254        Q3  0.2348090658
+255        Q3  0.2251645257
+256        Q3  0.2494469494
+257        Q4  0.3022121353
+258        Q4  0.4090593336
+259        Q4  0.4701577203
+260        Q4  0.3727913500
+261        Q4  0.3694507159
+262        Q4  0.3395599634
+263        Q4  0.3323920121
+264        Q4  0.2794717218
+265        Q4  0.4485041199
+266        Q4  0.4347014079
+267        Q4  0.5401136478
+268        Q4  0.5690352165
+269        Q4  0.4494687360
+270        Q4  0.3802915008
+271        Q4  0.3309894676
+272        Q4  0.2316898173
+273        Q4  0.5600573786
+274        Q4  0.5478119669
+275        Q4  0.4721480533
+276        Q4  0.4932321049
+277        Q4  0.6388207418
+278        Q4  0.4163261032
+279        Q4  0.3335841799
+280        Q4  0.3614438861
+281        Q4  0.6732876866
+282        Q4  0.5367720685
+283        Q4  0.4482785547
+284        Q4  0.5102219159
+285        Q4  0.4111784132
+286        Q4  0.5903312718
+287        Q4  0.3164090890
+288        Q4  0.4383440923
+289        Q4  0.5451238312
+290        Q4  0.5147673078
+291        Q4  0.7485206438
+292        Q4  0.6605798482
+293        Q4  0.4390029978
+294        Q4  0.4904938314
+295        Q4  0.3877379094
+296        Q4  0.2541114713
+297        Q4  0.5832147603
+298        Q4  0.4714487226
+299        Q4  0.3781144227
+300        Q4  0.6061917013
+301        Q4  0.5738465290
+302        Q4  0.5160843538
+303        Q4  0.4438531063
+304        Q4  0.2523446467
+305        Q4  0.6458949075
+306        Q4  0.5775774660
+307        Q4  0.5669328298
+308        Q4  0.6290423793
+309        Q4  0.5059140744
+310        Q4  0.6329162739
+311        Q4  0.3702909268
+312        Q4  0.2740528569
+313        Q4  0.3927428409
+314        Q4  0.5480652671
+315        Q4  0.4675450219
+316        Q4  0.4853566585
+317        Q4  0.4722079945
+318        Q4  0.4551140674
+319        Q4  0.3402164541
+320        Q4  0.4133282393
+321    Random -0.1382703940
+322    Random  0.0353673577
+323    Random  0.0150533259
+324    Random -0.0069151686
+325    Random  0.1813174739
+326    Random -0.0151677035
+327    Random -0.0426014665
+328    Random  0.1134712912
+329    Random -0.0140814265
+330    Random -0.0164013847
+331    Random -0.1007638679
+332    Random -0.0205229350
+333    Random -0.0225495037
+334    Random -0.1291382170
+335    Random -0.0255279532
+336    Random  0.0496359921
+337    Random -0.2341690811
+338    Random  0.1210401325
+339    Random  0.1517556398
+340    Random  0.0670486341
+341    Random -0.0566652176
+342    Random  0.0394734450
+343    Random  0.0459885377
+344    Random -0.0286551835
+345    Random  0.0417629101
+346    Random -0.1129165225
+347    Random -0.2033548221
+348    Random -0.1235104173
+349    Random  0.0344395693
+350    Random -0.0144700312
+351    Random -0.0262614535
+352    Random  0.0609463238
+353    Random -0.0140282288
+354    Random  0.1075412849
+355    Random -0.0905319452
+356    Random  0.1448482578
+357    Random -0.0255279532
+358    Random -0.1341246200
+359    Random  0.1097031621
+360    Random  0.1097109195
+361    Random -0.1752853784
+362    Random  0.0079974438
+363    Random  0.0673995075
+364    Random -0.1044048017
+365    Random -0.0211197829
+366    Random -0.0560447196
+367    Random -0.0648062028
+368    Random -0.1330854015
+369    Random  0.0031929617
+370    Random  0.0623395901
+371    Random  0.0599401074
+372    Random  0.0461421503
+373    Random -0.0822359824
+374    Random -0.0090294437
+375    Random -0.1135712390
+376    Random  0.0620959122
+377    Random  0.0734876241
+378    Random -0.0223192267
+379    Random  0.0175300562
+380    Random -0.1572713560
+381    Random -0.1466706235
+382    Random -0.1350289068
+383    Random  0.0392021948
+384    Random  0.0453365172
+[1] ### Get summary statistics ###
+  condition variable  n   mean    sd
+1       All   values 64  0.239 0.082
+2        Q4   values 64  0.463 0.116
+3        Q3   values 64  0.232 0.109
+4        Q2   values 64  0.169 0.088
+5        Q1   values 64  0.133 0.077
+6    Random   values 64 -0.014 0.092
+  condition  n      score
+1       All 64 -0.2458775
+2        Q4 64 -0.2458775
+3        Q3 64 -0.2458775
+4        Q2 64 -0.2458775
+5        Q1 64 -0.2458775
+6    Random 64 -0.2458775
+[1] ### Check assumptions ###
+[1] 1) Checking the presence of outliers
+[1] ### WARNING: The following data-points are outiers!
+# A tibble: 5 × 4
+  condition  values is.outlier is.extreme
+  <fct>       <dbl> <lgl>      <lgl>     
+1 All        0.475  TRUE       FALSE     
+2 All        0.531  TRUE       FALSE     
+3 Q2        -0.0656 TRUE       FALSE     
+4 Q2        -0.0347 TRUE       FALSE     
+5 Q1        -0.0597 TRUE       FALSE     
+[1] Note that, in the situation where you have extreme outliers, this can be due to:
+[1] 1) data entry errors, measurement errors or unusual values.
+[1] You can include the outlier in the analysis anyway if you do not believe the result will be substantially affected.
+[1] This can be evaluated by comparing the result of the ANOVA test with and without the outlier.
+[1] It’s also possible to keep the outliers in the data and perform robust ANOVA test using the WRS2 package.
+[1] 
+[1] 
+[1] 2) Checking normality assumption
+[1] # Building the linear model
+[1] # Creating a QQ plot of residuals
+[1] ### Compute Shapiro-Wilk test of normality ###
+# A tibble: 1 × 3
+  variable         statistic p.value
+  <chr>                <dbl>   <dbl>
+1 residuals(model)     0.996   0.524
+[1] In the QQ plot, as all the points fall approximately along the reference line, we can assume normality.
+[1] This conclusion is supported by the Shapiro-Wilk test. The p-value is not significant (p = 0.524193451847098),
+[1] so we can assume normality.
+[1] 
+[1] 3) Checking homogeneity of variance assumption
+[1] This can be checked using the Levene’s test:
+# A tibble: 1 × 4
+    df1   df2 statistic       p
+  <int> <int>     <dbl>   <dbl>
+1     5   378      4.12 0.00118
+[1] The Levene’s test is not significant (p > 0.00117932561674196). Therefore, we can assume the homogeneity of variances in the different groups.
+[1] ### Computation of the one-way ANOVA test ###
+[1] In the R code below, the asterisk represents the interaction effect and the main effect of each variable (and all lower-order interactions).
+# A tibble: 1 × 6
+  .y.        n statistic    df        p method        
+* <chr>  <int>     <dbl> <int>    <dbl> <chr>         
+1 values   384      257.     5 2.15e-53 Kruskal-Wallis
+[1] There was a statistically significant interaction between locis
+# A tibble: 1 × 6
+  .y.        n statistic    df        p method        
+  <chr>  <int>     <dbl> <int>    <dbl> <chr>         
+1 values   384      257.     5 2.15e-53 Kruskal-Wallis
+[1] 
+[1] ### Post-hoct tests ###
+[1] ### Procedure for significant one-way interaction ###
+[1] ### Compute pairwise comparisons ###
+[1] To determine which group means are different. We’ll now perform multiple pairwise comparisons between the different conditions.
+[1] You can run and interpret all possible pairwise comparisons using a Bonferroni adjustment.
+[1] This can be easily done using the function emmeans_test() [rstatix package], a wrapper around the emmeans package,
+[1] which needs to be installed. Emmeans stands for estimated marginal means (aka least square means or adjusted means).
+[1] Compare the values of the different cellType levels by condition levels:
+      .y. group1 group2 n1 n2   statistic            p        p.adj
+1  values    All     Q4 64 64   5.7247716 1.035730e-08 1.941993e-08
+2  values    All     Q3 64 64  -0.4284222 6.683438e-01 6.683438e-01
+3  values    All     Q2 64 64  -2.9591392 3.084998e-03 3.856247e-03
+4  values    All     Q1 64 64  -4.7285706 2.261060e-06 3.768433e-06
+5  values    All Random 64 64  -9.3337110 1.022275e-20 5.111376e-20
+6  values     Q4     Q3 64 64  -6.1531938 7.593790e-10 1.627241e-09
+7  values     Q4     Q2 64 64  -8.6839108 3.823887e-18 1.147166e-17
+8  values     Q4     Q1 64 64 -10.4533422 1.414507e-25 1.060880e-24
+9  values     Q4 Random 64 64 -15.0584827 3.036770e-51 4.555155e-50
+10 values     Q3     Q2 64 64  -2.5307170 1.138297e-02 1.313419e-02
+11 values     Q3     Q1 64 64  -4.3001484 1.706838e-05 2.327506e-05
+12 values     Q3 Random 64 64  -8.9052888 5.324723e-19 1.996771e-18
+13 values     Q2     Q1 64 64  -1.7694314 7.682190e-02 8.230918e-02
+14 values     Q2 Random 64 64  -6.3745718 1.834748e-10 4.586870e-10
+15 values     Q1 Random 64 64  -4.6051404 4.121876e-06 6.182815e-06
+   p.adj.signif
+1          ****
+2            ns
+3            **
+4          ****
+5          ****
+6          ****
+7          ****
+8          ****
+9          ****
+10            *
+11         ****
+12         ****
+13           ns
+14         ****
+15         ****
+[1] 
+[1] ### Visualization: barplots with p-values
+      .y. group1 group2 n1 n2   statistic            p        p.adj
+1  values    All     Q4 64 64   5.7247716 1.035730e-08 1.941993e-08
+2  values    All     Q3 64 64  -0.4284222 6.683438e-01 6.683438e-01
+3  values    All     Q2 64 64  -2.9591392 3.084998e-03 3.856247e-03
+4  values    All     Q1 64 64  -4.7285706 2.261060e-06 3.768433e-06
+5  values    All Random 64 64  -9.3337110 1.022275e-20 5.111376e-20
+6  values     Q4     Q3 64 64  -6.1531938 7.593790e-10 1.627241e-09
+7  values     Q4     Q2 64 64  -8.6839108 3.823887e-18 1.147166e-17
+8  values     Q4     Q1 64 64 -10.4533422 1.414507e-25 1.060880e-24
+9  values     Q4 Random 64 64 -15.0584827 3.036770e-51 4.555155e-50
+10 values     Q3     Q2 64 64  -2.5307170 1.138297e-02 1.313419e-02
+11 values     Q3     Q1 64 64  -4.3001484 1.706838e-05 2.327506e-05
+12 values     Q3 Random 64 64  -8.9052888 5.324723e-19 1.996771e-18
+13 values     Q2     Q1 64 64  -1.7694314 7.682190e-02 8.230918e-02
+14 values     Q2 Random 64 64  -6.3745718 1.834748e-10 4.586870e-10
+15 values     Q1 Random 64 64  -4.6051404 4.121876e-06 6.182815e-06
+   p.adj.signif p.adj.formatted
+1          ****        1.94e-08
+2            ns           0.668
+3            **         0.00386
+4          ****        3.77e-06
+5          ****        5.11e-20
+6          ****        1.63e-09
+7          ****        1.15e-17
+8          ****        1.06e-24
+9          ****        4.56e-50
+10            *          0.0131
+11         ****        2.33e-05
+12         ****           2e-18
+13           ns          0.0823
+14         ****        4.59e-10
+15         ****        6.18e-06
+[1] "violinPlot_distPEscan_mC_WD_min10_max500_range10_res250_peScan_centralRegion_8pixels_heatmaps_data_with_stats.tsv"
+      .y. group1 group2 n1 n2   statistic            p        p.adj
+1  values    All     Q4 64 64   5.7247716 1.035730e-08 1.941993e-08
+2  values    All     Q3 64 64  -0.4284222 6.683438e-01 6.683438e-01
+3  values    All     Q2 64 64  -2.9591392 3.084998e-03 3.856247e-03
+4  values    All     Q1 64 64  -4.7285706 2.261060e-06 3.768433e-06
+5  values    All Random 64 64  -9.3337110 1.022275e-20 5.111376e-20
+6  values     Q4     Q3 64 64  -6.1531938 7.593790e-10 1.627241e-09
+7  values     Q4     Q2 64 64  -8.6839108 3.823887e-18 1.147166e-17
+8  values     Q4     Q1 64 64 -10.4533422 1.414507e-25 1.060880e-24
+9  values     Q4 Random 64 64 -15.0584827 3.036770e-51 4.555155e-50
+10 values     Q3     Q2 64 64  -2.5307170 1.138297e-02 1.313419e-02
+11 values     Q3     Q1 64 64  -4.3001484 1.706838e-05 2.327506e-05
+12 values     Q3 Random 64 64  -8.9052888 5.324723e-19 1.996771e-18
+13 values     Q2     Q1 64 64  -1.7694314 7.682190e-02 8.230918e-02
+14 values     Q2 Random 64 64  -6.3745718 1.834748e-10 4.586870e-10
+15 values     Q1 Random 64 64  -4.6051404 4.121876e-06 6.182815e-06
+   p.adj.signif p.adj.formatted y.position      groups xmin xmax
+1          ****        1.94e-08  0.8171600     All, Q4    1    2
+2            ns           0.668  0.8901886     All, Q3    1    3
+3            **         0.00386  0.9632171     All, Q2    1    4
+4          ****        3.77e-06  1.0362457     All, Q1    1    5
+5          ****        5.11e-20  1.1092743 All, Random    1    6
+6          ****        1.63e-09  1.1823029      Q4, Q3    2    3
+7          ****        1.15e-17  1.2553314      Q4, Q2    2    4
+8          ****        1.06e-24  1.3283600      Q4, Q1    2    5
+9          ****        4.56e-50  1.4013886  Q4, Random    2    6
+10            *          0.0131  1.4744171      Q3, Q2    3    4
+11         ****        2.33e-05  1.5474457      Q3, Q1    3    5
+12         ****           2e-18  1.6204743  Q3, Random    3    6
+13           ns          0.0823  1.6935029      Q2, Q1    4    5
+14         ****        4.59e-10  1.7665314  Q2, Random    4    6
+15         ****        6.18e-06  1.8395600  Q1, Random    5    6
+[1] 
+
