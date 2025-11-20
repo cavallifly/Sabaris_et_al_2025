@@ -1,6 +1,6 @@
 This repository contains the scripts to perform the data analysis in Sabaris at al., 2025
 
-Note: For the Hi-C data analysis, we refer to the scripts in [Denaud_et_al_GenomeBiol_2025](https://github.com/cavallifly/Denaud_et_al_GenomeBiol_2025/tree/main/HiC_analysis)
+Note: For the Hi-C data analysis and for the computation of the Hi-C and Micro-C scores, we refer to the scripts in [Denaud_et_al_GenomeBiol_2025](https://github.com/cavallifly/Denaud_et_al_GenomeBiol_2025/tree/main/HiC_analysis)
 
 ## Contributors ##
 
