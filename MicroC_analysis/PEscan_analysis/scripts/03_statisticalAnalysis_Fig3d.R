@@ -28,7 +28,7 @@ for(inFile in inFiles)
     colnames(allData) <- c("condition","values")    
     print(head(allData), quote=F)
     #quit()
-    name <- gsub(".tsv","",inFile)    
+    name <- gsub(".txt","",inFile)    
 
     data <- allData
 

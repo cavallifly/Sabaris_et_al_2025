@@ -1,0 +1,4 @@
+".y."	"group1"	"group2"	"n1"	"n2"	"statistic"	"p"	"p.adj"	"p.adj.signif"	"p.adj.formatted"
+"values"	"All_Control"	"All_PH_KD"	64	64	-3.08416215874607	0.00204126301338742	0.00306189452008113	"**"	"0.00306"
+"values"	"noPcG_Control"	"noPcG_PH_KD"	64	64	-3.93622864721968	8.27721147131118e-05	0.000248316344139335	"***"	"0.000248"
+"values"	"PcG_Control"	"PcG_PH_KD"	64	64	-1.62290794720488	0.104609084439269	0.104609084439269	"ns"	"0.105"
