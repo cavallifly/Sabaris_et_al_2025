@@ -7,8 +7,7 @@ library(dunn.test)
 library(dplyr)
 library(FSA)
 
-inFiles = list.files("./",pattern="scoreMapsk250kexp500_r3000bp_.*_Fig4and5.tsv.*")
-#inFiles = c("scoreMapsk250kexp500_r3000bp_.*_Fig4and5.tsv")
+inFiles = list.files("./",pattern="scoreMapsk250kexp500_r3000bp_.*_FigS4c.tsv.*")
 print(inFiles)
 #quit()
 
@@ -17,10 +16,10 @@ subsetting <- "FALSE"
 
 #rgb(red, green, blue, alpha, names = NULL, maxColorValue = 1)
 # Using Generic RGB
-colors=c(rgb( 0,   0,    255, 20, names = NULL, maxColorValue = 255), rgb(83,   83,   83, 20, names = NULL, maxColorValue = 255), rgb(83, 83, 83, 20, names = NULL, maxColorValue = 255), rgb( 83,  83, 83, 20, names = NULL, maxColorValue = 255), rgb( 83,  83, 83, 20, names = NULL, maxColorValue = 255), rgb( 83,  83, 83, 20, names = NULL, maxColorValue = 255), rgb( 83,  83, 83, 20, names = NULL, maxColorValue = 255), rgb( 83,  83, 83, 20, names = NULL, maxColorValue = 255))
+colors=c(rgb( 0,   0,    255, 20, names = NULL, maxColorValue = 255), rgb(83,   83,   83, 20, names = NULL, maxColorValue = 255), rgb(83, 83, 83, 20, names = NULL, maxColorValue = 255), rgb( 83,  83, 83, 20, names = NULL, maxColorValue = 255), rgb( 83,  83, 83, 20, names = NULL, maxColorValue = 255), rgb( 83,  83, 83, 20, names = NULL, maxColorValue = 255))
 #print(head(data))
 
-levels = c("WT","DPRE2","Hsp26","Hsp26+3xPHO","Vir","2xPRE1","Fab7","en")
+levels = c("WT","DPRE2")
 
 
 for(inFile in inFiles)
@@ -130,7 +129,7 @@ for(inFile in inFiles)
 	print(paste0("### Computation of the one-way ANOVA test ###"), quote=F)
 	print(paste0("In the R code below, the asterisk represents the interaction effect and the main effect of each variable (and all lower-order interactions)."), quote=F)
 	res.aov <- kruskal_test(values ~ condition, data = data)
-	#res.aov <- data %>% anova_test(values ~ condition)
+	#	res.aov <- data %>% anova_test(values ~ condition)
 	print(res.aov, quote=F)
 
 	significantInteraction = res.aov[res.aov$p < 0.05,]
@@ -181,8 +180,8 @@ for(inFile in inFiles)
 	    print(paste0(pair[[1]]," ",pair[[2]]))
 	    subset <- pairwiseTestsCondition[(pairwiseTestsCondition$group1 == pair[[1]] & pairwiseTestsCondition$group2 == pair[[2]]) | (pairwiseTestsCondition$group1 == pair[[2]] & pairwiseTestsCondition$group2 == pair[[1]]),]
 	    print(subset)
-	    padjust = pvaluesFromDEseq2[pvaluesFromDEseq2$condition2 == pair[[2]]]$pvalue
-	    subset$p.adj
+	    #padjust = pvaluesFromDEseq2[pvaluesFromDEseq2$condition2 == pair[[2]]]$pvalue
+	    #subset$p.adj
 	    ypos <- c(ypos,yposStart + 0 * delta)
 	    if(exists("subset_t_test"))
 	    {
@@ -205,6 +204,16 @@ for(inFile in inFiles)
 
     } else {
        print(paste0("The Levene’s test is significant (p = ",checkHomogenityOfVariance$p," < 0.05). Therefore, we cannot assume the homogeneity of variances in the different groups."), quote=F)
+
+       print(paste0("The Welch one-way test is an alternative to the standard one-way ANOVA"), quote=F)
+       print(paste0("in the situation where the homogeneity of variance can’t be assumed (i.e., Levene test is significant)."), quote=F)
+
+       res.aov <- data %>% welch_anova_test(values ~ condition)
+       print(res.aov, quote=F)
+
+       print(paste0("In this case, the Games-Howell post hoc test or pairwise t-tests (with no assumption of equal variances) can be used to compare all possible combinations of group differences."), quote=F)
+
+       pairwiseTestsCondition <- data %>% games_howell_test(values ~ condition)
 	    
     }
     print("", quote=F)	

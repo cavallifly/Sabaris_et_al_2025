@@ -7,10 +7,8 @@ library(dunn.test)
 library(dplyr)
 library(FSA)
 
-inFiles = list.files("./",pattern="scoreMapsk250kexp500_r3000bp_.*_FigS4c.tsv.*")
-#inFiles = c("scoreMapsk250kexp500_r3000bp_.*_Fig4and5.tsv")
+inFiles = list.files("./",pattern="scoreMapsk250kexp500_r3000bp_.*_FigS8c.tsv.*")
 print(inFiles)
-#quit()
 
 subsetting <- "FALSE"
 #subsetting <- "TRUE"
@@ -20,8 +18,7 @@ subsetting <- "FALSE"
 colors=c(rgb( 0,   0,    255, 20, names = NULL, maxColorValue = 255), rgb(83,   83,   83, 20, names = NULL, maxColorValue = 255), rgb(83, 83, 83, 20, names = NULL, maxColorValue = 255), rgb( 83,  83, 83, 20, names = NULL, maxColorValue = 255), rgb( 83,  83, 83, 20, names = NULL, maxColorValue = 255), rgb( 83,  83, 83, 20, names = NULL, maxColorValue = 255))
 #print(head(data))
 
-levels = c("WT","DPRE2")
-
+levels = c("WT","DPRE2","Vir","2xPRE1","Fab7","en")
 
 for(inFile in inFiles)
 {
@@ -36,7 +33,6 @@ for(inFile in inFiles)
     data <- allData
 
     # List of specific comparisons (custom pairs)
-    #custom_pairs <- list(c("Ci_1_wt", paste0("Ci_1_",condition2)), c("Prom_wt", paste0("Prom_",condition2)), c("C1_dprom_wt", paste0("C1_dprom_",condition2)), c("C2_wt", paste0("C2_",condition2)), c("C3_wt", paste0("C3_",condition2)), c("C4_enhA_wt", paste0("C4_enhA_",condition2)), c("C5_Badj_wt", paste0("C5_Badj_",condition2)), c("C6_enhB_wt", paste0("C6_enhB_",condition2)), c("controlPeak1_wt", paste0("controlPeak1_",condition2)), c("controlPeak2_wt", paste0("controlPeak2_",condition2)), c("controlPeak3_wt", paste0("controlPeak3_",condition2)))
     #print(custom_pairs)
     #quit()
 
@@ -69,7 +65,7 @@ for(inFile in inFiles)
    	   theme(axis.text.x = element_text(angle = 60, hjust=1), legend.position = "none")
 
 	
-    outFile <- paste0("violinPlot_",name,".pdf")
+    outFile <- paste0("violinPlot_",name,"_WT.pdf")
     pdf(outFile)
     print(bxp)
     dev.off()
@@ -181,8 +177,8 @@ for(inFile in inFiles)
 	    print(paste0(pair[[1]]," ",pair[[2]]))
 	    subset <- pairwiseTestsCondition[(pairwiseTestsCondition$group1 == pair[[1]] & pairwiseTestsCondition$group2 == pair[[2]]) | (pairwiseTestsCondition$group1 == pair[[2]] & pairwiseTestsCondition$group2 == pair[[1]]),]
 	    print(subset)
-	    #padjust = pvaluesFromDEseq2[pvaluesFromDEseq2$condition2 == pair[[2]]]$pvalue
-	    #subset$p.adj
+	    padjust = pvaluesFromDEseq2[pvaluesFromDEseq2$condition2 == pair[[2]]]$pvalue
+	    subset$p.adj
 	    ypos <- c(ypos,yposStart + 0 * delta)
 	    if(exists("subset_t_test"))
 	    {
@@ -236,7 +232,7 @@ for(inFile in inFiles)
 	   labs(subtitle = get_test_label(res.aov, detailed = TRUE), caption = get_pwc_label(pairwiseTestsCondition)) +
 	   theme(legend.position = "none")
 
-    outFile <- paste0("violinPlot_",name,"_with_stats.pdf")
+    outFile <- paste0("violinPlot_",name,"_WT_with_stats.pdf")
     pdf(outFile)
     print(finalBxp)
     dev.off()	

@@ -1,10 +1,10 @@
 rm -fvr _inFile_list_for_ANOVA
 
 # Panel f
-outFile=scoreMapsk250kexp500_r3000bp_dac_FigS4c.tsv
+outFile=scoreMapsk250kexp500_r3000bp_dac_FigS8c.tsv
 rm -fvr ${outFile}
 
-files="scoreMapsk250kexp500_r3000bp_Fig5_larvae_DWT_pre2dac_pre1dac.tsv scoreMapsk250kexp500_r3000bp_Fig5_LD_DPRE2_pre2dac_pre1dac.tsv"
+files="scoreMapsk250kexp500_r3000bp_FigS8c_larvae_DWT_pre2dac_pre1dac.tsv scoreMapsk250kexp500_r3000bp_FigS8c_LD_DPRE2_pre2dac_pre1dac.tsv scoreMapsk250kexp500_r3000bp_FigS8c_LD_DPRE2Fab7_pre2dac_pre1dac.tsv scoreMapsk250kexp500_r3000bp_FigS8c_LD_DPRE2Virilis_pre2dac_pre1dac.tsv scoreMapsk250kexp500_r3000bp_FigS8c_LD_DPRE2x3end_pre2dac_pre1dac.tsv scoreMapsk250kexp500_r3000bp_FigS8c_LD_DPRE2en_pre2dac_pre1dac.tsv"
 
 for file in $(ls -1 ${files}) ;
 do
@@ -17,4 +17,4 @@ done
 awk '{h[$1]++}END{for(i in h){print i,h[i]}}' ${outFile} | sort -k 1,1n  
 echo
 
-conda run -n DEseq2 Rscript scripts_clean/one-way_ANOVA_FigS4c.R 0
+Rscript scripts_clean/XX_one-way_ANOVA_FigS8c.R 0
