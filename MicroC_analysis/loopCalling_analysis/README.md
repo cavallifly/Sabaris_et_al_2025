@@ -24,7 +24,6 @@ bash ${scriptsDir}/05_check_Nloops_per_FDR_threshold_files.sh
 bash ${scriptsDir}/05_rank_loopDetection_by_FDRperResolution.sh
 bash ${scriptsDir}/05_plot_looping_regions_for_visualScreening.sh
 bash ${scriptsDir}/06_get_accepted_loops_loops.sh
-bash ${scriptsDir}/07_recenter_loops_by_maximum_shamanScore.R
 bash ${scriptsDir}/07_recenter_loops_by_maximum_shamanScore.sh
 ```
 
